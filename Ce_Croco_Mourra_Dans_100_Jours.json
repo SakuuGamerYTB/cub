@@ -1,0 +1,811 @@
+{
+	"title": "Ce Croco Mourra Dans 100 jours",
+	"slug": "croco",
+	"description": "On suit le quotidien d'un crocodile destiné à mourir dans 100 jours.",
+	"artist": "Yuuki Kikuchi",
+	"author": "Yuuki Kikuchi",
+	"cover": "https://meo.comick.pictures/nbnaq.jpg",
+	"completed": true,
+	"chapters": {
+		"1": {
+			"title": "Jour 1",
+			"volume": "1",
+			"last_updated": "1639353600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vddo57b"
+			}
+		},
+		"2": {
+			"title": "Jour 2",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvvrqyx"
+			}
+		},
+		"3": {
+			"title": "Jour 3",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vddq57b"
+			}
+		},
+		"4": {
+			"title": "Jour 4",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvv3qyx"
+			}
+		},
+		"5": {
+			"title": "Jour 5",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqrr327l"
+			}
+		},
+		"6": {
+			"title": "Jour 6",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a99az7l"
+			}
+		},
+		"7": {
+			"title": "Jour 7",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjggjq4j"
+			}
+		},
+		"8": {
+			"title": "Jour 8",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a998z7l"
+			}
+		},
+		"9": {
+			"title": "Jour 9",
+			"volume": "1",
+			"last_updated": "1639958400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45pll5ny5"
+			}
+		},
+		"10": {
+			"title": "Jour 10",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jkaawx78"
+			}
+		},
+		"11": {
+			"title": "Jour 11",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlldn42"
+			}
+		},
+		"12": {
+			"title": "Jour 12",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmwwalyk"
+			}
+		},
+		"13": {
+			"title": "Jour 13",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jj8gyp"
+			}
+		},
+		"14": {
+			"title": "Jour 14",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxxknyd"
+			}
+		},
+		"15": {
+			"title": "Jour 15",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnnwjyr"
+			}
+		},
+		"16": {
+			"title": "Jour 16",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd33gg4x"
+			}
+		},
+		"17": {
+			"title": "Jour 17",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2ee6qyd"
+			}
+		},
+		"18": {
+			"title": "Jour 18",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezzjd4j"
+			}
+		},
+		"19": {
+			"title": "Jour 19",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjggxj4j"
+			}
+		},
+		"20": {
+			"title": "Jour 20",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45pllzqy5"
+			}
+		},
+		"21": {
+			"title": "Jour 21",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqrrv27l"
+			}
+		},
+		"22": {
+			"title": "Jour 22",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjjkoyx"
+			}
+		},
+		"23": {
+			"title": "Jour 23",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqkkwj48"
+			}
+		},
+		"24": {
+			"title": "Jour 24",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrww2qyq"
+			}
+		},
+		"25": {
+			"title": "Jour 25",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrrgmyn"
+			}
+		},
+		"26": {
+			"title": "Jour 26",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw99xm4n"
+			}
+		},
+		"27": {
+			"title": "Jour 27",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmmvj45"
+			}
+		},
+		"28": {
+			"title": "Jour 28",
+			"volume": "1",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km66eb48"
+			}
+		},
+		"29": {
+			"title": "Jour 29",
+			"volume": "1",
+			"last_updated": "1641772800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a99397l"
+			}
+		},
+		"30": {
+			"title": "Jour 30",
+			"volume": "1",
+			"last_updated": "1641772800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jkaavx78"
+			}
+		},
+		"31": {
+			"title": "Jour 31",
+			"volume": "1",
+			"last_updated": "1642032000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxllzn42"
+			}
+		},
+		"32": {
+			"title": "Jour 32",
+			"volume": "1",
+			"last_updated": "1642032000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmwwjlyk"
+			}
+		},
+		"33": {
+			"title": "Jour 33",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jjxgyp"
+			}
+		},
+		"34": {
+			"title": "Jour 34",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxx3nyd"
+			}
+		},
+		"35": {
+			"title": "Jour 35",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnnbjyr"
+			}
+		},
+		"36": {
+			"title": "Jour 36",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd33eg4x"
+			}
+		},
+		"37": {
+			"title": "Jour 37",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2eeqqyd"
+			}
+		},
+		"38": {
+			"title": "Jour 38",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezzwd4j"
+			}
+		},
+		"39": {
+			"title": "Jour 39",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgg2j4j"
+			}
+		},
+		"40": {
+			"title": "Jour 40",
+			"volume": "1",
+			"last_updated": "1642896000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45pll2qy5"
+			}
+		},
+		"41": {
+			"title": "Jour 41",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqrra27l"
+			}
+		},
+		"42": {
+			"title": "Jour 42",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjjloyx"
+			}
+		},
+		"43": {
+			"title": "Jour 43",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqkkvj48"
+			}
+		},
+		"44": {
+			"title": "Jour 44",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwwmqyq"
+			}
+		},
+		"45": {
+			"title": "Jour 45",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrrdmyn"
+			}
+		},
+		"46": {
+			"title": "Jour 46",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe22kpyo"
+			}
+		},
+		"47": {
+			"title": "Jour 47",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownner4p"
+			}
+		},
+		"48": {
+			"title": "Jour 48",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km66db48"
+			}
+		},
+		"49": {
+			"title": "Jour 49",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a99b97l"
+			}
+		},
+		"50": {
+			"title": "Jour 50",
+			"volume": "1",
+			"last_updated": "1643500800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxll8n42"
+			}
+		},
+		"51": {
+			"title": "Jour 51",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmwwxlyk"
+			}
+		},
+		"52": {
+			"title": "Jour 52",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jjvgyp"
+			}
+		},
+		"53": {
+			"title": "Jour 53",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxx9nyd"
+			}
+		},
+		"54": {
+			"title": "Jour 54",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnnrjyr"
+			}
+		},
+		"55": {
+			"title": "Jour 55",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd33lg4x"
+			}
+		},
+		"56": {
+			"title": "Jour 56",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezzdd4j"
+			}
+		},
+		"57": {
+			"title": "Jour 57",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjggej4j"
+			}
+		},
+		"58": {
+			"title": "Jour 58",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdd357b"
+			}
+		},
+		"59": {
+			"title": "Jour 59",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45pll3qy5"
+			}
+		},
+		"60": {
+			"title": "Jour 60",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjjpoyx"
+			}
+		},
+		"61": {
+			"title": "Jour 61",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqkk2j48"
+			}
+		},
+		"62": {
+			"title": "Jour 62",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwwjqyq"
+			}
+		},
+		"63": {
+			"title": "Jour 63",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrrvmyn"
+			}
+		},
+		"64": {
+			"title": "Jour 64",
+			"volume": "1",
+			"last_updated": "1644796800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmm5j45"
+			}
+		},
+		"65": {
+			"title": "Jour 65",
+			"volume": "1",
+			"last_updated": "1646956800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe22vpyo"
+			}
+		},
+		"66": {
+			"title": "Jour 66",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownn9r4p"
+			}
+		},
+		"67": {
+			"title": "Jour 67",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvv9qyx"
+			}
+		},
+		"68": {
+			"title": "Jour 68",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jkaa9x78"
+			}
+		},
+		"69": {
+			"title": "Jour 69",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxllvn42"
+			}
+		},
+		"70": {
+			"title": "Jour 70",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvvgxyx"
+			}
+		},
+		"71": {
+			"title": "Jour 71",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jkaak378"
+			}
+		},
+		"72": {
+			"title": "Jour 72",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxllxd42"
+			}
+		},
+		"73": {
+			"title": "Jour 73",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmwwmayk"
+			}
+		},
+		"74": {
+			"title": "Jour 74",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jj9xyp"
+			}
+		},
+		"75": {
+			"title": "Jour 75",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxxw9yd"
+			}
+		},
+		"76": {
+			"title": "Jour 76",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnnggyr"
+			}
+		},
+		"77": {
+			"title": "Jour 77",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd33dx4x"
+			}
+		},
+		"78": {
+			"title": "Jour 78",
+			"volume": "1",
+			"last_updated": "1645920000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2ee2myd"
+			}
+		},
+		"79": {
+			"title": "Jour 79",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezze54j"
+			}
+		},
+		"80": {
+			"title": "Jour 80",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vddv27b"
+			}
+		},
+		"81": {
+			"title": "Jour 81",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45pllpny5"
+			}
+		},
+		"82": {
+			"title": "Jour 82",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqkkqb48"
+			}
+		},
+		"83": {
+			"title": "Jour 83",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwwrpyq"
+			}
+		},
+		"84": {
+			"title": "Jour 84",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrrwbyn"
+			}
+		},
+		"85": {
+			"title": "Jour 85",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw99wb4n"
+			}
+		},
+		"86": {
+			"title": "Jour 86",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmmdm45"
+			}
+		},
+		"87": {
+			"title": "Jour 87",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe22e3yo"
+			}
+		},
+		"88": {
+			"title": "Jour 88",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownnw24p"
+			}
+		},
+		"89": {
+			"title": "Jour 89",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km66m348"
+			}
+		},
+		"90": {
+			"title": "Jour 90",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvv2xyx"
+			}
+		},
+		"91": {
+			"title": "Jour 91",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jkaag378"
+			}
+		},
+		"92": {
+			"title": "Jour 92",
+			"volume": "1",
+			"last_updated": "1647129600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxllrd42"
+			}
+		},
+		"93": {
+			"title": "Jour 93",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxxl9yd"
+			}
+		},
+		"94": {
+			"title": "Jour 94",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnn5gyr"
+			}
+		},
+		"95": {
+			"title": "Jour 95",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd33xx4x"
+			}
+		},
+		"96": {
+			"title": "Jour 96",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2eegmyd"
+			}
+		},
+		"97": {
+			"title": "Jour 97",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezz854j"
+			}
+		},
+		"98": {
+			"title": "Jour 98",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgg5q4j"
+			}
+		},
+		"99": {
+			"title": "Jour 99",
+			"volume": "1",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdd527b"
+			}
+		},
+		"100": {
+			"title": "Jour 100",
+			"volume": "1",
+			"last_updated": "1647820800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvvmqyx"
+			}
+		}
+	}
+}

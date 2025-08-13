@@ -1,0 +1,170 @@
+{
+  "title": "Umamusume Pretty Derby - Star Blossom",
+  "slug": "star-blossom",
+  "description": "Tsubaki Akeishi est une jeune entraîneuse d'Umamusume japonaise qui rêve de remporter le prestigieux grand prix de l'arc de triomphe, qui n'a jamais été gagné par d'autres que des européens. Lors d'une course, elle remarque le talent d'une jeune coureuse, Sakura Laurel, qui semble bridée par de faibles jambes. Leur rencontre sera-t-elle le premier pas vers l'accomplissement de leur rêve commun ?",
+  "artist": "Hotani Shin",
+  "author": "Monju Saki",
+  "cover": "https://meo.comick.pictures/Nrkk06.jpg",
+  "chapters": {
+    "1": {
+      "title": "Il y a un rêve que je veux atteindre avec toi",
+      "volume": "1",
+      "last_updated": "1686787200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/n87wd3zab4x"
+      }
+    },
+    "2": {
+      "title": "Jambes de verre",
+      "volume": "1",
+      "last_updated": "1686787200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/lqye2ejxkyd"
+      }
+    },
+    "3": {
+      "title": "Préparation de course",
+      "volume": "1",
+      "last_updated": "1686787200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/xny8vdpad7b"
+      }
+    },
+    "4": {
+      "title": "Trois furlongs",
+      "volume": "1",
+      "last_updated": "1686787200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/bp45plkggy5"
+      }
+    },
+    "5": {
+      "title": "Tout ça grâce à toi",
+      "volume": "1",
+      "last_updated": "1686787200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez6xv4j"
+      }
+    },
+    "6": {
+      "title": "Banquet de la victoire",
+      "volume": "1",
+      "last_updated": "1697414400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9zk87l"
+      }
+    },
+    "7": {
+      "title": "Faire tes débuts",
+      "volume": "1",
+      "last_updated": "1697414400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdmgav45"
+      }
+    },
+    "8": {
+      "title": "Résolution inébranlable",
+      "volume": "1",
+      "last_updated": "1697414400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2g3kyo"
+      }
+    },
+    "9": {
+      "title": "Travail d'équipe",
+      "volume": "2",
+      "last_updated": "1700611200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgvnb4j"
+      }
+    },
+    "10": {
+      "title": "La Classe Maiden",
+      "volume": "2",
+      "last_updated": "1704931200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownzm94p"
+      }
+    },
+    "11": {
+      "title": "Il n'y aura qu'une vainqueure",
+      "volume": "2",
+      "last_updated": "1704931200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvzqoyx"
+      }
+    },
+    "12": {
+      "title": "Amuse-toi, et soit fidèle à toi même",
+      "volume": "2",
+      "last_updated": "1704931200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkaole78"
+      }
+    },
+    "13": {
+      "title": "Winning Live",
+      "volume": "2",
+      "last_updated": "1706140800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwlknyk"
+      }
+    },
+    "14": {
+      "title": "Pause",
+      "volume": "2",
+      "last_updated": "1710720000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlgwk42"
+      }
+    },
+    "15": {
+      "title": "Snow In Hazard",
+      "volume": "2",
+      "last_updated": "1716422400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnke3yr"
+      }
+    },
+    "16": {
+      "title": "Championne de la catégorie Junior",
+      "volume": "2",
+      "last_updated": "1720051200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxzdjyd"
+      }
+    },
+    "17": {
+      "title": "Ce dont tu as vraiment besoin",
+      "volume": "2",
+      "last_updated": "1748631348",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqrgvlx42"
+      }
+    },
+    "18": {
+      "title": "100% de tes capacités",
+      "volume": "2",
+      "last_updated": "1749305828",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp4558dnv45"
+      }
+    },
+    "19": {
+      "title": "La dernière ligne droite",
+      "volume": "3",
+      "last_updated": "1749741034",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249pjb527n"
+      }
+    },
+    "14.5": {
+      "title": "Tenue de concert",
+      "volume": "2",
+      "last_updated": "1710720000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6xjm48"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"title": "Among Us",
+	"slug": "among-us",
+	"description": "Mais qui est l'imposteur ? Le one-shot tiré du célèbre jeu du même nom !",
+	"artist": "InnerSloth, Berabou",
+	"author": "InnerSloth, Berabou",
+	"cover": "https://meo.comick.pictures/JR8jb.jpg",
+	"os": true,
+	"chapters": {
+		"0": {
+			"title": "Among Us",
+			"volume": "",
+			"last_updated": "1647990000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxllmx42"
+			}
+		}
+	}
+}

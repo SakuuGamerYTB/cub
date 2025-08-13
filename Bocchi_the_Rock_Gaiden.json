@@ -1,0 +1,106 @@
+{
+	"title": "Bocchi the Rock! Gaiden - Hiroi Kikuri no Fukazake Nikki",
+	"slug":"kikuri-the-rock",
+	"description": "Kikuri Hiroi, 25 ans, couverte de dettes, bassiste et chanteuse du groupe de rock psychédélique Sick Hack, chérissant plus sa basse et l'alcool que sa propre vie et résidant dans un vieil appartement délabré sans salle de bain au sein d'un immeuble de 52 ans. Voici le portrait de l'héroïne du premier spin-off officiel de Bocchi the Rock!",
+	"artist": "Kumicho",
+	"author": "Kumicho",
+	"cover": "https://meo.comick.pictures/W8Ebl4.jpg",
+	"chapters": {
+		"1": {
+			"title": "1",
+			"volume": "1",
+			"last_updated": "1690848000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqkxb948"
+			}
+		},
+		"2": {
+			"title": "2",
+			"volume": "1",
+			"last_updated": "1690848000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6agq48"
+			}
+		},
+		"3": {
+			"title": "3",
+			"volume": "1",
+			"last_updated": "1693180800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrw9b3yq"
+			}
+		},
+		"4": {
+			"title": "4",
+			"volume": "1",
+			"last_updated": "1695254400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wr2e2yn"
+			}
+		},
+		"5": {
+			"title": "5",
+			"volume": "1",
+			"last_updated": "1695859200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9qjj7l"
+			}
+		},
+		"6": {
+			"title": "6",
+			"volume": "1",
+			"last_updated": "1704067200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownakd4p"
+			}
+		},
+		"7": {
+			"title": "7",
+			"volume": "1",
+			"last_updated": "1711324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlabo42"
+			}
+		},
+		"8": {
+			"title": "8",
+			"volume": "2",
+			"last_updated": "1711324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9vaz4n"
+			}
+		},
+		"9": {
+			"title": "9",
+			"volume": "2",
+			"last_updated": "1711324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jkaez278"
+			}
+		},
+		"10": {
+			"title": "10",
+			"volume": "2",
+			"last_updated": "1722470400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmljn45"
+			}
+		},
+		"11": {
+			"title": "11",
+			"volume": "2",
+			"last_updated": "1722470400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgva8pyx"
+			}
+		},
+		"12": {
+			"title": "12",
+			"volume": "2",
+			"last_updated": "1751299402",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyv9jw8978"
+			}
+		}
+	}
+}

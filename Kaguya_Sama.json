@@ -1,0 +1,2299 @@
+{
+	"title": "Kaguya-sama : Love is War",
+	"slug": "kaguya-sama",
+	"description": "Kaguya Shinomiya, vice-présidente du conseil des élèves ne voit pas l'amour comme tout le monde. Pour elle, c'est un combat qu'elle doit livrer avec la personne dont elle est amoureuse, Miyuki Shirogane, qui n'est autre que le président du conseil des élèves et qui partage une vision de l'amour assez similaire. Bien que tous les deux éprouvent des sentiments réciproques, leur orgueil fait que le premier qui osera se déclarer devra alors se soumettre à l'autre...",
+	"artist": "Aka Akasaka",
+	"author": "Aka Akasaka",
+	"cover": "https://meo.comick.pictures/0Zo3kl.jpg",
+	"completed": true,
+	"chapters": {
+		"1": {
+			"title": "Je veux qu'on m'invite au ciné",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/md7ownrd94p"
+			}
+		},
+		"2": {
+			"title": "Je veux jouer au pouilleux !",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/wl7lgvjloyx"
+			}
+		},
+		"3": {
+			"title": "Kaguya ne sait pas grand chose",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9rydmw83nyk"
+			}
+		},
+		"4": {
+			"title": "Shirogane veut pouvoir répondre",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ljyqxl3mk42"
+			}
+		},
+		"5": {
+			"title": "Kaguya veut manger !",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/6eyr9jw36yp"
+			}
+		},
+		"6": {
+			"title": "Miyuki Shirogane veut se cacher",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ej7mwxqjjyd"
+			}
+		},
+		"7": {
+			"title": "Fujiwara veut partir en voyage !",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/pg73gnx23yr"
+			}
+		},
+		"8": {
+			"title": "Kaguya veut qu’on lui réponde",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/lqye2e5wkyd"
+			}
+		},
+		"9": {
+			"title": "Kaguya veut marcher",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/qb4zezvlv4j"
+			}
+		},
+		"10": {
+			"title": "Le conseil des élèves veut jouer un mauvais tour",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/5xy2a9vx87l"
+			}
+		},
+		"11": {
+			"title": "Kaguya veut échanger",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/bp45plbjgy5"
+			}
+		},
+		"12": {
+			"title": "Kaguya veut qu’on l’arrête",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/o24aqredw7l"
+			}
+		},
+		"13": {
+			"title": "Kaguya veut être indirecte",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/a846wjbqvyx"
+			}
+		},
+		"14": {
+			"title": "Shirogane n’a rien fait",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/agyvqk8az48"
+			}
+		},
+		"15": {
+			"title": "Shirogane veut prendre la fuite",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/m9yxrwalkyq"
+			}
+		},
+		"16": {
+			"title": "Kaguya veut bien faire",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9249wrb5ayn"
+			}
+		},
+		"17": {
+			"title": "Kaguya veut adorer",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ne7bdmzov45"
+			}
+		},
+		"18": {
+			"title": "Le conseil des élèves veut parler",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/dl7pe2mwkyo"
+			}
+		},
+		"19": {
+			"title": "Kaguya veut être envoyée",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/na7km6lqm48"
+			}
+		},
+		"20": {
+			"title": "Miyuki Shirogane veut parler",
+			"volume": "2",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/5xy2a9vm87l"
+			}
+		},
+		"21": {
+			"title": "Kaguya veut avoir tenu",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/wl7lgvjdoyx"
+			}
+		},
+		"22": {
+			"title": "Chika Fujiwara veut être mangée",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/vj4jka2je78"
+			}
+		},
+		"23": {
+			"title": "Miyuki Shirogane veut montrer ce qu'il sait faire",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ljyqxl3ek42"
+			}
+		},
+		"24": {
+			"title": "Yu Ishigami veut survivre",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9rydmw8onyk"
+			}
+		},
+		"25": {
+			"title": "Kaguya veut qu'on la remarque",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/6eyr9jwz6yp"
+			}
+		},
+		"26": {
+			"title": "Miyuki Shirogane veut travailler",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ej7mwxqrjyd"
+			}
+		},
+		"27": {
+			"title": "Kaguya veut supporter",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/n87wd352b4x"
+			}
+		},
+		"28": {
+			"title": "Chika Fujiwara veut tester",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/lqye2e5okyd"
+			}
+		},
+		"29": {
+			"title": "Kaguya veut qu'on la rejoigne",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/qb4zezvqv4j"
+			}
+		},
+		"30": {
+			"title": "Ai Hayasaka veut defendre",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/qe4gjg6kb4j"
+			}
+		},
+		"31": {
+			"title": "Miyuki Shirogane ne peut se permettre de perdre",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/xny8vdk8d7b"
+			}
+		},
+		"32": {
+			"title": "Kaguya veut se faire haïr",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/bp45plbegy5"
+			}
+		},
+		"33": {
+			"title": "Kaguya veut offrir",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/a846wjbzvyx"
+			}
+		},
+		"34": {
+			"title": "Chika Fujiwara veut rendre visite",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/o24aqreow7l"
+			}
+		},
+		"35": {
+			"title": "A propos de Kaguya Shinomiya",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/m9yxrwabkyq"
+			}
+		},
+		"36": {
+			"title": "Miyuki Shirogane veut chanter",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9249wrbeayn"
+			}
+		},
+		"37": {
+			"title": "Kaguya ne cédera pas",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9p4nw9dal4n"
+			}
+		},
+		"38": {
+			"title": "Kaguya veut pardonner",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ne7bdmzjv45"
+			}
+		},
+		"39": {
+			"title": "Kaguya veut se faire appeler",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/dl7pe2mbkyo"
+			}
+		},
+		"40": {
+			"title": "Miyuki Shirogane veut partir en voyage",
+			"volume": "4",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/na7km6lgm48"
+			}
+		},
+		"41": {
+			"title": "Miyuki Shirogane veut rencontrer",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/vj4jka2ze78"
+			}
+		},
+		"42": {
+			"title": "Ai Hayasaka veut faire trempette",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ljyqxl3bk42"
+			}
+		},
+		"43": {
+			"title": "Chika Fujiwara a vraiment envie de manger",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/6eyr9jwb6yp"
+			}
+		},
+		"44": {
+			"title": "Je n'entends pas les feux d'artifice (1)",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9rydmw8dnyk"
+			}
+		},
+		"45": {
+			"title": "Je n'entends pas les feux d'artifice (2)",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ej7mwxq5jyd"
+			}
+		},
+		"46": {
+			"title": "Kaguya ne veut pas fuir",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/pg73gnxq3yr"
+			}
+		},
+		"47": {
+			"title": "Kaguya veut choisir",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/n87wd35bb4x"
+			}
+		},
+		"48": {
+			"title": "Le conseil des élèves n'est pas alpha",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/qb4zezvbv4j"
+			}
+		},
+		"49": {
+			"title": "Miyuki Shirogane veut préparer",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/lqye2e5rkyd"
+			}
+		},
+		"50": {
+			"title": "Nagisa Kashiwagi n'arrive plus à regarder",
+			"volume": "5",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/xny8vdkwd7b"
+			}
+		},
+		"51": {
+			"title": "Kaguya veut célébrer",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/qe4gjg63b4j"
+			}
+		},
+		"52": {
+			"title": "Kaguya veut demander",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/bp45plbrgy5"
+			}
+		},
+		"53": {
+			"title": "Kaguya veut offrir",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/o24aqrelw7l"
+			}
+		},
+		"54": {
+			"title": "Chika Fujiwara veut confirmer",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/agyvqk8pz48"
+			}
+		},
+		"55": {
+			"title": "C'est ainsi que Yû Ishigami ferma les yeux",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/m9yxrwapkyq"
+			}
+		},
+		"56": {
+			"title": "Miyuki Shirogane veut contempler",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9249wrbnayn"
+			}
+		},
+		"57": {
+			"title": "Kaguya veut épouser",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9p4nw9dol4n"
+			}
+		},
+		"58": {
+			"title": "Ai Hayasaka veut séduire",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ne7bdmz9v45"
+			}
+		},
+		"59": {
+			"title": "Le 67ème conseil des élèves",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/dl7pe2mpkyo"
+			}
+		},
+		"60": {
+			"title": "60",
+			"volume": "6",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/md7ownrp94p"
+			}
+		},
+		"61": {
+			"title": "Kaguya veut une déclaration",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/na7km6lpm48"
+			}
+		},
+		"62": {
+			"title": "Miyuki Shirogane veut dessiner",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/5xy2a9v587l"
+			}
+		},
+		"63": {
+			"title": "Miyuki Shirogane veut être populaire",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/wl7lgvjpoyx"
+			}
+		},
+		"64": {
+			"title": "Nagisa Kashiwagi veut consoler",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ljyqxl3pk42"
+			}
+		},
+		"65": {
+			"title": "Miko Iino veut redresser",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/wl7lgvjp6yx"
+			}
+		},
+		"66": {
+			"title": "Kaguya veut éliminer",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/vj4jka2p578"
+			}
+		},
+		"67": {
+			"title": "On ne peut rire de Miko Iino",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ljyqxl3pe42"
+			}
+		},
+		"68": {
+			"title": "Je veux faire sourire Miko Iino",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/9rydmw89dyk"
+			}
+		},
+		"69": {
+			"title": "Kaguya n'a pas été appelée",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/6eyr9jwkkyp"
+			}
+		},
+		"70": {
+			"title": "Kaguya veut déshabiller",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/ej7mwxqpqyd"
+			}
+		},
+		"71": {
+			"title": "Kaguya veut produire",
+			"volume": "8",
+			"last_updated": "1550188800",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/agyvqk8ej48"
+			}
+		},
+		"72": {
+			"title": "72",
+			"volume": "8",
+			"last_updated": "1550188800",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/9p4nw9dlm4n"
+			}
+		},
+		"73": {
+			"title": "Shirogane Miyuki veut lire",
+			"volume": "8",
+			"last_updated": "1553472000",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/9249wrbjmyn"
+			}
+		},
+		"74": {
+			"title": "74",
+			"volume": "8",
+			"last_updated": "1555804800",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/ne7bdmzxj45"
+			}
+		},
+		"75": {
+			"title": "75",
+			"volume": "8",
+			"last_updated": "1555804800",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/md7ownrjr4p"
+			}
+		},
+		"76": {
+			"title": "76",
+			"volume": "8",
+			"last_updated": "1555804800",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/m9yxrwagqyq"
+			}
+		},
+		"77": {
+			"title": "77",
+			"volume": "8",
+			"last_updated": "1557532800",
+			"groups": {
+				"Fukushuu No Yuusha": "/proxy/api/imgchest/chapter/5xy2a9vl97l"
+			}
+		},
+		"78": {
+			"title": "Kaguya n'est pas effrayée",
+			"volume": "8",
+			"last_updated": "1601596800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnx83yr"
+			}
+		},
+		"79": {
+			"title": "Kaguya veut être examinée",
+			"volume": "8",
+			"last_updated": "1601596800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2e5zkyd"
+			}
+		},
+		"80": {
+			"title": "Ainsi, Yu Ishigami ferma les yeux, partie 2",
+			"volume": "8",
+			"last_updated": "1601596800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezvrv4j"
+			}
+		},
+		"81": {
+			"title": "Kaguya veut toucher",
+			"volume": "9",
+			"last_updated": "1601683200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg68b4j"
+			}
+		},
+		"82": {
+			"title": "Kaguya ne refusera pas",
+			"volume": "9",
+			"last_updated": "1601683200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plbngy5"
+			}
+		},
+		"83": {
+			"title": "Kei Shirogane ne peut pas le dire",
+			"volume": "9",
+			"last_updated": "1601683200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqremw7l"
+			}
+		},
+		"84": {
+			"title": "Miyuki Shirogane veut danser",
+			"volume": "9",
+			"last_updated": "1601683200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdk9d7b"
+			}
+		},
+		"85": {
+			"title": "Kobachi Osaragi veut superviser",
+			"volume": "9",
+			"last_updated": "1601683200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjb9vyx"
+			}
+		},
+		"86": {
+			"title": "Monsieur Shirogane veut des compliments",
+			"volume": "9",
+			"last_updated": "1602115200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwa5kyq"
+			}
+		},
+		"87": {
+			"title": "La fête sportive de Shûchiin",
+			"volume": "9",
+			"last_updated": "1602115200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8gz48"
+			}
+		},
+		"88": {
+			"title": "Ainsi, Yu Ishigami ferma les yeux, partie 3",
+			"volume": "9",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9dql4n"
+			}
+		},
+		"89": {
+			"title": "Miyuki Shirogane et Yu Ishigami",
+			"volume": "9",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmzrv45"
+			}
+		},
+		"90": {
+			"title": "Kyoko Ootomo ne réalise pas",
+			"volume": "9",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6l2m48"
+			}
+		},
+		"91": {
+			"title": "Chika Fujiwara veut le faire gonfler",
+			"volume": "9",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2mrkyo"
+			}
+		},
+		"92": {
+			"title": "Je veux faire rougir Kaguya",
+			"volume": "10",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2mzpyo"
+			}
+		},
+		"93": {
+			"title": "Kaguya veut le faire sortir",
+			"volume": "10",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl3dn42"
+			}
+		},
+		"94": {
+			"title": "Kaguya veut interrompre",
+			"volume": "10",
+			"last_updated": "1602201600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxwjyr"
+			}
+		},
+		"95": {
+			"title": "Miko Iino veut s'apaiser",
+			"volume": "10",
+			"last_updated": "1602288000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35gg4x"
+			}
+		},
+		"96": {
+			"title": "Kaguya veut le nourrir",
+			"volume": "10",
+			"last_updated": "1602288000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka2wx78"
+			}
+		},
+		"97": {
+			"title": "Nagisa Kashiwagi veut le mettre à mort",
+			"volume": "10",
+			"last_updated": "1602288000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvjmqyx"
+			}
+		},
+		"98": {
+			"title": "Maki Shijo a envie d'agir",
+			"volume": "10",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6lwb48"
+			}
+		},
+		"99": {
+			"title": "Miyuki Shirogane veut qu'on lui fasse confiance",
+			"volume": "10",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw8alyk"
+			}
+		},
+		"100": {
+			"title": "Le BDE veut être photographié",
+			"volume": "10",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdko57b"
+			}
+		},
+		"101": {
+			"title": "Le BDE va obtenir cette photo de groupe",
+			"volume": "10",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jw8gyp"
+			}
+		},
+		"102": {
+			"title": "Kaguya ne réalise pas",
+			"volume": "11",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2e56qyd"
+			}
+		},
+		"103": {
+			"title": "Miyuki Shirogane veut méditer",
+			"volume": "11",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxqknyd"
+			}
+		},
+		"104": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ _La coquille de l'hirondelle_ (1ère partie)",
+			"volume": "11",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6xj4j"
+			}
+		},
+		"105": {
+			"title": "Yu Ishigami veut se montrer digne",
+			"volume": "11",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjbkoyx"
+			}
+		},
+		"106": {
+			"title": "Chika Fujiwara veut faire une soirée pyjama",
+			"volume": "11",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrbgmyn"
+			}
+		},
+		"107": {
+			"title": "Fujiwara Chika veut garder la cadence",
+			"volume": "11",
+			"last_updated": "1602979200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9dxm4n"
+			}
+		},
+		"108": {
+			"title": "Ai Hayasaka veut dire quelque chose",
+			"volume": "11",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmzvj45"
+			}
+		},
+		"109": {
+			"title": "Maki Shijo veut demander de l'aide",
+			"volume": "11",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6leb48"
+			}
+		},
+		"110": {
+			"title": "Yu Ishigami veut discuter",
+			"volume": "11",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9v397l"
+			}
+		},
+		"111": {
+			"title": "Le BDE veut aller de l'avant",
+			"volume": "11",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownrxr4p"
+			}
+		},
+		"112": {
+			"title": "Miyuki Shirogane veut qu'elle se déclare, partie 1",
+			"volume": "12",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2m9pyo"
+			}
+		},
+		"113": {
+			"title": "Miyuki Shirogane veut qu'elle se déclare, partie 2",
+			"volume": "12",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvj3xyx"
+			}
+		},
+		"114": {
+			"title": "Miyuki Shirogane veut qu'elle se déclare, partie 3",
+			"volume": "12",
+			"last_updated": "1603065600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vbz7l"
+			}
+		},
+		"115": {
+			"title": "Miko Iino veut ne peut pas aimer, partie 1",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxq39yd"
+			}
+		},
+		"116": {
+			"title": "Les élèves veulent parler du festival culturel",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw8jayk"
+			}
+		},
+		"117": {
+			"title": "Chika Fujiwara veut se battre",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxbgyr"
+			}
+		},
+		"118": {
+			"title": "Miyuki Shirogane veut tout faire péter",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jwxxyp"
+			}
+		},
+		"119": {
+			"title": "Kei Shirogane veut se montrer",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35ex4x"
+			}
+		},
+		"120": {
+			"title": "À propos de Kaguya Shinomiya, partie 2",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezvw54j"
+			}
+		},
+		"121": {
+			"title": "Printemps de première année",
+			"volume": "12",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2e5qmyd"
+			}
+		},
+		"122": {
+			"title": "Kaguya veut se déclarer",
+			"volume": "13",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdkq27b"
+			}
+		},
+		"123": {
+			"title": "Le festival culturel de Kaguya",
+			"volume": "13",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg62q4j"
+			}
+		},
+		"124": {
+			"title": "Le festival culturel de Yû Ishigami",
+			"volume": "13",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plb2ny5"
+			}
+		},
+		"125": {
+			"title": "Kozue Makihara veut jouer",
+			"volume": "13",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqread7l"
+			}
+		},
+		"126": {
+			"title": "Chika Fujiwara veut démasquer",
+			"volume": "13",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8vb48"
+			}
+		},
+		"127": {
+			"title": "Le festival culturel de Miyuki Shirogane",
+			"volume": "13",
+			"last_updated": "1603152000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwampyq"
+			}
+		},
+		"128": {
+			"title": "Kaguya veut les abattre",
+			"volume": "13",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9d3b4n"
+			}
+		},
+		"129": {
+			"title": "Miyuki Shirogane veut qu'elle se déclare, partie 4",
+			"volume": "13",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2mk3yo"
+			}
+		},
+		"130": {
+			"title": "Tsubame Koyasu veut dire non",
+			"volume": "13",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmz2m45"
+			}
+		},
+		"131": {
+			"title": "Miyuki Shirogane veut qu'elle se déclare, partie 5",
+			"volume": "13",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvj9xyx"
+			}
+		},
+		"132": {
+			"title": "Kaguya veut se déclarer, partie 2",
+			"volume": "14",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownre24p"
+			}
+		},
+		"133": {
+			"title": "Kaguya veut se déclarer, partie 3",
+			"volume": "14",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6ld348"
+			}
+		},
+		"134": {
+			"title": "Double déclaration, partie 1",
+			"volume": "14",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka29378"
+			}
+		},
+		"135": {
+			"title": "Double déclaration, partie 2",
+			"volume": "14",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vdz7l"
+			}
+		},
+		"136": {
+			"title": "Double déclaration, partie 3",
+			"volume": "14",
+			"last_updated": "1603238400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl3vd42"
+			}
+		},
+		"137": {
+			"title": "Fête de clôture du festival d'Hoshin",
+			"volume": "14",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxq99yd"
+			}
+		},
+		"138": {
+			"title": "Kaguya veut expliquer",
+			"volume": "14",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jwvxyp"
+			}
+		},
+		"139": {
+			"title": "Miyuki Shirogane veut discuter",
+			"volume": "14",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35lx4x"
+			}
+		},
+		"140": {
+			"title": "Miko Iino veut parler",
+			"volume": "14",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdk327b"
+			}
+		},
+		"141": {
+			"title": "À propos de Kaguya Shinomiya, partie 3",
+			"volume": "14",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxrgyr"
+			}
+		},
+		"142": {
+			"title": "Concernant Kaguya Shinomiya (partie 4)",
+			"volume": "15",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6eq4j"
+			}
+		},
+		"143": {
+			"title": "Kaguya veut se faire remarquer (glace)",
+			"volume": "15",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezvd54j"
+			}
+		},
+		"144": {
+			"title": "Kaguya veut pardonner (glace)",
+			"volume": "15",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjbpzyx"
+			}
+		},
+		"145": {
+			"title": "Kaguya veut manger (Glace)",
+			"volume": "15",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqre3d7l"
+			}
+		},
+		"146": {
+			"title": "Nos masques (Kaguya, partie 1)",
+			"volume": "15",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plb3ny5"
+			}
+		},
+		"147": {
+			"title": "Nos masques (Shirogane, partie 1)",
+			"volume": "15",
+			"last_updated": "1603324800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk82b48"
+			}
+		},
+		"148": {
+			"title": "Kaguya veut se déclarer (glace)",
+			"volume": "15",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwajpyq"
+			}
+		},
+		"149": {
+			"title": "Kaguya pense que ça va",
+			"volume": "15",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9dnb4n"
+			}
+		},
+		"150": {
+			"title": "Une romance normale",
+			"volume": "15",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2mv3yo"
+			}
+		},
+		"151": {
+			"title": "Le premier baiser est éternel",
+			"volume": "15",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownr924p"
+			}
+		},
+		"152": {
+			"title": "Nagisa Kashiwagi veut cacher",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvjgxyx"
+			}
+		},
+		"153": {
+			"title": "Le cauri de l'hirondelle (glace)",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vaz7l"
+			}
+		},
+		"154": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ Le cauri de l'hirondelle (partie 2)",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka2k378"
+			}
+		},
+		"155": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ Le cauri de l'hirondelle (partie 3)",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6lo348"
+			}
+		},
+		"156": {
+			"title": "Miko Iino ne peut aimer (partie 2)",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw8mayk"
+			}
+		},
+		"157": {
+			"title": "Chika Fujiwara veut vraiment, vraiment manger",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxqw9yd"
+			}
+		},
+		"158": {
+			"title": "Miko Iino ne peut aimer, Partie 3",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jw9xyp"
+			}
+		},
+		"159": {
+			"title": "Kaguya… Partie 1",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxggyr"
+			}
+		},
+		"160": {
+			"title": "Kaguya… Partie 2",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35dx4x"
+			}
+		},
+		"161": {
+			"title": "Maki Shijo cherche l’illumination",
+			"volume": "16",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2e52myd"
+			}
+		},
+		"162": {
+			"title": "BDE _ Nouvelle partie",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdkv27b"
+			}
+		},
+		"163": {
+			"title": "Chika Fujiwara veut surprendre",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjbwzyx"
+			}
+		},
+		"164": {
+			"title": "Chika Fujiwara veut aimer",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6jq4j"
+			}
+		},
+		"165": {
+			"title": "Aîné et Cadette, Partie 1",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8qb48"
+			}
+		},
+		"166": {
+			"title": "Yu Ishigami veut se faire capter",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plbpny5"
+			}
+		},
+		"167": {
+			"title": "Nagisa Kashiwagi veut la faire avouer",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqreqd7l"
+			}
+		},
+		"168": {
+			"title": "Première rencontre",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9dwb4n"
+			}
+		},
+		"169": {
+			"title": "L’abécédaire des Hommes et des Femmes, Partie 1",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwarpyq"
+			}
+		},
+		"170": {
+			"title": "Miyuki Shirogane veut parler",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2me3yo"
+			}
+		},
+		"171": {
+			"title": "On doit parler du club de jeu de plateau",
+			"volume": "17",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownrw24p"
+			}
+		},
+		"172": {
+			"title": "Kaguya veut faire confiance",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9v8z7l"
+			}
+		},
+		"173": {
+			"title": "Chika Fujiwara veut nouer",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl3rd42"
+			}
+		},
+		"174": {
+			"title": "Miko Iino ne peut aimer, partie 4",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw86ayk"
+			}
+		},
+		"175": {
+			"title": "Kaguya veut son attention",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvj2xyx"
+			}
+		},
+		"176": {
+			"title": "Yu Ishigami veut se mettre en valeur",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka2g378"
+			}
+		},
+		"177": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ Le cauri de l’Hirondelle (Partie 4)",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jwmxyp"
+			}
+		},
+		"178": {
+			"title": "Aîné et Cadette, partie 2",
+			"volume": "18",
+			"last_updated": "1605139200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnx5gyr"
+			}
+		},
+		"179": {
+			"title": "Le quotidien d'Hayasaka Ai",
+			"volume": "18",
+			"last_updated": "1605139200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxql9yd"
+			}
+		},
+		"180": {
+			"title": "Miyuki Shirogane veut se promener",
+			"volume": "18",
+			"last_updated": "1605139200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35xx4x"
+			}
+		},
+		"181": {
+			"title": "Miyuki Shirogane veut la garder pour lui",
+			"volume": "18",
+			"last_updated": "1605139200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg65q4j"
+			}
+		},
+		"182": {
+			"title": "Les amis d’Hayasaka Ai, Partie 1",
+			"volume": "19",
+			"last_updated": "1605225600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdk527b"
+			}
+		},
+		"183": {
+			"title": "Les amis d’Hayasaka Ai, Partie 2",
+			"volume": "19",
+			"last_updated": "1605225600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plb5ny5"
+			}
+		},
+		"184": {
+			"title": "Les amis d’Hayasaka Ai, Partie 3",
+			"volume": "19",
+			"last_updated": "1605225600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqre8d7l"
+			}
+		},
+		"185": {
+			"title": "Les amis d’Hayasaka Ai, Partie 4",
+			"volume": "19",
+			"last_updated": "1605225600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjb5zyx"
+			}
+		},
+		"186": {
+			"title": "Les amis d’Hayasaka Ai, Partie 5",
+			"volume": "19",
+			"last_updated": "1605225600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwa8pyq"
+			}
+		},
+		"187": {
+			"title": "Les amis d’Hayasaka Ai et de Shinomiya Kaguya",
+			"volume": "19",
+			"last_updated": "1605312000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk89b48"
+			}
+		},
+		"188": {
+			"title": "Miko Iino ne peut pas lui répondre",
+			"volume": "19",
+			"last_updated": "1605398400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmzkm45"
+			}
+		},
+		"189": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ Le Bol en pierre des complaintes de Bouddha",
+			"volume": "19",
+			"last_updated": "1605398400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2md3yo"
+			}
+		},
+		"190": {
+			"title": "Aîné et Cadette, Partie 3 & Miko Iino ne peut aimer, Partie 5",
+			"volume": "19",
+			"last_updated": "1605398400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownrq24p"
+			}
+		},
+		"191": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ Le cauri de l’Hirondelle (Partie 5)",
+			"volume": "19",
+			"last_updated": "1605398400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvjoxyx"
+			}
+		},
+		"192": {
+			"title": "Kobachi Osaragi veille",
+			"volume": "20",
+			"last_updated": "1605398400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9v2z7l"
+			}
+		},
+		"193": {
+			"title": "Miyuki Shirogane s'inquiète",
+			"volume": "20",
+			"last_updated": "1605484800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6lv348"
+			}
+		},
+		"194": {
+			"title": "La St-Valentin à Shûchin, Partie 1",
+			"volume": "20",
+			"last_updated": "1605484800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka28378"
+			}
+		},
+		"195": {
+			"title": "La St-Valentin à Shûchin, Partie 2",
+			"volume": "20",
+			"last_updated": "1605571200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9v237l"
+			}
+		},
+		"196": {
+			"title": "Hayasaka Ai veut trouver",
+			"volume": "20",
+			"last_updated": "1605571200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl32d42"
+			}
+		},
+		"197": {
+			"title": "La famille Shirogane veut déménager",
+			"volume": "20",
+			"last_updated": "1605657600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka28978"
+			}
+		},
+		"198": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ Le cauri de l’Hirondelle (Partie 6)",
+			"volume": "20",
+			"last_updated": "1605657600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw8r6yk"
+			}
+		},
+		"199": {
+			"title": "Kaguya veut être entendue",
+			"volume": "20",
+			"last_updated": "1605744000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl32x42"
+			}
+		},
+		"200": {
+			"title": "Chika Fujiwara veut célébrer",
+			"volume": "20",
+			"last_updated": "1605744000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jwllyp"
+			}
+		},
+		"201": {
+			"title": "Tsubame Koyasu veut réécrire",
+			"volume": "20",
+			"last_updated": "1605916800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxloyr"
+			}
+		},
+		"202": {
+			"title": "L’académie de Shûchiin veut les voir grandir",
+			"volume": "21",
+			"last_updated": "1605916800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35mq4x"
+			}
+		},
+		"203": {
+			"title": "Tsubame Koyasu et Ishigami Yû (Partie 1)",
+			"volume": "21",
+			"last_updated": "1605916800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezvnl4j"
+			}
+		},
+		"204": {
+			"title": "Tsubame Koyasu et Ishigami Yû (Partie 2)",
+			"volume": "21",
+			"last_updated": "1606003200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6wk4j"
+			}
+		},
+		"205": {
+			"title": "Chika Fujiwara veut le faire rire",
+			"volume": "21",
+			"last_updated": "1606003200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdkmw7b"
+			}
+		},
+		"206": {
+			"title": "Miyuki Shirogane n'est pas déprimant",
+			"volume": "21",
+			"last_updated": "1606089600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plbqvy5"
+			}
+		},
+		"207": {
+			"title": "Kei Shirogane veut accueillir",
+			"volume": "21",
+			"last_updated": "1606176000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjbd2yx"
+			}
+		},
+		"208": {
+			"title": "La famille Shirogane",
+			"volume": "21",
+			"last_updated": "1606176000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8rk48"
+			}
+		},
+		"209": {
+			"title": "Rêve",
+			"volume": "21",
+			"last_updated": "1606348800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwa36yq"
+			}
+		},
+		"210": {
+			"title": "Chika Fujiwara veut vraiment, vraiment manger",
+			"volume": "21",
+			"last_updated": "1607126400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrb38yn"
+			}
+		},
+		"211": {
+			"title": "Kaguya veut avoir une place",
+			"volume": "21",
+			"last_updated": "1607558400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmzlg45"
+			}
+		},
+		"212": {
+			"title": "Mikado Shijo veut s'intégrer",
+			"volume": "22",
+			"last_updated": "1608854400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6law48"
+			}
+		},
+		"213": {
+			"title": "Aîné et Cadette, Partie 4",
+			"volume": "22",
+			"last_updated": "1609891200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vq37l"
+			}
+		},
+		"214": {
+			"title": "Kaguya déteste les chats",
+			"volume": "22",
+			"last_updated": "1611187200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvja3yx"
+			}
+		},
+		"215": {
+			"title": "L'abécédaire des hommes et des femmes, partie 2",
+			"volume": "22",
+			"last_updated": "1611792000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka2e978"
+			}
+		},
+		"216": {
+			"title": "Kaguya et les filles veulent parler",
+			"volume": "22",
+			"last_updated": "1612483200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw8q6yk"
+			}
+		},
+		"217": {
+			"title": "L'abécédaire des hommes et des femmes, partie 3",
+			"volume": "22",
+			"last_updated": "1613606400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jwalyp"
+			}
+		},
+		"218": {
+			"title": "L'abécédaire des hommes et des femmes, partie 4",
+			"volume": "22",
+			"last_updated": "1614211200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxdoyr"
+			}
+		},
+		"219": {
+			"title": "L'abécédaire des hommes et des femmes, partie 5",
+			"volume": "22",
+			"last_updated": "1614816000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd359q4x"
+			}
+		},
+		"220": {
+			"title": "L'abécédaire des hommes et des femmes, partie 6",
+			"volume": "22",
+			"last_updated": "1615334400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6mk4j"
+			}
+		},
+		"221": {
+			"title": "Mademoiselle Kaguya veut parler",
+			"volume": "22",
+			"last_updated": "1625702400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plbmvy5"
+			}
+		},
+		"222": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ _La branche à joyaux de l'île de Hôrai_",
+			"volume": "23",
+			"last_updated": "1625702400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqre2e7l"
+			}
+		},
+		"223": {
+			"title": "Fujiwara n'approuve pas",
+			"volume": "23",
+			"last_updated": "1625702400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8xk48"
+			}
+		},
+		"224": {
+			"title": "Fujiwara veut enseigner",
+			"volume": "23",
+			"last_updated": "1625702400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwa96yq"
+			}
+		},
+		"225": {
+			"title": "Hikaru Oobayashi veut protéger",
+			"volume": "23",
+			"last_updated": "1625616000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrb28yn"
+			}
+		},
+		"226": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 2)",
+			"volume": "23",
+			"last_updated": "1625616000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmz6g45"
+			}
+		},
+		"227": {
+			"title": "Miko Iino veut consoler",
+			"volume": "23",
+			"last_updated": "1625616000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownrbl4p"
+			}
+		},
+		"228": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 3)",
+			"volume": "23",
+			"last_updated": "1625702400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vo37l"
+			}
+		},
+		"229": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 4)",
+			"volume": "23",
+			"last_updated": "1625702400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvjw3yx"
+			}
+		},
+		"230": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 5)",
+			"volume": "23",
+			"last_updated": "1625788800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka2m978"
+			}
+		},
+		"231": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 6)",
+			"volume": "23",
+			"last_updated": "1626480000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl3kx42"
+			}
+		},
+		"232": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 7)",
+			"volume": "24",
+			"last_updated": "1627516800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxqeayd"
+			}
+		},
+		"233": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 8)",
+			"volume": "24",
+			"last_updated": "1628208000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jwnlyp"
+			}
+		},
+		"234": {
+			"title": "Le défi impossible de Kaguya Shinomiya _ La sébile de Bouddha (Partie 9)",
+			"volume": "24",
+			"last_updated": "1629504000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2e5lzyd"
+			}
+		},
+		"235": {
+			"title": "Chika Fujiwara veut aimer",
+			"volume": "24",
+			"last_updated": "1630022400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35nq4x"
+			}
+		},
+		"236": {
+			"title": "Kaguya veut rester",
+			"volume": "24",
+			"last_updated": "1630540800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezvpl4j"
+			}
+		},
+		"237": {
+			"title": "Miyuki Shirogane ne veut pas la faire rentrer",
+			"volume": "24",
+			"last_updated": "1631836800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnxooyr"
+			}
+		},
+		"238": {
+			"title": "Yû Ishigami veut inviter",
+			"volume": "24",
+			"last_updated": "1632355200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6qk4j"
+			}
+		},
+		"239": {
+			"title": "Adolphe Pescarolo veut protéger",
+			"volume": "24",
+			"last_updated": "1633132800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdk6w7b"
+			}
+		},
+		"240": {
+			"title": "Mademoiselle Kaguya veut danser",
+			"volume": "24",
+			"last_updated": "1633651200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45plbovy5"
+			}
+		},
+		"241": {
+			"title": "Unyo Shinomiya ne sait pas choisir ses mots",
+			"volume": "24",
+			"last_updated": "1634947200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqre6e7l"
+			}
+		},
+		"242": {
+			"title": "La famille Shinomiya",
+			"volume": "25",
+			"last_updated": "1635465600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwan6yq"
+			}
+		},
+		"243": {
+			"title": "Ai Hayasaka veut s'habiller",
+			"volume": "25",
+			"last_updated": "1636070400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8nk48"
+			}
+		},
+		"244": {
+			"title": "Yu Ishigami a l'air déprimé",
+			"volume": "25",
+			"last_updated": "1636934400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjbo2yx"
+			}
+		},
+		"245": {
+			"title": "Ainsi, Yu Ishigami ferma les yeux, partie 4",
+			"volume": "25",
+			"last_updated": "1637971200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9dz54n"
+			}
+		},
+		"246": {
+			"title": "Ainsi, Yu Ishigami ferma les yeux, partie 5",
+			"volume": "25",
+			"last_updated": "1638489600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmzng45"
+			}
+		},
+		"247": {
+			"title": "Ishigami Yu n'arrive pas à le dire",
+			"volume": "25",
+			"last_updated": "1639785600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2m5jyo"
+			}
+		},
+		"248": {
+			"title": "Kaguya veut rompre",
+			"volume": "25",
+			"last_updated": "1640304000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownr5l4p"
+			}
+		},
+		"249": {
+			"title": "Kaguya veut rompre (partie 2)",
+			"volume": "25",
+			"last_updated": "1641686400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vn37l"
+			}
+		},
+		"250": {
+			"title": "Miyuki Shirogane veut faire confiance",
+			"volume": "25",
+			"last_updated": "1642982400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6l5w48"
+			}
+		},
+		"251": {
+			"title": "Mikado Shijo veut protéger",
+			"volume": "25",
+			"last_updated": "1647820800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvj53yx"
+			}
+		},
+		"252": {
+			"title": "Shozo Tanuma veut parler",
+			"volume": "26",
+			"last_updated": "1643846400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl35x42"
+			}
+		},
+		"253": {
+			"title": "Miyuki Shirogane veut demander",
+			"volume": "26",
+			"last_updated": "1644624000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka2n978"
+			}
+		},
+		"254": {
+			"title": "Miko Iino n'égoutte pas ses nouilles",
+			"volume": "26",
+			"last_updated": "1645747200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jw5lyp"
+			}
+		},
+		"255": {
+			"title": "La famille d'Hayasaka n'approuve pas",
+			"volume": "26",
+			"last_updated": "1646352000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxqvayd"
+			}
+		},
+		"256": {
+			"title": "Mikado Shijo veut sauver",
+			"volume": "26",
+			"last_updated": "1647734400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnx6oyr"
+			}
+		},
+		"257": {
+			"title": "Miko Iino n'est pas juste",
+			"volume": "26",
+			"last_updated": "1648252800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35qq4x"
+			}
+		},
+		"258": {
+			"title": "Kaguya veut s'échapper",
+			"volume": "26",
+			"last_updated": "1648857600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2e5nzyd"
+			}
+		},
+		"259": {
+			"title": "Kaguya veut réaliser",
+			"volume": "26",
+			"last_updated": "1649721600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezvml4j"
+			}
+		},
+		"260": {
+			"title": "Kaguya n'est pas seule",
+			"volume": "26",
+			"last_updated": "1650672000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjg6pk4j"
+			}
+		},
+		"261": {
+			"title": "Kaguya veut qu'on se déclare à elle",
+			"volume": "26",
+			"last_updated": "1651190400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdk2w7b"
+			}
+		},
+		"262": {
+			"title": "Kaguya veut revenir",
+			"volume": "27",
+			"last_updated": "1652572800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/o24aqrene7l"
+			}
+		},
+		"263": {
+			"title": "Kaguya veut provoquer",
+			"volume": "27",
+			"last_updated": "1653004800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a846wjb62yx"
+			}
+		},
+		"264": {
+			"title": "Kaguya veut être appelée",
+			"volume": "27",
+			"last_updated": "1654128000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqk8jk48"
+			}
+		},
+		"265": {
+			"title": "Les amis de Shirogane veulent parler",
+			"volume": "27",
+			"last_updated": "1654560000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrbl8yn"
+			}
+		},
+		"266": {
+			"title": "Kaguya veut lui dire au revoir, partie 1",
+			"volume": "27",
+			"last_updated": "1655424000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmz3g45"
+			}
+		},
+		"267": {
+			"title": "Kaguya veut lui dire au revoir, partie 2",
+			"volume": "27",
+			"last_updated": "1656115200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9dk54n"
+			}
+		},
+		"268": {
+			"title": "Vie quotidienne, partie 1",
+			"volume": "27",
+			"last_updated": "1656892800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2m6jyo"
+			}
+		},
+		"269": {
+			"title": "Vie quotidienne, partie 2",
+			"volume": "27",
+			"last_updated": "1657411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/md7ownrvl4p"
+			}
+		},
+		"270": {
+			"title": "Vie quotidienne, Partie 3",
+			"volume": "27",
+			"last_updated": "1658620800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6lnw48"
+			}
+		},
+		"271": {
+			"title": "Chika Fujiwara veut vraiment, vraiment, vraiment, vraiment manger",
+			"volume": "27",
+			"last_updated": "1659571200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vg37l"
+			}
+		},
+		"272": {
+			"title": "Le chapitre final de Kei Shirogane",
+			"volume": "28",
+			"last_updated": "1659830400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9vg87l"
+			}
+		},
+		"273": {
+			"title": "Le chapitre final de Maki Shijo, Nagisa Kashiwagi et Tsubasa Tanuma, partie 1",
+			"volume": "28",
+			"last_updated": "1661558400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka26978"
+			}
+		},
+		"274": {
+			"title": "Le chapitre final de Maki Shijo, Nagisa Kashiwagi et Tsubasa Tanuma, partie 2",
+			"volume": "28",
+			"last_updated": "1662249600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvj6oyx"
+			}
+		},
+		"275": {
+			"title": "La chapitre final d'Osaragi Kobachi",
+			"volume": "28",
+			"last_updated": "1663459200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl36x42"
+			}
+		},
+		"276": {
+			"title": "Le chapitre final d'Ai Hayasaka",
+			"volume": "28",
+			"last_updated": "1663977600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/vj4jka26e78"
+			}
+		},
+		"277": {
+			"title": "Le dernier chapitre de Iino Miko et Yû Ishigami _ partie 1",
+			"volume": "28",
+			"last_updated": "1664755200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqxl36k42"
+			}
+		},
+		"278": {
+			"title": "Le dernier chapitre de Iino Miko et Yû Ishigami _ partie 2",
+			"volume": "28",
+			"last_updated": "1665878400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9rydmw8enyk"
+			}
+		},
+		"279": {
+			"title": "Le chapitre final de Chika Fujiwara",
+			"volume": "28",
+			"last_updated": "1666656000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jw66yp"
+			}
+		},
+		"280": {
+			"title": "Les génies",
+			"volume": "28",
+			"last_updated": "1667001600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxq6jyd"
+			}
+		},
+		"281": {
+			"title": "Au revoir, Shûchiin !",
+			"volume": "28",
+			"last_updated": "1667001600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd35jb4x"
+			}
+		},
+		"172.5": {
+			"title": "Kagukoku",
+			"volume": "18",
+			"last_updated": "1603411200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/na7km6lm348"
+			}
+		},
+		"212.5": {
+			"title": "Bonus_ Blu-ray S2",
+			"volume": "22",
+			"last_updated": "1609286400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2majyo"
+			}
+		},
+		"5.5": {
+			"title": "Extra",
+			"volume": "1",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/vj4jka25e78"
+			}
+		},
+		"27.5": {
+			"title": "27.5",
+			"volume": "3",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/pg73gnx33yr"
+			}
+		},
+		"64.5": {
+			"title": "Kaguya Darkness",
+			"volume": "7",
+			"last_updated": "1556582400",
+			"groups": {
+				"ShinRa Edition": "/proxy/api/imgchest/chapter/vj4jka2pe78"
+			}
+		}
+	}
+}

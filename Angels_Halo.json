@@ -1,0 +1,19 @@
+{
+	"title": "Angel's Halo",
+	"slug": "angel-halo",
+	"description": "One Shot de Avogado6",
+	"artist": "Avogado6",
+	"author": "Avogado6",
+	"cover": "https://meo.comick.pictures/dNw1z.jpg",
+	"os": true,
+	"chapters": {
+		"0": {
+			"title": "Angel's Halo",
+			"volume": "",
+			"last_updated": "1647990000",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/5xy2a99m37l"
+			}
+		}
+	}
+}

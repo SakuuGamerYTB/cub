@@ -1,0 +1,19 @@
+{
+	"title": "Tokyo Gyaru Jake!",
+	"slug": "tokyo-gyaru-jake",
+	"description": "Vive les gyaru !",
+	"artist": "Nishimura Kei",
+	"author": "Nishimura Kei",
+	"cover": "https://meo.comick.pictures/aOXvvn.jpg",
+	"os": true,
+	"chapters": {
+		"0": {
+			"title": "Tokyo Gyaru Jake!",
+			"volume": "",
+			"last_updated": "1712440800",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2exqqyd"
+			}
+		}
+	}
+}

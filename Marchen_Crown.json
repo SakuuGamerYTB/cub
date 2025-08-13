@@ -1,0 +1,122 @@
+{
+  "title": "Märchen Crown",
+  "slug": "marchen-crown",
+  "description": "L'histoire est inspirée du conte de fée Rapunzel (Raiponce en français).\n\nLa vie de la naïve et innocente Rapunzel, dont le monde se limite à sa tour, bascule le jour où Mikel escalade l'édifice et fait sa connaissance. Ensemble, ils sont promis à une destiné qui pourrait changer le monde.",
+  "artist": "Aji Chika, Aoi Kujira",
+  "author": "Aka Akasaka",
+  "cover": "https://meo.comick.pictures/4kOOWY.jpg",
+  "chapters": {
+    "0": {
+      "title": "Bonheur éternel",
+      "volume": "",
+      "last_updated": "1742342400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkao5378"
+      }
+    },
+    "1": {
+      "title": "Le monde que tu admirais",
+      "volume": "",
+      "last_updated": "1742342400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3z8x4x"
+      }
+    },
+    "2": {
+      "title": "La malédiction",
+      "volume": "",
+      "last_updated": "1743033600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vdpr27b"
+      }
+    },
+    "3": {
+      "title": "Le prince charmant sur son cheval blanc",
+      "volume": "",
+      "last_updated": "1743897600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjrqzyx"
+      }
+    },
+    "4": {
+      "title": "Monstre",
+      "volume": "",
+      "last_updated": "1744502400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9gqb4n"
+      }
+    },
+    "5": {
+      "title": "La forêt embrumée",
+      "volume": "",
+      "last_updated": "1745366400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9zmz7l"
+      }
+    },
+    "6": {
+      "title": "Dérobade",
+      "volume": "",
+      "last_updated": "1745798400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwloayk"
+      }
+    },
+    "7": {
+      "title": "Vagabonds",
+      "volume": "",
+      "last_updated": "1748203117",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxje2k42"
+      }
+    },
+    "8": {
+      "title": "Le pays du nord",
+      "volume": "",
+      "last_updated": "1748203161",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwbr8jyd"
+      }
+    },
+    "9": {
+      "title": "Incurable",
+      "volume": "",
+      "last_updated": "1748970590",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqr92ro42"
+      }
+    },
+    "10": {
+      "title": "Pratiques démentielles",
+      "volume": "",
+      "last_updated": "1750095893",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nj35bzyn"
+      }
+    },
+    "11": {
+      "title": "Tout comme moi",
+      "volume": "",
+      "last_updated": "1750865768",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7kv88zq48"
+      }
+    },
+    "12": {
+      "title": "Soif de sang",
+      "volume": "",
+      "last_updated": "1752071847",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7l2d2vp4x"
+      }
+    },
+    "13": {
+      "title": "Les amants maudits",
+      "volume": "",
+      "last_updated": "1753723422",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4njpn9byn"
+      }
+    }
+  }
+}

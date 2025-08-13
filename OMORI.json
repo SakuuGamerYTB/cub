@@ -1,0 +1,66 @@
+{
+  "title": "OMORI",
+  "slug": "omori",
+  "description": "Après que quelque chose ait changé sa vie il y a quatre ans, Sunny n'a pas quitté sa maison une seule fois, vivant dans sa propre bulle de réclusion. Espérant un nouveau départ pour son fils, sa mère décide de déménager leur famille hors de la ville. Cependant, lorsque son ami d'enfance Kel reviens dans sa vie, Sunny se retrouve plongé dans un monde qu'il a autre fois connu. Avec trois jours seulement avant le déménagement, le duo croise des visages familiers alors qu'ils traversent la ville - réveillant un passé sombre que Sunny a essayé tant bien que mal à oublier.",
+  "artist": "Nui Konoito",
+  "author": "OMOCAT",
+  "cover": "https://meo.comick.pictures/aOBO7b.jpg",
+  "chapters": {
+    "1": {
+      "title": "Pour mon frère bien-aimé",
+      "volume": "",
+      "last_updated": "1719360000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqr6937l"
+      }
+    },
+    "2": {
+      "title": "Un refuge pour les fleurs",
+      "volume": "",
+      "last_updated": "1723334400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwnp3yq"
+      }
+    },
+    "3": {
+      "title": "Cette époque représentait tout pour nous",
+      "volume": "",
+      "last_updated": "1724889600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqknp948"
+      }
+    },
+    "4": {
+      "title": "Te souviens-tu ?",
+      "volume": "",
+      "last_updated": "1728345600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9zoz4n"
+      }
+    },
+    "5": {
+      "title": "Vous vous tompez sur toute la ligne. Faites demi-tour !",
+      "volume": "",
+      "last_updated": "1731283200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm69n45"
+      }
+    },
+    "6": {
+      "title": "Cette photo.",
+      "volume": "",
+      "last_updated": "1736121600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd6no7b"
+      }
+    },
+    "7": {
+      "title": "Une Saint-Valentin aux confins du monde",
+      "volume": "",
+      "last_updated": "1744070400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjonwyx"
+      }
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "title": "RuriDragon",
+  "slug": "ruri-dragon",
+  "description": "Ruri Aoki, lycéenne, se réveille un matin avec des cornes sur la tête ! D'après sa mère, elle tient probablement ça de son père qui est en réalité... un dragon ?! Malgré cette situation inattendue, Ruri se rend au lycée... Bien évidemment, l'apparition de ces cornes attire l'attention de ses camarades, mais ce n'est pas tout : Ruri se découvre d'autres attributs de dragon ! Le quotidien de Ruri s'apprête à connaître bien des bouleversements !",
+  "artist": "Shindo Masaoki",
+  "author": "Shindo Masaoki",
+  "cover": "https://meo.comick.pictures/l6wXmo.jpg",
+  "completed": true,
+  "chapters": {
+    "1": {
+      "title": "Ça n'a rien à voir avec les cornes",
+      "volume": "1",
+      "last_updated": "1655424000",
+      "groups": {
+        "Miwako Scans": "/proxy/api/imgchest/chapter/5xy2a9ov97l"
+      }
+    },
+    "2": {
+      "title": "On se voit à l'école",
+      "volume": "1",
+      "last_updated": "1655596800",
+      "groups": {
+        "Miwako Scans": "/proxy/api/imgchest/chapter/5xy2a9ovj7l"
+      }
+    },
+    "3": {
+      "title": "Vraiment un Dragon",
+      "volume": "1",
+      "last_updated": "1656201600",
+      "groups": {
+        "Miwako Scans": "/proxy/api/imgchest/chapter/ne7bdm6zn45"
+      }
+    },
+    "4": {
+      "title": "Starbucks fait peur",
+      "volume": "1",
+      "last_updated": "1656806400",
+      "groups": {
+        "Miwako Scans": "/proxy/api/imgchest/chapter/9rydmw2blyk"
+      }
+    },
+    "5": {
+      "title": "Enfin, la Bête est vaincue",
+      "volume": "1",
+      "last_updated": "1657411200",
+      "groups": {
+        "Miwako Scans": "/proxy/api/imgchest/chapter/vj4jkam2278"
+      }
+    },
+    "6": {
+      "title": "Peut pas la blâmer",
+      "volume": "1",
+      "last_updated": "1658620800",
+      "groups": {
+        "Miwako Scans": "/proxy/api/imgchest/chapter/6eyr9jnogyp"
+      }
+    },
+    "7": {
+      "title": "Trucs de dragon",
+      "volume": "2",
+      "last_updated": "1709424000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrkrmyn"
+      }
+    },
+    "8": {
+      "title": "Je suis venue jouer",
+      "volume": "2",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6k6b48"
+      }
+    },
+    "9": {
+      "title": "Aussi normale que possible",
+      "volume": "2",
+      "last_updated": "1710633600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9o997l"
+      }
+    },
+    "10": {
+      "title": "Trouver une utilité",
+      "volume": "2",
+      "last_updated": "1711238400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2elbqyd"
+      }
+    },
+    "11": {
+      "title": "Pas de repos pour les lycéens",
+      "volume": "2",
+      "last_updated": "1711843200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9zbm4n"
+      }
+    },
+    "12": {
+      "title": "Comme l’impression d’amuser la galerie",
+      "volume": "2",
+      "last_updated": "1713657600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm6bj45"
+      }
+    },
+    "13": {
+      "title": "Pas besoin d'être meilleures potes",
+      "volume": "2",
+      "last_updated": "1715558400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plolqy5"
+      }
+    },
+    "14": {
+      "title": "Je veux en savoir plus sur toi, Maeda",
+      "volume": "2",
+      "last_updated": "1717200000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqknkj48"
+      }
+    },
+    "15": {
+      "title": "Merci d'avoir patienté",
+      "volume": "2",
+      "last_updated": "1719792000",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/bp45plo9qy5"
+      }
+    },
+    "16": {
+      "title": "Les bons côtés d'être devenue un dragon",
+      "volume": "3",
+      "last_updated": "1719792000",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/xny8vd6j57b"
+      }
+    },
+    "17": {
+      "title": "Soyons le centre de l’attention",
+      "volume": "3",
+      "last_updated": "1720915200",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/agyvqknoj48"
+      }
+    },
+    "18": {
+      "title": "Pour que tout le monde puisse savoir qui tu es",
+      "volume": "3",
+      "last_updated": "1722470400",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/na7km6kbb48"
+      }
+    },
+    "19": {
+      "title": "Une substance étrangère",
+      "volume": "3",
+      "last_updated": "1724025600",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/a846wjo2oyx"
+      }
+    },
+    "20": {
+      "title": "C'est pas gentil de dire ça",
+      "volume": "3",
+      "last_updated": "1725148800",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/qe4gjgqbj4j"
+      }
+    },
+    "21": {
+      "title": "Rien de mal à un peu de poison",
+      "volume": "3",
+      "last_updated": "1727049600",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/n87wd3nog4x"
+      }
+    },
+    "22": {
+      "title": "On dirait que ça va tonner",
+      "volume": "3",
+      "last_updated": "1728518400",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/vj4jkam2x78"
+      }
+    },
+    "23": {
+      "title": "Parce que je suis un dragon",
+      "volume": "3",
+      "last_updated": "1729382400",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/m9yxrwnoqyq"
+      }
+    },
+    "24": {
+      "title": "C'est répugnant",
+      "volume": "3",
+      "last_updated": "1730678400",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/qb4zezpod4j"
+      }
+    },
+    "25": {
+      "title": "Y avait ça aussi ?",
+      "volume": "",
+      "last_updated": "1733011200",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/ej7mwxeonyd"
+      }
+    },
+    "26": {
+      "title": "Matsuda de la classe 4 est là ?",
+      "volume": "",
+      "last_updated": "1736035200",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/9249wrkqmyn"
+      }
+    },
+    "27": {
+      "title": "Ça pèse quasiment rien !!",
+      "volume": "",
+      "last_updated": "1736035200",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/wl7lgvwjqyx"
+      }
+    },
+    "28": {
+      "title": "Les karaage froids c’est dégueu",
+      "volume": "",
+      "last_updated": "1737849600",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/dl7pe2nopyo"
+      }
+    },
+    "29": {
+      "title": "Marcher sur des oeufs",
+      "volume": "",
+      "last_updated": "1740268800",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/pg73gnovjyr"
+      }
+    },
+    "30": {
+      "title": "Le problème d'Aoki",
+      "volume": "",
+      "last_updated": "1741132800",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/o24aqr6b27l"
+      }
+    },
+    "31": {
+      "title": "J'aurais préféré rester normale",
+      "volume": "",
+      "last_updated": "1743206400",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/md7ownbor4p"
+      }
+    },
+    "32": {
+      "title": "À une condition",
+      "volume": "",
+      "last_updated": "1744156800",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/ljyqxlk3n42"
+      }
+    },
+    "33": {
+      "title": "Territoire",
+      "volume": "",
+      "last_updated": "1745280000",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/wl7lgvwbqyx"
+      }
+    },
+    "34": {
+      "title": "Type glace",
+      "volume": "3",
+      "last_updated": "1747940372",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/9rydmk6bayk"
+      }
+    },
+    "33.1": {
+      "title": "Illustration",
+      "volume": "",
+      "last_updated": "1746316800",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/na7km6klq48"
+      }
+    },
+    "24.1": {
+      "title": "Illustration",
+      "volume": "3",
+      "last_updated": "1731801600",
+      "groups": {
+        "ScanR, Miwako Scans": "/proxy/api/imgchest/chapter/ljyqxlk3o42"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+	"title": "Original Hinatazaka",
+	"slug": "original-hinatazaka",
+	"description": "Original Hinatazaka est une mini série manga, fruit d'une collaboration entre Aka Akasaka en tant qu'artiste et les membres de Hinatazaka46 Kosaka Nao, Kamimura Hinano et Watanabe Miho en tant que scénaristes.",
+	"artist": "Aka Akasaka",
+	"author": "Aka Akasaka",
+	"cover": "https://meo.comick.pictures/YNw70.jpg",
+	"completed": true,
+	"chapters": {
+		"1": {
+			"title": "1",
+			"volume": "",
+			"last_updated": "1633910400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9249wrrz2yn"
+			}
+		},
+		"2": {
+			"title": "2",
+			"volume": "",
+			"last_updated": "1633910400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/agyvqkkd948"
+			}
+		},
+		"3": {
+			"title": "3",
+			"volume": "",
+			"last_updated": "1633910400",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwwk3yq"
+			}
+		}
+	}
+}

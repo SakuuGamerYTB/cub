@@ -1,0 +1,19 @@
+{
+	"title": "Mega Heart",
+	"slug": "mega-heart",
+	"description": "Un recueil de One-Shot de Mengo Yokoyari",
+	"artist": "Yokoyari Mengo",
+	"author": "Yokoyari Mengo",
+	"cover": "https://meo.comick.pictures/v8p3bW.jpg",
+	"os": true,
+	"chapters": {
+		"4": {
+			"title": "4",
+			"volume": "1",
+			"last_updated": "1687305600",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/n87wd33jq4x"
+			}
+		}
+	}
+}

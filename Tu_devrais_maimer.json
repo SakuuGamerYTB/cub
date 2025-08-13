@@ -1,0 +1,67 @@
+{
+	"title": "Tu devais m'aimer",
+	"slug": "tu-devrais-m-aimer",
+	"description": "Une collection de one-shot qui comprends 7 one-shots par Yokoyari Mengo",
+	"artist": "Yokoyari Mengo",
+	"author": "Yokoyari Mengo",
+	"cover": "https://meo.comick.pictures/eO7m7.jpg",
+	"os": true,
+	"chapters": {
+		"1": {
+			"title": "Coeur de Pierre",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxoxqyd"
+			}
+		},
+		"2": {
+			"title": "Neo Dutch Wife",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgbgo4j"
+			}
+		},
+		"3": {
+			"title": "Stand by You",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/qb4zezozg4j"
+			}
+		},
+		"4": {
+			"title": "Belle",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/bp45pl9gxy5"
+			}
+		},
+		"5": {
+			"title": "Une Fleur",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/xny8vdjap7b"
+			}
+		},
+		"6": {
+			"title": "L'amour fait avancer",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/pg73gnvnvyr"
+			}
+		},
+		"7": {
+			"title": "Je t'aime à la folie",
+			"volume": "1",
+			"last_updated": "1682035200",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/lqye2ebexyd"
+			}
+		}
+	}
+}
