@@ -1,0 +1,53 @@
+# Nom du workflow qui apparaîtra dans l'onglet "Actions" de GitHub
+name: Synchroniser les fichiers JSON avec Cloudflare R2
+
+# Déclencheurs du workflow
+on:
+  # 1. Se déclenche à chaque push sur la branche "main"
+  push:
+    branches: [ "main", "develop" ]
+    paths:
+      - '**.json'
+
+  # 2. Permet de lancer manuellement le workflow depuis l'onglet "Actions"
+  workflow_dispatch:
+
+# Les tâches à exécuter
+jobs:
+  sync:
+    # Utilise la dernière version d'Ubuntu pour exécuter les commandes
+    runs-on: ubuntu-latest
+    environment:
+      name: ${{ github.ref_name }}
+    
+    # Nom de la tâche qui apparaîtra dans les logs
+    name: Synchronisation des fichiers avec R2
+
+    # Les étapes de la tâche
+    steps:
+      # Étape 1 : Récupérer le code de ton dépôt
+      - name: Récupération du code
+        uses: actions/checkout@v4
+        
+      # Étape 2 : Créer un fichier d'index avec la liste des fichiers JSON
+      - name: Création de l'index des fichiers JSON
+        id: create_index
+        run: |
+          node index.js
+          cat index.json
+
+      # Étape 3 : Synchroniser les fichiers avec Cloudflare R2
+      - name: Lancer la commande de synchronisation
+        env:
+          # On fournit les identifiants directement à la commande.
+          # AWS CLI les détectera automatiquement.
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+        run: |
+          aws s3 sync . s3://$R2_BUCKET_NAME \
+            --endpoint-url https://$CLOUDFLARE_ACCOUNT_ID.r2.cloudflarestorage.com \
+            --delete \
+            --exclude "*" \
+            --include "*.json"
