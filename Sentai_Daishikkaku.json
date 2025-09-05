@@ -1,1298 +1,1378 @@
 {
-	"title": "Sentai Daishikkaku",
-	"slug": "sentai-daishikkaku",
-	"description": "Les cinq Dragon Keepers et leur escadron sont la seule ligne de défense de l'humanité contre l'armée maléfique qui tente de conquérir le monde ! Du moins, c'est ce qui est dit à la télévision. En réalité, cela fait douze ans que les envahisseurs ont capitulé face aux justiciers de la Terre. Ces troupiers sans chefs ne sont désormais plus que des faire-valoir condamnés à enchaîner les défaites devant les caméras, tels des pantins indignes du titre de \"méchants\" ! Pourtant, après la 1000e défaite des pseudo-envahisseurs, un des troupiers va jouer les éléments perturbateurs. Il brave les interdits et infiltre le grand escadron, décidé à anéantir de l'intérieur les imposteurs que sont les Dragon Keepers !",
-	"artist": "Negi Haruba",
-	"author": "Negi Haruba",
-	"cover": "https://meo.comick.pictures/g6XpXW.jpg",
-	"chapters": {
-		"1": {
-			"title": "R1000",
-			"volume": "1",
-			"last_updated": "1612483200",
-			"groups": {
-				"ScanR, Pikari-Teshima": "/proxy/api/imgchest/chapter/o24aqr63w7l"
-			}
-		},
-		"2": {
-			"title": "Rencontre avec le gardien rouge",
-			"volume": "1",
-			"last_updated": "1613001600",
-			"groups": {
-				"ScanR, Pikari-Teshima": "/proxy/api/imgchest/chapter/na7km6kmm48"
-			}
-		},
-		"3": {
-			"title": "La bonne et la mauvaise manière",
-			"volume": "1",
-			"last_updated": "1613692800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plo3gy5"
-			}
-		},
-		"4": {
-			"title": "Le tueur immortel",
-			"volume": "1",
-			"last_updated": "1614211200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkamke78"
-			}
-		},
-		"5": {
-			"title": "L’attaque solitaire de l’envahisseur",
-			"volume": "1",
-			"last_updated": "1614902400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwn8kyq"
-			}
-		},
-		"6": {
-			"title": "Le marteau de la justice",
-			"volume": "2",
-			"last_updated": "1615507200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxeeqyd"
-			}
-		},
-		"7": {
-			"title": "Paix et conquête",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3nn34x"
-			}
-		},
-		"8": {
-			"title": "Retrouvailles",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnoovyr"
-			}
-		},
-		"9": {
-			"title": "Une partie de cache-cache collante",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2ellxyd"
-			}
-		},
-		"10": {
-			"title": "La puissance des sentiments",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6kkk48"
-			}
-		},
-		"11": {
-			"title": "Hibiki Sakurama, 4 ans",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkamm578"
-			}
-		},
-		"12": {
-			"title": "La stratégie commence",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvww6yx"
-			}
-		},
-		"13": {
-			"title": "Dans le nid Bailong",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlkke42"
-			}
-		},
-		"14": {
-			"title": "Duster et gardien dragon",
-			"volume": "2",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw22dyk"
-			}
-		},
-		"15": {
-			"title": "Le fantassin du jour",
-			"volume": "3",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezppg4j"
-			}
-		},
-		"16": {
-			"title": "Le frère et la sœur rose",
-			"volume": "3",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgqqo4j"
-			}
-		},
-		"17": {
-			"title": "Une combinaison infernale",
-			"volume": "3",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plo6xy5"
-			}
-		},
-		"18": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseur rouge",
-			"volume": "3",
-			"last_updated": "1635379200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqr6ng7l"
-			}
-		},
-		"19": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseur rouge, partie 2",
-			"volume": "3",
-			"last_updated": "1636243200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjo6gyx"
-			}
-		},
-		"20": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseur rouge, partie 3",
-			"volume": "3",
-			"last_updated": "1634947200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm6nk45"
-			}
-		},
-		"21": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseur rouge, partie 4",
-			"volume": "3",
-			"last_updated": "1636243200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrklvyn"
-			}
-		},
-		"22": {
-			"title": "Les examens Bailong",
-			"volume": "3",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2n58yo"
-			}
-		},
-		"23": {
-			"title": "Un monde sans conflits",
-			"volume": "3",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6k5k48"
-			}
-		},
-		"24": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseur bleu",
-			"volume": "4",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9onn7l"
-			}
-		},
-		"25": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseur vert",
-			"volume": "4",
-			"last_updated": "1633910400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkamn578"
-			}
-		},
-		"26": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseuse jaune",
-			"volume": "4",
-			"last_updated": "1635465600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvw56yx"
-			}
-		},
-		"27": {
-			"title": "Les examens Bailong : Face à face avec l’envahisseuse jaune, partie 2",
-			"volume": "4",
-			"last_updated": "1635638400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownb5a4p"
-			}
-		},
-		"28": {
-			"title": "Yamato Kurusu, 12 ans",
-			"volume": "4",
-			"last_updated": "1636329600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw2ndyk"
-			}
-		},
-		"29": {
-			"title": "Les examens Bailong : Face à face avec les cadets",
-			"volume": "4",
-			"last_updated": "1637193600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlk5e42"
-			}
-		},
-		"30": {
-			"title": "Les examens Bailong : Face à face avec les cadets, partie 2",
-			"volume": "4",
-			"last_updated": "1637539200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxevqyd"
-			}
-		},
-		"31": {
-			"title": "Les examens Bailong : Face à face avec les cadets, partie 3",
-			"volume": "4",
-			"last_updated": "1638144000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2elnxyd"
-			}
-		},
-		"32": {
-			"title": "Les examens Bailong : Face à face avec les cadets, partie 4",
-			"volume": "4",
-			"last_updated": "1638748800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gno6vyr"
-			}
-		},
-		"33": {
-			"title": "Les examens Bailong : Face à face avec les cadets, partie 5",
-			"volume": "5",
-			"last_updated": "1639353600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jn5kyp"
-			}
-		},
-		"34": {
-			"title": "Les examens Bailong : Face à face avec les cadets, partie 6",
-			"volume": "5",
-			"last_updated": "1640736000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3nq34x"
-			}
-		},
-		"35": {
-			"title": "Les examens Bailong : face à l’équipe d’élite, partie 7",
-			"volume": "5",
-			"last_updated": "1642896000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezpmg4j"
-			}
-		},
-		"36": {
-			"title": "Les examens Bailong : Face à face avec les cadets, partie 8",
-			"volume": "5",
-			"last_updated": "1642896000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vd69p7b"
-			}
-		},
-		"37": {
-			"title": "Les examens Bailong : Face à l’équipe d’élite, partie 9",
-			"volume": "5",
-			"last_updated": "1643500800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgqpo4j"
-			}
-		},
-		"38": {
-			"title": "Les examens Bailong : Face au Gardien Bleu",
-			"volume": "5",
-			"last_updated": "1643846400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plonxy5"
-			}
-		},
-		"39": {
-			"title": "Les examens Bailong : Face au Gardien Bleu, partie 2",
-			"volume": "5",
-			"last_updated": "1644537600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjo9gyx"
-			}
-		},
-		"40": {
-			"title": "Gardien bleu vs Peltrola",
-			"volume": "5",
-			"last_updated": "1644969600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwnqmyq"
-			}
-		},
-		"41": {
-			"title": "Les examens Bailong : Face à Peltrola",
-			"volume": "5",
-			"last_updated": "1645228800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrk9vyn"
-			}
-		},
-		"42": {
-			"title": "Les examens Bailong : Face à Peltrola, partie 2",
-			"volume": "5",
-			"last_updated": "1645660800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqknlw48"
-			}
-		},
-		"43": {
-			"title": "Les examens Bailong : Face à Peltrola, partie 3",
-			"volume": "6",
-			"last_updated": "1647388800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9z6w4n"
-			}
-		},
-		"44": {
-			"title": "Les examens Bailong : Face à Peltrola, partie 4",
-			"volume": "6",
-			"last_updated": "1647734400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2n68yo"
-			}
-		},
-		"45": {
-			"title": "Les examens Bailong : Face à Peltrola, partie 5",
-			"volume": "6",
-			"last_updated": "1648252800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownbva4p"
-			}
-		},
-		"46": {
-			"title": "Les examens Bailong : Face à Peltrola, partie 6",
-			"volume": "6",
-			"last_updated": "1648771200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm63k45"
-			}
-		},
-		"47": {
-			"title": "Shougo Aoshima, 18 ans",
-			"volume": "6",
-			"last_updated": "1650758400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw2edyk"
-			}
-		},
-		"48": {
-			"title": "Shougo Aoshima, 18 ans, partie 2",
-			"volume": "6",
-			"last_updated": "1650758400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxe6qyd"
-			}
-		},
-		"49": {
-			"title": "Fantassin D, 0 an",
-			"volume": "6",
-			"last_updated": "1651190400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlk6e42"
-			}
-		},
-		"50": {
-			"title": "Les examens Bailong : Face au Gardien Bleu, partie 3",
-			"volume": "6",
-			"last_updated": "1652313600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvw66yx"
-			}
-		},
-		"51": {
-			"title": "Breaking News",
-			"volume": "6",
-			"last_updated": "1652918400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkam6578"
-			}
-		},
-		"52": {
-			"title": "Une sœur, un frère, et les étranges disparitions",
-			"volume": "6",
-			"last_updated": "1653609600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9ogn7l"
-			}
-		},
-		"53": {
-			"title": "Le bataillon au bord du gouffre",
-			"volume": "7",
-			"last_updated": "1654214400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jn6kyp"
-			}
-		},
-		"54": {
-			"title": "Une attaque surprise en toute amitié",
-			"volume": "7",
-			"last_updated": "1654819200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gno8vyr"
-			}
-		},
-		"55": {
-			"title": "Une vie de rêve à l'école",
-			"volume": "7",
-			"last_updated": "1655424000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3nj34x"
-			}
-		},
-		"56": {
-			"title": "Une vie de rêve à l'école, Partie 2",
-			"volume": "7",
-			"last_updated": "1655942400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vd6rp7b"
-			}
-		},
-		"57": {
-			"title": "Une vie de rêve à l'école, Partie 3",
-			"volume": "7",
-			"last_updated": "1657152000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgq8o4j"
-			}
-		},
-		"58": {
-			"title": "Une vie de rêve à l'école, Partie 4",
-			"volume": "7",
-			"last_updated": "1657756800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plojxy5"
-			}
-		},
-		"59": {
-			"title": "Une vie de rêve à l'école, Partie 5",
-			"volume": "7",
-			"last_updated": "1658620800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezprg4j"
-			}
-		},
-		"60": {
-			"title": "Une vie de rêve à l'école, Partie 6",
-			"volume": "7",
-			"last_updated": "1659225600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqkngw48"
-			}
-		},
-		"61": {
-			"title": "Une vie de rêve à l'école, Partie 7",
-			"volume": "7",
-			"last_updated": "1659744000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm6rk45"
-			}
-		},
-		"62": {
-			"title": "Une vie de rêve à l'école, Partie 8",
-			"volume": "7",
-			"last_updated": "1661040000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2nr8yo"
-			}
-		},
-		"63": {
-			"title": "Kanon Hisui, 8 ans",
-			"volume": "8",
-			"last_updated": "1661644800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6k2k48"
-			}
-		},
-		"64": {
-			"title": "Une vie de rêve à l'école, Partie 9",
-			"volume": "8",
-			"last_updated": "1661990400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9oxn7l"
-			}
-		},
-		"65": {
-			"title": "Une vie de rêve à l'école, Partie 10",
-			"volume": "8",
-			"last_updated": "1662768000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkam5578"
-			}
-		},
-		"66": {
-			"title": "Une vie de rêve à l'école, Partie 11",
-			"volume": "8",
-			"last_updated": "1663459200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlkme42"
-			}
-		},
-		"67": {
-			"title": "Une vie de rêve à l'école, Partie 12",
-			"volume": "8",
-			"last_updated": "1663977600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvwlpyx"
-			}
-		},
-		"68": {
-			"title": "Une vie de rêve à l'école, Partie 13",
-			"volume": "8",
-			"last_updated": "1664755200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkam5278"
-			}
-		},
-		"69": {
-			"title": "Une vie de rêve à l'école, Partie 14",
-			"volume": "8",
-			"last_updated": "1665273600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlkmo42"
-			}
-		},
-		"70": {
-			"title": "La fin du rêve",
-			"volume": "8",
-			"last_updated": "1665878400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jn3eyp"
-			}
-		},
-		"71": {
-			"title": "Le festin de fin d'arc",
-			"volume": "8",
-			"last_updated": "1667260800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw23wyk"
-			}
-		},
-		"72": {
-			"title": "Vers la prochaine cible",
-			"volume": "8",
-			"last_updated": "1668384000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxejbyd"
-			}
-		},
-		"73": {
-			"title": "Le mystérieux envahisseur",
-			"volume": "9",
-			"last_updated": "1668384000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2elo3yd"
-			}
-		},
-		"74": {
-			"title": "Le plus connu des envahisseurs",
-			"volume": "9",
-			"last_updated": "1668902400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3n2z4x"
-			}
-		},
-		"75": {
-			"title": "Rendez-vous en filature",
-			"volume": "9",
-			"last_updated": "1670112000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezpq34j"
-			}
-		},
-		"76": {
-			"title": "Retourné",
-			"volume": "9",
-			"last_updated": "1670112000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgqkr4j"
-			}
-		},
-		"77": {
-			"title": "Labyrinthe",
-			"volume": "9",
-			"last_updated": "1671408000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vd68o7b"
-			}
-		},
-		"78": {
-			"title": "Assassinat de bas étage",
-			"volume": "9",
-			"last_updated": "1671408000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45ploe2y5"
-			}
-		},
-		"79": {
-			"title": "La R&D du fantassin D",
-			"volume": "9",
-			"last_updated": "1672790400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjozwyx"
-			}
-		},
-		"80": {
-			"title": "Le zoo des monstres",
-			"volume": "9",
-			"last_updated": "1673740800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwnl3yq"
-			}
-		},
-		"81": {
-			"title": "Le zoo des monstres : Partie 2",
-			"volume": "9",
-			"last_updated": "1674950400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqkna948"
-			}
-		},
-		"82": {
-			"title": "Le zoo des monstres : Partie 3",
-			"volume": "9",
-			"last_updated": "1675468800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrk52yn"
-			}
-		},
-		"83": {
-			"title": "Crise existentielle de l'envahisseur",
-			"volume": "10",
-			"last_updated": "1676246400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3ndb4x"
-			}
-		},
-		"84": {
-			"title": "L'abominable expérience du Bataillon Jaune",
-			"volume": "10",
-			"last_updated": "1676851200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrkwayn"
-			}
-		},
-		"85": {
-			"title": "Bienvenue à l'association pour les droits des envahisseurs",
-			"volume": "10",
-			"last_updated": "1678579200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgqjb4j"
-			}
-		},
-		"86": {
-			"title": "Bienvenue à l'association pour les droits des envahisseurs : Partie 2",
-			"volume": "10",
-			"last_updated": "1678579200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2el2kyd"
-			}
-		},
-		"87": {
-			"title": "Bienvenue à l'association pour les droits des envahisseurs : Partie 3",
-			"volume": "10",
-			"last_updated": "1678579200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jn96yp"
-			}
-		},
-		"88": {
-			"title": "L'émission \"Qui représente la justice ?!\"",
-			"volume": "10",
-			"last_updated": "1680220800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjowvyx"
-			}
-		},
-		"89": {
-			"title": "Victoire par forfait",
-			"volume": "10",
-			"last_updated": "1680220800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownbw94p"
-			}
-		},
-		"90": {
-			"title": "Miser sur le bon cheval",
-			"volume": "10",
-			"last_updated": "1680998400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plopgy5"
-			}
-		},
-		"91": {
-			"title": "Un combat juste pour le plaisir !",
-			"volume": "10",
-			"last_updated": "1681603200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvwgoyx"
-			}
-		},
-		"92": {
-			"title": "Bats-toi pour toi-même !",
-			"volume": "10",
-			"last_updated": "1682035200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwnrkyq"
-			}
-		},
-		"93": {
-			"title": "Bataille sur trois fronts",
-			"volume": "11",
-			"last_updated": "1683331200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm6dv45"
-			}
-		},
-		"94": {
-			"title": "Kaede Ukyo, 18 ans, Juji Sazan, 16 ans",
-			"volume": "11",
-			"last_updated": "1684022400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlkxk42"
-			}
-		},
-		"95": {
-			"title": "Bataille sur trois fronts : Partie 2",
-			"volume": "11",
-			"last_updated": "1684800000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxewjyd"
-			}
-		},
-		"96": {
-			"title": "Bataille sur trois fronts : Partie 3",
-			"volume": "11",
-			"last_updated": "1685836800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqkn9z48"
-			}
-		},
-		"97": {
-			"title": "Bataille sur trois fronts : Partie 4",
-			"volume": "11",
-			"last_updated": "1685836800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2nekyo"
-			}
-		},
-		"98": {
-			"title": "Keisuke Souma, 17 ans",
-			"volume": "11",
-			"last_updated": "1687737600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw2mnyk"
-			}
-		},
-		"99": {
-			"title": "Bataille sur trois fronts : Partie 5",
-			"volume": "11",
-			"last_updated": "1687737600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vd6vd7b"
-			}
-		},
-		"100": {
-			"title": "Bataille sur trois fronts : Partie 6",
-			"volume": "11",
-			"last_updated": "1687737600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezpev4j"
-			}
-		},
-		"101": {
-			"title": "Bataille sur trois fronts : Partie 7",
-			"volume": "11",
-			"last_updated": "1689897600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9zwl4n"
-			}
-		},
-		"102": {
-			"title": "Bataille sur trois fronts : Partie 8",
-			"volume": "11",
-			"last_updated": "1689897600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjopvyx"
-			}
-		},
-		"103": {
-			"title": "Akane Yamabuki, 10, 17 et 23 ans",
-			"volume": "12",
-			"last_updated": "1690675200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9oa87l"
-			}
-		},
-		"104": {
-			"title": "Bataille sur trois fronts : Partie 9",
-			"volume": "12",
-			"last_updated": "1691280000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqr6qw7l"
-			}
-		},
-		"105": {
-			"title": "Bataille sur trois fronts : Partie 10",
-			"volume": "12",
-			"last_updated": "1691971200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnog3yr"
-			}
-		},
-		"106": {
-			"title": "Bataille sur trois fronts : Partie 11",
-			"volume": "12",
-			"last_updated": "1691971200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqknqz48"
-			}
-		},
-		"107": {
-			"title": "Bataille sur trois fronts : Partie 12",
-			"volume": "12",
-			"last_updated": "1693094400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrkpayn"
-			}
-		},
-		"108": {
-			"title": "Bataille sur trois fronts : Partie 13",
-			"volume": "12",
-			"last_updated": "1694476800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2ndkyo"
-			}
-		},
-		"109": {
-			"title": "Bataille sur trois fronts : Partie 14",
-			"volume": "12",
-			"last_updated": "1694476800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6kvm48"
-			}
-		},
-		"110": {
-			"title": "Bataille sur trois fronts : Partie 15",
-			"volume": "12",
-			"last_updated": "1695340800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvw2oyx"
-			}
-		},
-		"111": {
-			"title": "Bataille sur trois fronts : Partie 16",
-			"volume": "12",
-			"last_updated": "1697328000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw26nyk"
-			}
-		},
-		"112": {
-			"title": "Sesera Sakurama, 13 ans",
-			"volume": "12",
-			"last_updated": "1697328000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jnm6yp"
-			}
-		},
-		"113": {
-			"title": "Bataille sur trois fronts : Partie 17",
-			"volume": "13",
-			"last_updated": "1697328000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxeljyd"
-			}
-		},
-		"114": {
-			"title": "Bataille sur trois fronts : Partie 18",
-			"volume": "13",
-			"last_updated": "1698364800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezp8v4j"
-			}
-		},
-		"115": {
-			"title": "Angel Usukubo, 4 ans",
-			"volume": "13",
-			"last_updated": "1699747200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgq5b4j"
-			}
-		},
-		"116": {
-			"title": "Bataille sur trois fronts : Partie 19",
-			"volume": "13",
-			"last_updated": "1699747200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqr68w7l"
-			}
-		},
-		"117": {
-			"title": "The Changed Real, 20 ans",
-			"volume": "13",
-			"last_updated": "1703376000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjo5vyx"
-			}
-		},
-		"118": {
-			"title": "Bataille sur trois fronts : Partie 20",
-			"volume": "13",
-			"last_updated": "1703376000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqknrz48"
-			}
-		},
-		"119": {
-			"title": "Bataille sur trois fronts : Partie 21",
-			"volume": "13",
-			"last_updated": "1703376000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrk3ayn"
-			}
-		},
-		"120": {
-			"title": "Bataille sur trois fronts : Partie 22",
-			"volume": "13",
-			"last_updated": "1703376000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm6qv45"
-			}
-		},
-		"121": {
-			"title": "Yakushi Usukubo, 18 ans",
-			"volume": "13",
-			"last_updated": "1703376000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2n8kyo"
-			}
-		},
-		"122": {
-			"title": "Yakushi Usukubo, 18 ans : Partie 2",
-			"volume": "13",
-			"last_updated": "1704585600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownb894p"
-			}
-		},
-		"123": {
-			"title": "Bataille sur trois fronts : Partie 23",
-			"volume": "14",
-			"last_updated": "1705968000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6k8m48"
-			}
-		},
-		"124": {
-			"title": "Bataille sur trois fronts : Partie 24",
-			"volume": "14",
-			"last_updated": "1705968000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw2rnyk"
-			}
-		},
-		"125": {
-			"title": "Bataille sur trois fronts : Partie 25",
-			"volume": "14",
-			"last_updated": "1710028800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jnl6yp"
-			}
-		},
-		"126": {
-			"title": "Intervalle",
-			"volume": "14",
-			"last_updated": "1710028800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkam8e78"
-			}
-		},
-		"127": {
-			"title": "Un rouge blanc pur",
-			"volume": "14",
-			"last_updated": "1710028800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxe8jyd"
-			}
-		},
-		"128": {
-			"title": "Fête de bienvenue",
-			"volume": "14",
-			"last_updated": "1710028800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnol3yr"
-			}
-		},
-		"129": {
-			"title": "Être utile à nouveau",
-			"volume": "14",
-			"last_updated": "1710028800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3nmb4x"
-			}
-		},
-		"130": {
-			"title": "La vengeance est meilleure sans amnésie",
-			"volume": "14",
-			"last_updated": "1710028800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2elmkyd"
-			}
-		},
-		"131": {
-			"title": "Personnage",
-			"volume": "14",
-			"last_updated": "1712448000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezpnv4j"
-			}
-		},
-		"132": {
-			"title": "Empirer les choses",
-			"volume": "14",
-			"last_updated": "1712448000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vd6md7b"
-			}
-		},
-		"133": {
-			"title": "Match retour",
-			"volume": "15",
-			"last_updated": "1713830400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgqwb4j"
-			}
-		},
-		"134": {
-			"title": "Match retour, Partie 2",
-			"volume": "15",
-			"last_updated": "1713830400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjodvyx"
-			}
-		},
-		"135": {
-			"title": "Monter en grade",
-			"volume": "15",
-			"last_updated": "1713830400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqknxz48"
-			}
-		},
-		"136": {
-			"title": "Chopman et le bataillon rose",
-			"volume": "15",
-			"last_updated": "1714262400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwn9kyq"
-			}
-		},
-		"137": {
-			"title": "Chopman et le bataillon rose, partie 2",
-			"volume": "15",
-			"last_updated": "1715472000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9zvl4n"
-			}
-		},
-		"138": {
-			"title": "Chopman et le bataillon rose, partie 3",
-			"volume": "15",
-			"last_updated": "1716249600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm6lv45"
-			}
-		},
-		"139": {
-			"title": "Chopman et le bataillon rose, partie 4",
-			"volume": "15",
-			"last_updated": "1717891200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2nakyo"
-			}
-		},
-		"140": {
-			"title": "Chopman et le bataillon rose, partie 5",
-			"volume": "15",
-			"last_updated": "1717891200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownba94p"
-			}
-		},
-		"141": {
-			"title": "Tomoike Shigeoka et Noa Hagino",
-			"volume": "15",
-			"last_updated": "1717891200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvwaoyx"
-			}
-		},
-		"142": {
-			"title": "Retrouvailles",
-			"volume": "15",
-			"last_updated": "1719100800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9oq87l"
-			}
-		},
-		"143": {
-			"title": "Les rangers sont éternels et immortels",
-			"volume": "16",
-			"last_updated": "1719100800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6kam48"
-			}
-		},
-		"144": {
-			"title": "Glander à la maison",
-			"volume": "16",
-			"last_updated": "1722988800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlkak42"
-			}
-		},
-		"145": {
-			"title": "Le fantassin en cavale",
-			"volume": "16",
-			"last_updated": "1722988800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvwa6yx"
-			}
-		},
-		"146": {
-			"title": "Fantassin en cavale, Partie 2",
-			"volume": "16",
-			"last_updated": "1722988800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jkame578"
-			}
-		},
-		"147": {
-			"title": "Fantassin en cavale, Partie 3",
-			"volume": "16",
-			"last_updated": "1722988800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlkae42"
-			}
-		},
-		"148": {
-			"title": "Fantassin en cavale, Partie 4",
-			"volume": "16",
-			"last_updated": "1725753600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmw2qdyk"
-			}
-		},
-		"149": {
-			"title": "Fantassin en cavale, Partie 5",
-			"volume": "16",
-			"last_updated": "1725753600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxeaqyd"
-			}
-		},
-		"150": {
-			"title": "Fantassin en cavale, Partie 6",
-			"volume": "16",
-			"last_updated": "1725753600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2eldxyd"
-			}
-		},
-		"151": {
-			"title": "Fantassin en cavale, Partie 7",
-			"volume": "16",
-			"last_updated": "1725753600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezp5g4j"
-			}
-		},
-		"152": {
-			"title": "Fantassin en cavale, Partie 8",
-			"volume": "16",
-			"last_updated": "1728000000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnodvyr"
-			}
-		},
-		"153": {
-			"title": "Fantassin en cavale, Partie 9",
-			"volume": "17",
-			"last_updated": "1728000000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vd66p7b"
-			}
-		},
-		"154": {
-			"title": "Fantassin en cavale, Partie 10",
-			"volume": "17",
-			"last_updated": "1728000000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plooxy5"
-			}
-		},
-		"155": {
-			"title": "Clients",
-			"volume": "17",
-			"last_updated": "1733184000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjoogyx"
-			}
-		},
-		"156": {
-			"title": "Gradés Jaune",
-			"volume": "17",
-			"last_updated": "1733184000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdm66k45"
-			}
-		},
-		"157": {
-			"title": "Un passé que l'on ne peut effacer",
-			"volume": "17",
-			"last_updated": "1733184000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwnnmyq"
-			}
-		},
-		"158": {
-			"title": "Feu et glace",
-			"volume": "17",
-			"last_updated": "1739404800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrkkvyn"
-			}
-		},
-		"159": {
-			"title": "Ceux qui apportent la fin",
-			"volume": "17",
-			"last_updated": "1739404800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9zzw4n"
-			}
-		},
-		"160": {
-			"title": "Au dodo, une fois de plus",
-			"volume": "17",
-			"last_updated": "1739404800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2nn8yo"
-			}
-		},
-		"161": {
-			"title": "À quel jaune j’ai à faire ?!",
-			"volume": "17",
-			"last_updated": "1739404800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownbba4p"
-			}
-		}
-	}
+  "title": "Sentai Daishikkaku",
+  "slug": "sentai-daishikkaku",
+  "description": "Les cinq Dragon Keepers et leur escadron sont la seule ligne de défense de l'humanité contre l'armée maléfique qui tente de conquérir le monde ! Du moins, c'est ce qui est dit à la télévision. En réalité, cela fait douze ans que les envahisseurs ont capitulé face aux justiciers de la Terre. Ces troupiers sans chefs ne sont désormais plus que des faire-valoir condamnés à enchaîner les défaites devant les caméras, tels des pantins indignes du titre de \"méchants\" ! Pourtant, après la 1000e défaite des pseudo-envahisseurs, un des troupiers va jouer les éléments perturbateurs. Il brave les interdits et infiltre le grand escadron, décidé à anéantir de l'intérieur les imposteurs que sont les Dragon Keepers !",
+  "artist": "Negi Haruba",
+  "author": "Negi Haruba",
+  "cover": "https://meo.comick.pictures/g6XpXW.jpg",
+  "chapters": {
+    "1": {
+      "title": "R1000",
+      "volume": "1",
+      "last_updated": "1612483200",
+      "groups": {
+        "ScanR, Pikari-Teshima": "/proxy/api/imgchest/chapter/o24aqr63w7l"
+      }
+    },
+    "2": {
+      "title": "Rencontre avec le gardien rouge",
+      "volume": "1",
+      "last_updated": "1613001600",
+      "groups": {
+        "ScanR, Pikari-Teshima": "/proxy/api/imgchest/chapter/na7km6kmm48"
+      }
+    },
+    "3": {
+      "title": "La bonne et la mauvaise manière",
+      "volume": "1",
+      "last_updated": "1613692800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plo3gy5"
+      }
+    },
+    "4": {
+      "title": "Le tueur immortel",
+      "volume": "1",
+      "last_updated": "1614211200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkamke78"
+      }
+    },
+    "5": {
+      "title": "L’attaque solitaire de l’envahisseur",
+      "volume": "1",
+      "last_updated": "1614902400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwn8kyq"
+      }
+    },
+    "6": {
+      "title": "Le marteau de la justice",
+      "volume": "2",
+      "last_updated": "1615507200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxeeqyd"
+      }
+    },
+    "7": {
+      "title": "Paix et conquête",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3nn34x"
+      }
+    },
+    "8": {
+      "title": "Retrouvailles",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnoovyr"
+      }
+    },
+    "9": {
+      "title": "Une partie de cache-cache collante",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2ellxyd"
+      }
+    },
+    "10": {
+      "title": "La puissance des sentiments",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6kkk48"
+      }
+    },
+    "11": {
+      "title": "Hibiki Sakurama, 4 ans",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkamm578"
+      }
+    },
+    "12": {
+      "title": "La stratégie commence",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvww6yx"
+      }
+    },
+    "13": {
+      "title": "Dans le nid Bailong",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlkke42"
+      }
+    },
+    "14": {
+      "title": "Duster et gardien dragon",
+      "volume": "2",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw22dyk"
+      }
+    },
+    "15": {
+      "title": "Le fantassin du jour",
+      "volume": "3",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezppg4j"
+      }
+    },
+    "16": {
+      "title": "Le frère et la sœur rose",
+      "volume": "3",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgqqo4j"
+      }
+    },
+    "17": {
+      "title": "Une combinaison infernale",
+      "volume": "3",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plo6xy5"
+      }
+    },
+    "18": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseur rouge",
+      "volume": "3",
+      "last_updated": "1635379200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqr6ng7l"
+      }
+    },
+    "19": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseur rouge, partie 2",
+      "volume": "3",
+      "last_updated": "1636243200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjo6gyx"
+      }
+    },
+    "20": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseur rouge, partie 3",
+      "volume": "3",
+      "last_updated": "1634947200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm6nk45"
+      }
+    },
+    "21": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseur rouge, partie 4",
+      "volume": "3",
+      "last_updated": "1636243200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrklvyn"
+      }
+    },
+    "22": {
+      "title": "Les examens Bailong",
+      "volume": "3",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2n58yo"
+      }
+    },
+    "23": {
+      "title": "Un monde sans conflits",
+      "volume": "3",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6k5k48"
+      }
+    },
+    "24": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseur bleu",
+      "volume": "4",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9onn7l"
+      }
+    },
+    "25": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseur vert",
+      "volume": "4",
+      "last_updated": "1633910400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkamn578"
+      }
+    },
+    "26": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseuse jaune",
+      "volume": "4",
+      "last_updated": "1635465600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvw56yx"
+      }
+    },
+    "27": {
+      "title": "Les examens Bailong : Face à face avec l’envahisseuse jaune, partie 2",
+      "volume": "4",
+      "last_updated": "1635638400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownb5a4p"
+      }
+    },
+    "28": {
+      "title": "Yamato Kurusu, 12 ans",
+      "volume": "4",
+      "last_updated": "1636329600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw2ndyk"
+      }
+    },
+    "29": {
+      "title": "Les examens Bailong : Face à face avec les cadets",
+      "volume": "4",
+      "last_updated": "1637193600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlk5e42"
+      }
+    },
+    "30": {
+      "title": "Les examens Bailong : Face à face avec les cadets, partie 2",
+      "volume": "4",
+      "last_updated": "1637539200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxevqyd"
+      }
+    },
+    "31": {
+      "title": "Les examens Bailong : Face à face avec les cadets, partie 3",
+      "volume": "4",
+      "last_updated": "1638144000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2elnxyd"
+      }
+    },
+    "32": {
+      "title": "Les examens Bailong : Face à face avec les cadets, partie 4",
+      "volume": "4",
+      "last_updated": "1638748800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gno6vyr"
+      }
+    },
+    "33": {
+      "title": "Les examens Bailong : Face à face avec les cadets, partie 5",
+      "volume": "5",
+      "last_updated": "1639353600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jn5kyp"
+      }
+    },
+    "34": {
+      "title": "Les examens Bailong : Face à face avec les cadets, partie 6",
+      "volume": "5",
+      "last_updated": "1640736000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3nq34x"
+      }
+    },
+    "35": {
+      "title": "Les examens Bailong : face à l’équipe d’élite, partie 7",
+      "volume": "5",
+      "last_updated": "1642896000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezpmg4j"
+      }
+    },
+    "36": {
+      "title": "Les examens Bailong : Face à face avec les cadets, partie 8",
+      "volume": "5",
+      "last_updated": "1642896000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd69p7b"
+      }
+    },
+    "37": {
+      "title": "Les examens Bailong : Face à l’équipe d’élite, partie 9",
+      "volume": "5",
+      "last_updated": "1643500800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgqpo4j"
+      }
+    },
+    "38": {
+      "title": "Les examens Bailong : Face au Gardien Bleu",
+      "volume": "5",
+      "last_updated": "1643846400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plonxy5"
+      }
+    },
+    "39": {
+      "title": "Les examens Bailong : Face au Gardien Bleu, partie 2",
+      "volume": "5",
+      "last_updated": "1644537600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjo9gyx"
+      }
+    },
+    "40": {
+      "title": "Gardien bleu vs Peltrola",
+      "volume": "5",
+      "last_updated": "1644969600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwnqmyq"
+      }
+    },
+    "41": {
+      "title": "Les examens Bailong : Face à Peltrola",
+      "volume": "5",
+      "last_updated": "1645228800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrk9vyn"
+      }
+    },
+    "42": {
+      "title": "Les examens Bailong : Face à Peltrola, partie 2",
+      "volume": "5",
+      "last_updated": "1645660800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqknlw48"
+      }
+    },
+    "43": {
+      "title": "Les examens Bailong : Face à Peltrola, partie 3",
+      "volume": "6",
+      "last_updated": "1647388800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9z6w4n"
+      }
+    },
+    "44": {
+      "title": "Les examens Bailong : Face à Peltrola, partie 4",
+      "volume": "6",
+      "last_updated": "1647734400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2n68yo"
+      }
+    },
+    "45": {
+      "title": "Les examens Bailong : Face à Peltrola, partie 5",
+      "volume": "6",
+      "last_updated": "1648252800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownbva4p"
+      }
+    },
+    "46": {
+      "title": "Les examens Bailong : Face à Peltrola, partie 6",
+      "volume": "6",
+      "last_updated": "1648771200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm63k45"
+      }
+    },
+    "47": {
+      "title": "Shougo Aoshima, 18 ans",
+      "volume": "6",
+      "last_updated": "1650758400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw2edyk"
+      }
+    },
+    "48": {
+      "title": "Shougo Aoshima, 18 ans, partie 2",
+      "volume": "6",
+      "last_updated": "1650758400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxe6qyd"
+      }
+    },
+    "49": {
+      "title": "Fantassin D, 0 an",
+      "volume": "6",
+      "last_updated": "1651190400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlk6e42"
+      }
+    },
+    "50": {
+      "title": "Les examens Bailong : Face au Gardien Bleu, partie 3",
+      "volume": "6",
+      "last_updated": "1652313600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvw66yx"
+      }
+    },
+    "51": {
+      "title": "Breaking News",
+      "volume": "6",
+      "last_updated": "1652918400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkam6578"
+      }
+    },
+    "52": {
+      "title": "Une sœur, un frère, et les étranges disparitions",
+      "volume": "6",
+      "last_updated": "1653609600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9ogn7l"
+      }
+    },
+    "53": {
+      "title": "Le bataillon au bord du gouffre",
+      "volume": "7",
+      "last_updated": "1654214400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jn6kyp"
+      }
+    },
+    "54": {
+      "title": "Une attaque surprise en toute amitié",
+      "volume": "7",
+      "last_updated": "1654819200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gno8vyr"
+      }
+    },
+    "55": {
+      "title": "Une vie de rêve à l'école",
+      "volume": "7",
+      "last_updated": "1655424000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3nj34x"
+      }
+    },
+    "56": {
+      "title": "Une vie de rêve à l'école, Partie 2",
+      "volume": "7",
+      "last_updated": "1655942400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd6rp7b"
+      }
+    },
+    "57": {
+      "title": "Une vie de rêve à l'école, Partie 3",
+      "volume": "7",
+      "last_updated": "1657152000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgq8o4j"
+      }
+    },
+    "58": {
+      "title": "Une vie de rêve à l'école, Partie 4",
+      "volume": "7",
+      "last_updated": "1657756800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plojxy5"
+      }
+    },
+    "59": {
+      "title": "Une vie de rêve à l'école, Partie 5",
+      "volume": "7",
+      "last_updated": "1658620800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezprg4j"
+      }
+    },
+    "60": {
+      "title": "Une vie de rêve à l'école, Partie 6",
+      "volume": "7",
+      "last_updated": "1659225600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqkngw48"
+      }
+    },
+    "61": {
+      "title": "Une vie de rêve à l'école, Partie 7",
+      "volume": "7",
+      "last_updated": "1659744000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm6rk45"
+      }
+    },
+    "62": {
+      "title": "Une vie de rêve à l'école, Partie 8",
+      "volume": "7",
+      "last_updated": "1661040000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2nr8yo"
+      }
+    },
+    "63": {
+      "title": "Kanon Hisui, 8 ans",
+      "volume": "8",
+      "last_updated": "1661644800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6k2k48"
+      }
+    },
+    "64": {
+      "title": "Une vie de rêve à l'école, Partie 9",
+      "volume": "8",
+      "last_updated": "1661990400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9oxn7l"
+      }
+    },
+    "65": {
+      "title": "Une vie de rêve à l'école, Partie 10",
+      "volume": "8",
+      "last_updated": "1662768000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkam5578"
+      }
+    },
+    "66": {
+      "title": "Une vie de rêve à l'école, Partie 11",
+      "volume": "8",
+      "last_updated": "1663459200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlkme42"
+      }
+    },
+    "67": {
+      "title": "Une vie de rêve à l'école, Partie 12",
+      "volume": "8",
+      "last_updated": "1663977600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvwlpyx"
+      }
+    },
+    "68": {
+      "title": "Une vie de rêve à l'école, Partie 13",
+      "volume": "8",
+      "last_updated": "1664755200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkam5278"
+      }
+    },
+    "69": {
+      "title": "Une vie de rêve à l'école, Partie 14",
+      "volume": "8",
+      "last_updated": "1665273600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlkmo42"
+      }
+    },
+    "70": {
+      "title": "La fin du rêve",
+      "volume": "8",
+      "last_updated": "1665878400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jn3eyp"
+      }
+    },
+    "71": {
+      "title": "Le festin de fin d'arc",
+      "volume": "8",
+      "last_updated": "1667260800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw23wyk"
+      }
+    },
+    "72": {
+      "title": "Vers la prochaine cible",
+      "volume": "8",
+      "last_updated": "1668384000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxejbyd"
+      }
+    },
+    "73": {
+      "title": "Le mystérieux envahisseur",
+      "volume": "9",
+      "last_updated": "1668384000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2elo3yd"
+      }
+    },
+    "74": {
+      "title": "Le plus connu des envahisseurs",
+      "volume": "9",
+      "last_updated": "1668902400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3n2z4x"
+      }
+    },
+    "75": {
+      "title": "Rendez-vous en filature",
+      "volume": "9",
+      "last_updated": "1670112000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezpq34j"
+      }
+    },
+    "76": {
+      "title": "Retourné",
+      "volume": "9",
+      "last_updated": "1670112000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgqkr4j"
+      }
+    },
+    "77": {
+      "title": "Labyrinthe",
+      "volume": "9",
+      "last_updated": "1671408000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd68o7b"
+      }
+    },
+    "78": {
+      "title": "Assassinat de bas étage",
+      "volume": "9",
+      "last_updated": "1671408000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45ploe2y5"
+      }
+    },
+    "79": {
+      "title": "La R&D du fantassin D",
+      "volume": "9",
+      "last_updated": "1672790400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjozwyx"
+      }
+    },
+    "80": {
+      "title": "Le zoo des monstres",
+      "volume": "9",
+      "last_updated": "1673740800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwnl3yq"
+      }
+    },
+    "81": {
+      "title": "Le zoo des monstres : Partie 2",
+      "volume": "9",
+      "last_updated": "1674950400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqkna948"
+      }
+    },
+    "82": {
+      "title": "Le zoo des monstres : Partie 3",
+      "volume": "9",
+      "last_updated": "1675468800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrk52yn"
+      }
+    },
+    "83": {
+      "title": "Crise existentielle de l'envahisseur",
+      "volume": "10",
+      "last_updated": "1676246400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3ndb4x"
+      }
+    },
+    "84": {
+      "title": "L'abominable expérience du Bataillon Jaune",
+      "volume": "10",
+      "last_updated": "1676851200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrkwayn"
+      }
+    },
+    "85": {
+      "title": "Bienvenue à l'association pour les droits des envahisseurs",
+      "volume": "10",
+      "last_updated": "1678579200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgqjb4j"
+      }
+    },
+    "86": {
+      "title": "Bienvenue à l'association pour les droits des envahisseurs : Partie 2",
+      "volume": "10",
+      "last_updated": "1678579200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2el2kyd"
+      }
+    },
+    "87": {
+      "title": "Bienvenue à l'association pour les droits des envahisseurs : Partie 3",
+      "volume": "10",
+      "last_updated": "1678579200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jn96yp"
+      }
+    },
+    "88": {
+      "title": "L'émission \"Qui représente la justice ?!\"",
+      "volume": "10",
+      "last_updated": "1680220800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjowvyx"
+      }
+    },
+    "89": {
+      "title": "Victoire par forfait",
+      "volume": "10",
+      "last_updated": "1680220800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownbw94p"
+      }
+    },
+    "90": {
+      "title": "Miser sur le bon cheval",
+      "volume": "10",
+      "last_updated": "1680998400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plopgy5"
+      }
+    },
+    "91": {
+      "title": "Un combat juste pour le plaisir !",
+      "volume": "10",
+      "last_updated": "1681603200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvwgoyx"
+      }
+    },
+    "92": {
+      "title": "Bats-toi pour toi-même !",
+      "volume": "10",
+      "last_updated": "1682035200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwnrkyq"
+      }
+    },
+    "93": {
+      "title": "Bataille sur trois fronts",
+      "volume": "11",
+      "last_updated": "1683331200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm6dv45"
+      }
+    },
+    "94": {
+      "title": "Kaede Ukyo, 18 ans, Juji Sazan, 16 ans",
+      "volume": "11",
+      "last_updated": "1684022400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlkxk42"
+      }
+    },
+    "95": {
+      "title": "Bataille sur trois fronts : Partie 2",
+      "volume": "11",
+      "last_updated": "1684800000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxewjyd"
+      }
+    },
+    "96": {
+      "title": "Bataille sur trois fronts : Partie 3",
+      "volume": "11",
+      "last_updated": "1685836800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqkn9z48"
+      }
+    },
+    "97": {
+      "title": "Bataille sur trois fronts : Partie 4",
+      "volume": "11",
+      "last_updated": "1685836800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2nekyo"
+      }
+    },
+    "98": {
+      "title": "Keisuke Souma, 17 ans",
+      "volume": "11",
+      "last_updated": "1687737600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw2mnyk"
+      }
+    },
+    "99": {
+      "title": "Bataille sur trois fronts : Partie 5",
+      "volume": "11",
+      "last_updated": "1687737600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd6vd7b"
+      }
+    },
+    "100": {
+      "title": "Bataille sur trois fronts : Partie 6",
+      "volume": "11",
+      "last_updated": "1687737600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezpev4j"
+      }
+    },
+    "101": {
+      "title": "Bataille sur trois fronts : Partie 7",
+      "volume": "11",
+      "last_updated": "1689897600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9zwl4n"
+      }
+    },
+    "102": {
+      "title": "Bataille sur trois fronts : Partie 8",
+      "volume": "11",
+      "last_updated": "1689897600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjopvyx"
+      }
+    },
+    "103": {
+      "title": "Akane Yamabuki, 10, 17 et 23 ans",
+      "volume": "12",
+      "last_updated": "1690675200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9oa87l"
+      }
+    },
+    "104": {
+      "title": "Bataille sur trois fronts : Partie 9",
+      "volume": "12",
+      "last_updated": "1691280000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqr6qw7l"
+      }
+    },
+    "105": {
+      "title": "Bataille sur trois fronts : Partie 10",
+      "volume": "12",
+      "last_updated": "1691971200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnog3yr"
+      }
+    },
+    "106": {
+      "title": "Bataille sur trois fronts : Partie 11",
+      "volume": "12",
+      "last_updated": "1691971200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqknqz48"
+      }
+    },
+    "107": {
+      "title": "Bataille sur trois fronts : Partie 12",
+      "volume": "12",
+      "last_updated": "1693094400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrkpayn"
+      }
+    },
+    "108": {
+      "title": "Bataille sur trois fronts : Partie 13",
+      "volume": "12",
+      "last_updated": "1694476800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2ndkyo"
+      }
+    },
+    "109": {
+      "title": "Bataille sur trois fronts : Partie 14",
+      "volume": "12",
+      "last_updated": "1694476800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6kvm48"
+      }
+    },
+    "110": {
+      "title": "Bataille sur trois fronts : Partie 15",
+      "volume": "12",
+      "last_updated": "1695340800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvw2oyx"
+      }
+    },
+    "111": {
+      "title": "Bataille sur trois fronts : Partie 16",
+      "volume": "12",
+      "last_updated": "1697328000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw26nyk"
+      }
+    },
+    "112": {
+      "title": "Sesera Sakurama, 13 ans",
+      "volume": "12",
+      "last_updated": "1697328000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jnm6yp"
+      }
+    },
+    "113": {
+      "title": "Bataille sur trois fronts : Partie 17",
+      "volume": "13",
+      "last_updated": "1697328000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxeljyd"
+      }
+    },
+    "114": {
+      "title": "Bataille sur trois fronts : Partie 18",
+      "volume": "13",
+      "last_updated": "1698364800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezp8v4j"
+      }
+    },
+    "115": {
+      "title": "Angel Usukubo, 4 ans",
+      "volume": "13",
+      "last_updated": "1699747200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgq5b4j"
+      }
+    },
+    "116": {
+      "title": "Bataille sur trois fronts : Partie 19",
+      "volume": "13",
+      "last_updated": "1699747200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqr68w7l"
+      }
+    },
+    "117": {
+      "title": "The Changed Real, 20 ans",
+      "volume": "13",
+      "last_updated": "1703376000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjo5vyx"
+      }
+    },
+    "118": {
+      "title": "Bataille sur trois fronts : Partie 20",
+      "volume": "13",
+      "last_updated": "1703376000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqknrz48"
+      }
+    },
+    "119": {
+      "title": "Bataille sur trois fronts : Partie 21",
+      "volume": "13",
+      "last_updated": "1703376000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrk3ayn"
+      }
+    },
+    "120": {
+      "title": "Bataille sur trois fronts : Partie 22",
+      "volume": "13",
+      "last_updated": "1703376000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm6qv45"
+      }
+    },
+    "121": {
+      "title": "Yakushi Usukubo, 18 ans",
+      "volume": "13",
+      "last_updated": "1703376000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2n8kyo"
+      }
+    },
+    "122": {
+      "title": "Yakushi Usukubo, 18 ans : Partie 2",
+      "volume": "13",
+      "last_updated": "1704585600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownb894p"
+      }
+    },
+    "123": {
+      "title": "Bataille sur trois fronts : Partie 23",
+      "volume": "14",
+      "last_updated": "1705968000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6k8m48"
+      }
+    },
+    "124": {
+      "title": "Bataille sur trois fronts : Partie 24",
+      "volume": "14",
+      "last_updated": "1705968000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw2rnyk"
+      }
+    },
+    "125": {
+      "title": "Bataille sur trois fronts : Partie 25",
+      "volume": "14",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jnl6yp"
+      }
+    },
+    "126": {
+      "title": "Intervalle",
+      "volume": "14",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkam8e78"
+      }
+    },
+    "127": {
+      "title": "Un rouge blanc pur",
+      "volume": "14",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxe8jyd"
+      }
+    },
+    "128": {
+      "title": "Fête de bienvenue",
+      "volume": "14",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnol3yr"
+      }
+    },
+    "129": {
+      "title": "Être utile à nouveau",
+      "volume": "14",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3nmb4x"
+      }
+    },
+    "130": {
+      "title": "La vengeance est meilleure sans amnésie",
+      "volume": "14",
+      "last_updated": "1710028800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2elmkyd"
+      }
+    },
+    "131": {
+      "title": "Personnage",
+      "volume": "14",
+      "last_updated": "1712448000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezpnv4j"
+      }
+    },
+    "132": {
+      "title": "Empirer les choses",
+      "volume": "14",
+      "last_updated": "1712448000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd6md7b"
+      }
+    },
+    "133": {
+      "title": "Match retour",
+      "volume": "15",
+      "last_updated": "1713830400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgqwb4j"
+      }
+    },
+    "134": {
+      "title": "Match retour, Partie 2",
+      "volume": "15",
+      "last_updated": "1713830400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjodvyx"
+      }
+    },
+    "135": {
+      "title": "Monter en grade",
+      "volume": "15",
+      "last_updated": "1713830400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqknxz48"
+      }
+    },
+    "136": {
+      "title": "Chopman et le bataillon rose",
+      "volume": "15",
+      "last_updated": "1714262400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwn9kyq"
+      }
+    },
+    "137": {
+      "title": "Chopman et le bataillon rose, partie 2",
+      "volume": "15",
+      "last_updated": "1715472000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9zvl4n"
+      }
+    },
+    "138": {
+      "title": "Chopman et le bataillon rose, partie 3",
+      "volume": "15",
+      "last_updated": "1716249600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm6lv45"
+      }
+    },
+    "139": {
+      "title": "Chopman et le bataillon rose, partie 4",
+      "volume": "15",
+      "last_updated": "1717891200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2nakyo"
+      }
+    },
+    "140": {
+      "title": "Chopman et le bataillon rose, partie 5",
+      "volume": "15",
+      "last_updated": "1717891200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownba94p"
+      }
+    },
+    "141": {
+      "title": "Tomoike Shigeoka et Noa Hagino",
+      "volume": "15",
+      "last_updated": "1717891200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvwaoyx"
+      }
+    },
+    "142": {
+      "title": "Retrouvailles",
+      "volume": "15",
+      "last_updated": "1719100800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9oq87l"
+      }
+    },
+    "143": {
+      "title": "Les rangers sont éternels et immortels",
+      "volume": "16",
+      "last_updated": "1719100800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6kam48"
+      }
+    },
+    "144": {
+      "title": "Glander à la maison",
+      "volume": "16",
+      "last_updated": "1722988800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlkak42"
+      }
+    },
+    "145": {
+      "title": "Le fantassin en cavale",
+      "volume": "16",
+      "last_updated": "1722988800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvwa6yx"
+      }
+    },
+    "146": {
+      "title": "Fantassin en cavale, Partie 2",
+      "volume": "16",
+      "last_updated": "1722988800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jkame578"
+      }
+    },
+    "147": {
+      "title": "Fantassin en cavale, Partie 3",
+      "volume": "16",
+      "last_updated": "1722988800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlkae42"
+      }
+    },
+    "148": {
+      "title": "Fantassin en cavale, Partie 4",
+      "volume": "16",
+      "last_updated": "1725753600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmw2qdyk"
+      }
+    },
+    "149": {
+      "title": "Fantassin en cavale, Partie 5",
+      "volume": "16",
+      "last_updated": "1725753600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxeaqyd"
+      }
+    },
+    "150": {
+      "title": "Fantassin en cavale, Partie 6",
+      "volume": "16",
+      "last_updated": "1725753600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2eldxyd"
+      }
+    },
+    "151": {
+      "title": "Fantassin en cavale, Partie 7",
+      "volume": "16",
+      "last_updated": "1725753600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezp5g4j"
+      }
+    },
+    "152": {
+      "title": "Fantassin en cavale, Partie 8",
+      "volume": "16",
+      "last_updated": "1728000000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnodvyr"
+      }
+    },
+    "153": {
+      "title": "Fantassin en cavale, Partie 9",
+      "volume": "17",
+      "last_updated": "1728000000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vd66p7b"
+      }
+    },
+    "154": {
+      "title": "Fantassin en cavale, Partie 10",
+      "volume": "17",
+      "last_updated": "1728000000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plooxy5"
+      }
+    },
+    "155": {
+      "title": "Clients",
+      "volume": "17",
+      "last_updated": "1733184000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjoogyx"
+      }
+    },
+    "156": {
+      "title": "Gradés Jaune",
+      "volume": "17",
+      "last_updated": "1733184000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdm66k45"
+      }
+    },
+    "157": {
+      "title": "Un passé que l'on ne peut effacer",
+      "volume": "17",
+      "last_updated": "1733184000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwnnmyq"
+      }
+    },
+    "158": {
+      "title": "Feu et glace",
+      "volume": "17",
+      "last_updated": "1739404800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrkkvyn"
+      }
+    },
+    "159": {
+      "title": "Ceux qui apportent la fin",
+      "volume": "17",
+      "last_updated": "1739404800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9zzw4n"
+      }
+    },
+    "160": {
+      "title": "Au dodo, une fois de plus",
+      "volume": "17",
+      "last_updated": "1739404800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2nn8yo"
+      }
+    },
+    "161": {
+      "title": "À quel jaune j’ai à faire ?!",
+      "volume": "17",
+      "last_updated": "1739404800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownbba4p"
+      }
+    },
+    "162": {
+      "title": "Chemin caché",
+      "volume": "17",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyrl5bklyp"
+      }
+    },
+    "163": {
+      "title": "Shinya Kiritani, 28 ans",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lo58j37x"
+      }
+    },
+    "164": {
+      "title": "Shinya Kiritani, 28 ans, Partie 2",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4znm2e34j"
+      }
+    },
+    "165": {
+      "title": "Shinya Kiritani, 28 ans, Partie 3",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/92493lnw24n"
+      }
+    },
+    "166": {
+      "title": "Shinya Kiritani, 28 ans, Partie 4",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4j8npk278"
+      }
+    },
+    "167": {
+      "title": "Shinya Kiritani, 28 ans, Partie 5",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wmqpxz4x"
+      }
+    },
+    "168": {
+      "title": "Shinya Kiritani, 10 ans",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7o85pqd4p"
+      }
+    },
+    "169": {
+      "title": "Shinya Kiritani, 10 ans, Partie 2",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy22n58jyl"
+      }
+    },
+    "170": {
+      "title": "Shinya Kiritani, 10 ans, Partie 3",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyq25proy2"
+      }
+    },
+    "171": {
+      "title": "Effondrement",
+      "volume": "18",
+      "last_updated": "1757070000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wmqpmz4x"
+      }
+    }
+  }
 }
