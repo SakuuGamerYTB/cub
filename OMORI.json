@@ -61,6 +61,30 @@
       "groups": {
         "ScanR": "/proxy/api/imgchest/chapter/a846wjonwyx"
       }
+    },
+    "8": {
+      "title": "La bibliothèque perdue",
+      "volume": "",
+      "last_updated": "1757441933",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy22x8rjyl"
+      }
+    },
+    "9": {
+      "title": "Ce lieu où nous nous amusions auparavant.",
+      "volume": "",
+      "last_updated": "1757441933",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wm8xwz4x"
+      }
+    },
+    "10": {
+      "title": "Passer du temps avec des potes.",
+      "volume": "",
+      "last_updated": "1757441933",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45qj5a245"
+      }
     }
   }
 }
