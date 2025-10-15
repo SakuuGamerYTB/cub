@@ -614,6 +614,22 @@
 				"ScanR": "/proxy/api/imgchest/chapter/wl7lom3kp7x"
 			}
 		},
+        "77": {
+            "title": "Changement de tenue",
+            "volume": "8",
+            "last_updated": "1760558358",
+            "groups": {
+                "ScanR": "/proxy/api/imgchest/chapter/vj4je9ve378"
+            }
+        },
+        "78": {
+            "title": "Un bal illusoire",
+            "volume": "9",
+            "last_updated": "1760558359",
+            "groups": {
+                "ScanR": "/proxy/api/imgchest/chapter/pg73drwdgyr"
+            }
+        },
 		"7.5": {
 			"title": "Bonus Tome 1",
 			"volume": "1",
