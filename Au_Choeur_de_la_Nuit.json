@@ -5,6 +5,7 @@
 	"artist": "Igarashi Masakuni",
 	"author": "Igarashi Masakuni",
 	"cover": "https://meo.comick.pictures/5pMLpj.jpg",
+	"completed": true,
 	"chapters": {
 		"1": {
 			"title": "RE:START",
@@ -118,5 +119,29 @@
 				"ScanR": "/proxy/api/imgchest/chapter/qb4zezkn34j"
 			}
 		}
+		"15": {
+			"title": "Nene l'a vu",
+			"volume": "3",
+			"last_updated": "1760640691",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/a8463p9e24x"
+			}
+		},
+		"16": {
+			"title": "C'est du gâteau",
+			"volume": "3",
+			"last_updated": "1760640691",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/9p4nvn6p5yn"
+			}
+		},
+		"17": {
+			"title": "C'est très chaud, alors faites attention",
+			"volume": "3",
+			"last_updated": "1760640691",
+			"groups": {
+				"ScanR": "/proxy/api/imgchest/chapter/ljyqav6nx72"
+			}
+		},
 	}
 }
