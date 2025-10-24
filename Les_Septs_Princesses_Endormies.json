@@ -630,6 +630,23 @@
                 "ScanR": "/proxy/api/imgchest/chapter/pg73drwdgyr"
             }
         },
+		
+        "79": {
+            "title": "Le cauchemar d’Ilias",
+            "volume": "9",
+            "last_updated": "1761318698",
+            "groups": {
+                "ScanR": "/proxy/api/imgchest/chapter/na7kaazqk48"
+            }
+        },
+        "80": {
+            "title": "Offrir et recevoir",
+            "volume": "9",
+            "last_updated": "1761318699",
+            "groups": {
+                "ScanR": "/proxy/api/imgchest/chapter/ljyqaa9ee72"
+            }
+        },
 		"7.5": {
 			"title": "Bonus Tome 1",
 			"volume": "1",
