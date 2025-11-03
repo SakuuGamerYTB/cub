@@ -157,6 +157,14 @@
 			"groups": {
 				"ScanR": "/proxy/api/imgchest/chapter/na7km6alb48"
 			}
-		}
+		},
+    	"20": {
+	      "title": "Raviver les souvenirs",
+	      "volume": "3",
+	      "last_updated": "1762186623",
+	      "groups": {
+	        "ScanR": "/proxy/api/imgchest/chapter/vj4je5m8378"
+	      }
+	    }
 	}
 }
