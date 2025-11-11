@@ -1,170 +1,178 @@
 {
-	"title": "Girl meets Rock !",
-	"slug": "girl-meets-rock",
-	"description": "Passionnée par les mélodies du rock japonais, Chihiro Hatono, lycéenne de première année, entre dans l'univers d'un club de musique, une nouvelle guitare à la main. Mais qu'est-ce qui l'attend vraiment derrière ces portes ? Un drame sans filtre sur la jeunesse et sur les ambitions musicales !",
-	"artist": "Ideuchi Tetsuo",
-	"author": "Kuwahali",
-	"cover": "https://meo.comick.pictures/8yOBlp.jpg",
-	"chapters": {
-		"1": {
-			"title": "L'achat d'une guitare",
-			"volume": "1",
-			"last_updated": "1709510400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2ed5qyd"
-			}
-		},
-		"2": {
-			"title": "Allons voir le concert de bienvenue",
-			"volume": "1",
-			"last_updated": "1709510400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45plmbqy5"
-			}
-		},
-		"3": {
-			"title": "Rejoindre le club de musique",
-			"volume": "1",
-			"last_updated": "1709510400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wj3boyx"
-			}
-		},
-		"4": {
-			"title": "Apprendre la guitare",
-			"volume": "1",
-			"last_updated": "1709510400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zez5vd4j"
-			}
-		},
-		"5": {
-			"title": "Formons un groupe !",
-			"volume": "1",
-			"last_updated": "1711065600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlapn42"
-			}
-		},
-		"6": {
-			"title": "Apprenons a connaître Tamaki",
-			"volume": "1",
-			"last_updated": "1711065600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9jawgyp"
-			}
-		},
-		"7": {
-			"title": "Comment rater une audition",
-			"volume": "1",
-			"last_updated": "1711065600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9qv97l"
-			}
-		},
-		"8": {
-			"title": "Jouer de la guitare que je ne sais pas jouer",
-			"volume": "1",
-			"last_updated": "1711929600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrw9aqyq"
-			}
-		},
-		"9": {
-			"title": "Les discordes commencent",
-			"volume": "1",
-			"last_updated": "1713225600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw9vdm4n"
-			}
-		},
-		"10": {
-			"title": "Apprendre à connaître ses amies",
-			"volume": "1",
-			"last_updated": "1715644800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxaqnyd"
-			}
-		},
-		"11": {
-			"title": "Survivre à la fête du sport",
-			"volume": "1",
-			"last_updated": "1717200000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gndxjyr"
-			}
-		},
-		"12": {
-			"title": "Séparons-nous",
-			"volume": "1",
-			"last_updated": "1719792000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmlzj45"
-			}
-		},
-		"13": {
-			"title": "Suivre des chemins différents",
-			"volume": "2",
-			"last_updated": "1719792000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vdek57b"
-			}
-		},
-		"14": {
-			"title": "Former un groupe a l'arrache",
-			"volume": "2",
-			"last_updated": "1721001600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownarr4p"
-			}
-		},
-		"15": {
-			"title": "Faire le premier concert",
-			"volume": "2",
-			"last_updated": "1724457600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wr2bmyn"
-			}
-		},
-		"16": {
-			"title": "Devenir chanteuse",
-			"volume": "2",
-			"last_updated": "1725148800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd395g4x"
-			}
-		},
-		"17": {
-			"title": "Répéter en faisant de l'acoustique",
-			"volume": "2",
-			"last_updated": "1739059200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqr2e27l"
-			}
-		},
-		"18": {
-			"title": "Planter une bombe",
-			"volume": "2",
-			"last_updated": "1743465600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2ampyo"
-			}
-		},
-		"19": {
-			"title": "Découverte du monde",
-			"volume": "2",
-			"last_updated": "1743465600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6alb48"
-			}
-		},
-    	"20": {
-	      "title": "Raviver les souvenirs",
-	      "volume": "3",
-	      "last_updated": "1762186623",
-	      "groups": {
-	        "ScanR": "/proxy/api/imgchest/chapter/vj4je5m8378"
-	      }
-	    }
-	}
+  "title": "Girl meets Rock !",
+  "slug": "girl-meets-rock",
+  "description": "Passionnée par les mélodies du rock japonais, Chihiro Hatono, lycéenne de première année, entre dans l'univers d'un club de musique, une nouvelle guitare à la main. Mais qu'est-ce qui l'attend vraiment derrière ces portes ? Un drame sans filtre sur la jeunesse et sur les ambitions musicales !",
+  "artist": "Ideuchi Tetsuo",
+  "author": "Kuwahali",
+  "cover": "https://meo.comick.pictures/8yOBlp.jpg",
+  "chapters": {
+    "1": {
+      "title": "L'achat d'une guitare",
+      "volume": "1",
+      "last_updated": "1709510400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2ed5qyd"
+      }
+    },
+    "2": {
+      "title": "Allons voir le concert de bienvenue",
+      "volume": "1",
+      "last_updated": "1709510400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45plmbqy5"
+      }
+    },
+    "3": {
+      "title": "Rejoindre le club de musique",
+      "volume": "1",
+      "last_updated": "1709510400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wj3boyx"
+      }
+    },
+    "4": {
+      "title": "Apprendre la guitare",
+      "volume": "1",
+      "last_updated": "1709510400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zez5vd4j"
+      }
+    },
+    "5": {
+      "title": "Formons un groupe !",
+      "volume": "1",
+      "last_updated": "1711065600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlapn42"
+      }
+    },
+    "6": {
+      "title": "Apprenons a connaître Tamaki",
+      "volume": "1",
+      "last_updated": "1711065600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9jawgyp"
+      }
+    },
+    "7": {
+      "title": "Comment rater une audition",
+      "volume": "1",
+      "last_updated": "1711065600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9qv97l"
+      }
+    },
+    "8": {
+      "title": "Jouer de la guitare que je ne sais pas jouer",
+      "volume": "1",
+      "last_updated": "1711929600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrw9aqyq"
+      }
+    },
+    "9": {
+      "title": "Les discordes commencent",
+      "volume": "1",
+      "last_updated": "1713225600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw9vdm4n"
+      }
+    },
+    "10": {
+      "title": "Apprendre à connaître ses amies",
+      "volume": "1",
+      "last_updated": "1715644800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxaqnyd"
+      }
+    },
+    "11": {
+      "title": "Survivre à la fête du sport",
+      "volume": "1",
+      "last_updated": "1717200000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gndxjyr"
+      }
+    },
+    "12": {
+      "title": "Séparons-nous",
+      "volume": "1",
+      "last_updated": "1719792000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdmlzj45"
+      }
+    },
+    "13": {
+      "title": "Suivre des chemins différents",
+      "volume": "2",
+      "last_updated": "1719792000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vdek57b"
+      }
+    },
+    "14": {
+      "title": "Former un groupe a l'arrache",
+      "volume": "2",
+      "last_updated": "1721001600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownarr4p"
+      }
+    },
+    "15": {
+      "title": "Faire le premier concert",
+      "volume": "2",
+      "last_updated": "1724457600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wr2bmyn"
+      }
+    },
+    "16": {
+      "title": "Devenir chanteuse",
+      "volume": "2",
+      "last_updated": "1725148800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd395g4x"
+      }
+    },
+    "17": {
+      "title": "Répéter en faisant de l'acoustique",
+      "volume": "2",
+      "last_updated": "1739059200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqr2e27l"
+      }
+    },
+    "18": {
+      "title": "Planter une bombe",
+      "volume": "2",
+      "last_updated": "1743465600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2ampyo"
+      }
+    },
+    "19": {
+      "title": "Découverte du monde",
+      "volume": "2",
+      "last_updated": "1743465600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6alb48"
+      }
+    },
+    "20": {
+      "title": "Raviver les souvenirs",
+      "volume": "3",
+      "last_updated": "1762186623",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4je5m8378"
+      }
+    },
+    "21": {
+      "title": "Se séparer",
+      "volume": "",
+      "last_updated": "1762877538",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87w9pw2gyx"
+      }
+    }
+  }
 }
