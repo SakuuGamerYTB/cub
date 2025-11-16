@@ -1,1250 +1,1258 @@
 {
-	"title": "Uma Musume - Cinderella Gray",
-	"slug": "cinderella-gray",
-	"description": "Uma Musume - Cinderella Gray est un spin-off du projet Uma Musume de Cygames. On y suit le personnage d'Oguri Cap tout au long de son séjour à la Kasamatsu Training Center Academy et de son parcours pour devenir une cavalière légendaire.",
-	"artist": "Kusumi Taiyo",
-	"author": "Sugiura Masafumi",
-	"cover": "https://meo.comick.pictures/d0Xj2Q.jpg",
-	"chapters": {
-		"1": {
-			"title": "Juste ici",
-			"volume": "1",
-			"last_updated": "1655424000",
-			"groups": {
-				"ScanR, Natsumi no Sekai": "/proxy/api/imgchest/chapter/md7ownlea4p"
-			}
-		},
-		"2": {
-			"title": "Faites-moi concourir",
-			"volume": "1",
-			"last_updated": "1656115200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wradvyn"
-			}
-		},
-		"3": {
-			"title": "Je peux peut-être lui faire confiance",
-			"volume": "1",
-			"last_updated": "1656460800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2eva3yd"
-			}
-		},
-		"4": {
-			"title": "Je gagnerai la prochaine fois",
-			"volume": "1",
-			"last_updated": "1657065600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjxpwyx"
-			}
-		},
-		"5": {
-			"title": "Un tout autre niveau",
-			"volume": "1",
-			"last_updated": "1658016000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxn3byd"
-			}
-		},
-		"6": {
-			"title": "La vue d'en haut",
-			"volume": "1",
-			"last_updated": "1659657600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlq8e42"
-			}
-		},
-		"7": {
-			"title": "Junior Crown",
-			"volume": "1",
-			"last_updated": "1661990400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vdz3o7b"
-			}
-		},
-		"8": {
-			"title": "Ne pas s'y attendre",
-			"volume": "2",
-			"last_updated": "1662508800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9eaj7l"
-			}
-		},
-		"9": {
-			"title": "Deux fois",
-			"volume": "2",
-			"last_updated": "1663027200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jka3k278"
-			}
-		},
-		"10": {
-			"title": "Le plus haut niveau de la région",
-			"volume": "2",
-			"last_updated": "1663804800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqrgq37l"
-			}
-		},
-		"11": {
-			"title": "Licence",
-			"volume": "2",
-			"last_updated": "1664755200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjxwwyx"
-			}
-		},
-		"12": {
-			"title": "Le meilleur choix",
-			"volume": "2",
-			"last_updated": "1665360000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wraw2yn"
-			}
-		},
-		"13": {
-			"title": "Dans ce cas, tu dois gagner",
-			"volume": "2",
-			"last_updated": "1665878400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqk6q948"
-			}
-		},
-		"14": {
-			"title": "Qu'est-ce que tu fous, bordel ?!",
-			"volume": "2",
-			"last_updated": "1666569600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwvr3yq"
-			}
-		},
-		"15": {
-			"title": "Monstre",
-			"volume": "2",
-			"last_updated": "1667174400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw92wz4n"
-			}
-		},
-		"16": {
-			"title": "Merci, Kasamatsu",
-			"volume": "2",
-			"last_updated": "1667952000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownlwd4p"
-			}
-		},
-		"17": {
-			"title": "L'Académie Tracen",
-			"volume": "3",
-			"last_updated": "1670025600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6rmq48"
-			}
-		},
-		"18": {
-			"title": "Inscriptions aux Classiques",
-			"volume": "3",
-			"last_updated": "1670976000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmwzmwyk"
-			}
-		},
-		"19": {
-			"title": "Première course",
-			"volume": "3",
-			"last_updated": "1675296000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvkgpyx"
-			}
-		},
-		"20": {
-			"title": "Trembler d'excitation",
-			"volume": "3",
-			"last_updated": "1675900800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlqxo42"
-			}
-		},
-		"21": {
-			"title": "Absolument ahurissante",
-			"volume": "3",
-			"last_updated": "1676592000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9j29eyp"
-			}
-		},
-		"22": {
-			"title": "La Coupe Mainichi",
-			"volume": "3",
-			"last_updated": "1677110400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnpgzyr"
-			}
-		},
-		"23": {
-			"title": "Une fille-jument ordinaire",
-			"volume": "3",
-			"last_updated": "1677801600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3vxz4x"
-			}
-		},
-		"24": {
-			"title": "Il n'y a pas d'idéaux sans rêves",
-			"volume": "3",
-			"last_updated": "1678406400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zez3834j"
-			}
-		},
-		"25": {
-			"title": "Dignité",
-			"volume": "3",
-			"last_updated": "1678406400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2evg3yd"
-			}
-		},
-		"26": {
-			"title": "Le Derby Japonais",
-			"volume": "3",
-			"last_updated": "1678924800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgl5r4j"
-			}
-		},
-		"27": {
-			"title": "Les Plus Hauts Sommets",
-			"volume": "4",
-			"last_updated": "1679443200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqrg837l"
-			}
-		},
-		"28": {
-			"title": "Je vais avancer à mon rythme",
-			"volume": "4",
-			"last_updated": "1680220800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vdz5o7b"
-			}
-		},
-		"29": {
-			"title": "La plus forte",
-			"volume": "4",
-			"last_updated": "1680220800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pl852y5"
-			}
-		},
-		"30": {
-			"title": "La meilleure fille-jument du Japon",
-			"volume": "4",
-			"last_updated": "1681084800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqk69948"
-			}
-		},
-		"31": {
-			"title": "Vacances d'été",
-			"volume": "4",
-			"last_updated": "1681084800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwv83yq"
-			}
-		},
-		"32": {
-			"title": "Mainichi Okan",
-			"volume": "4",
-			"last_updated": "1681516800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wrap2yn"
-			}
-		},
-		"33": {
-			"title": "Là où personne ne peut t'atteindre",
-			"volume": "4",
-			"last_updated": "1681948800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw92jz4n"
-			}
-		},
-		"34": {
-			"title": "La star de Kasamatsu",
-			"volume": "4",
-			"last_updated": "1683763200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2qd6yo"
-			}
-		},
-		"35": {
-			"title": "Uniforme de course",
-			"volume": "4",
-			"last_updated": "1683763200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmpkn45"
-			}
-		},
-		"36": {
-			"title": "Elle n'est plus la même qu'avant",
-			"volume": "4",
-			"last_updated": "1683763200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6rvq48"
-			}
-		},
-		"37": {
-			"title": "Tennô-Sho d'Automne",
-			"volume": "5",
-			"last_updated": "1684368000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownlqd4p"
-			}
-		},
-		"38": {
-			"title": "Aller de l'avant",
-			"volume": "5",
-			"last_updated": "1684972800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9e8j7l"
-			}
-		},
-		"39": {
-			"title": "Pour ce jour précis",
-			"volume": "5",
-			"last_updated": "1685577600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlqro42"
-			}
-		},
-		"40": {
-			"title": "Les pas d'un monstre",
-			"volume": "5",
-			"last_updated": "1686268800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvk2pyx"
-			}
-		},
-		"41": {
-			"title": "Éclair Blanc",
-			"volume": "5",
-			"last_updated": "1686787200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmwz6wyk"
-			}
-		},
-		"42": {
-			"title": "La Zone",
-			"volume": "5",
-			"last_updated": "1686787200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3vmz4x"
-			}
-		},
-		"43": {
-			"title": "La meilleure du Japon",
-			"volume": "5",
-			"last_updated": "1687996800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnp5zyr"
-			}
-		},
-		"44": {
-			"title": "Celle que je veux battre",
-			"volume": "5",
-			"last_updated": "1687996800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9j2meyp"
-			}
-		},
-		"45": {
-			"title": "Miracle",
-			"volume": "5",
-			"last_updated": "1688601600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zez3n34j"
-			}
-		},
-		"46": {
-			"title": "Notre histoire",
-			"volume": "5",
-			"last_updated": "1689206400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2evm3yd"
-			}
-		},
-		"47": {
-			"title": "Je vais devenir plus forte",
-			"volume": "5",
-			"last_updated": "1689897600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjglwr4j"
-			}
-		},
-		"48": {
-			"title": "Niveau mondial",
-			"volume": "6",
-			"last_updated": "1690416000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxnlbyd"
-			}
-		},
-		"49": {
-			"title": "Mon ennemie",
-			"volume": "6",
-			"last_updated": "1690416000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pl8q2y5"
-			}
-		},
-		"50": {
-			"title": "Entrer dans l’histoire",
-			"volume": "6",
-			"last_updated": "1691020800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqk6r948"
-			}
-		},
-		"51": {
-			"title": "La Coupe Japonaise",
-			"volume": "6",
-			"last_updated": "1691020800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjxdwyx"
-			}
-		},
-		"52": {
-			"title": "Se battre pour une position",
-			"volume": "6",
-			"last_updated": "1691625600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2q86yo"
-			}
-		},
-		"53": {
-			"title": "GOGOGOGO !!!",
-			"volume": "6",
-			"last_updated": "1693612800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw928z4n"
-			}
-		},
-		"54": {
-			"title": "Présence",
-			"volume": "6",
-			"last_updated": "1693612800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwv33yq"
-			}
-		},
-		"55": {
-			"title": "Wild Joker",
-			"volume": "6",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmpqn45"
-			}
-		},
-		"56": {
-			"title": "Si tu le peux seulement",
-			"volume": "6",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9249wra32yn"
-			}
-		},
-		"57": {
-			"title": "La zone dangereuse",
-			"volume": "6",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9e2j7l"
-			}
-		},
-		"58": {
-			"title": "Pour prouver ma valeur",
-			"volume": "7",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvkopyx"
-			}
-		},
-		"59": {
-			"title": "Une sortie de similitude",
-			"volume": "7",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/md7ownl8d4p"
-			}
-		},
-		"60": {
-			"title": "Cela ne se finira pas sur une défaite",
-			"volume": "7",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6r8q48"
-			}
-		},
-		"61": {
-			"title": "Territoire inconnu",
-			"volume": "7",
-			"last_updated": "1693872000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9e297l"
-			}
-		},
-		"62": {
-			"title": "Entraînement",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jka38278"
-			}
-		},
-		"63": {
-			"title": "Finalement je n'abandonnerai pas",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jka38x78"
-			}
-		},
-		"64": {
-			"title": "Connaître mieux que quiconque",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlq2n42"
-			}
-		},
-		"65": {
-			"title": "Ce territoire",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmwzqlyk"
-			}
-		},
-		"66": {
-			"title": "La réponse",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2evdqyd"
-			}
-		},
-		"67": {
-			"title": "Take it easy",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwxnanyd"
-			}
-		},
-		"68": {
-			"title": "Arima Kinen",
-			"volume": "7",
-			"last_updated": "1693958400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnpdjyr"
-			}
-		},
-		"69": {
-			"title": "Sois toi même",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pl8mqy5"
-			}
-		},
-		"70": {
-			"title": "Pitoyable",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqrg227l"
-			}
-		},
-		"71": {
-			"title": "Compte à rebours",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3v9g4x"
-			}
-		},
-		"72": {
-			"title": "Bullet Kick",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/wl7lgvkwqyx"
-			}
-		},
-		"73": {
-			"title": "Gray Phantom",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/5xy2a9eo97l"
-			}
-		},
-		"74": {
-			"title": "Viens courir avec moi",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/dl7pe2qnpyo"
-			}
-		},
-		"75": {
-			"title": "Une nouvelle ère",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/vj4jka3mx78"
-			}
-		},
-		"76": {
-			"title": "Bon retour",
-			"volume": "8",
-			"last_updated": "1694044800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/lqye2evnqyd"
-			}
-		},
-		"77": {
-			"title": "L'arme Ultime d'Ooi",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez3md4j"
-			}
-		},
-		"78": {
-			"title": "Daishoten de Tokyo",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/6eyr9j25gyp"
-			}
-		},
-		"79": {
-			"title": "Nouvelle ère",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/pg73gnp6jyr"
-			}
-		},
-		"80": {
-			"title": "Le prix fort",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/n87wd3vqg4x"
-			}
-		},
-		"81": {
-			"title": "Hawaii",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/ej7mwxnvnyd"
-			}
-		},
-		"82": {
-			"title": "Rétablie",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/qe4gjglpj4j"
-			}
-		},
-		"83": {
-			"title": "Exactement ce que je pensais",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/xny8vdz257b"
-			}
-		},
-		"84": {
-			"title": "La famille Mejiro",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/bp45pl86qy5"
-			}
-		},
-		"85": {
-			"title": "Être poursuivie",
-			"volume": "9",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/o24aqrgn27l"
-			}
-		},
-		"86": {
-			"title": "La course ne finira jamais",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez35d4j"
-			}
-		},
-		"87": {
-			"title": "Habitude",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/9249wra2myn"
-			}
-		},
-		"88": {
-			"title": "L'illusion du renard",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/9p4nw92vm4n"
-			}
-		},
-		"89": {
-			"title": "Je ne la laisserai pas partir",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/agyvqk6xj48"
-			}
-		},
-		"90": {
-			"title": "Elle m'a eue !",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/a846wjx3oyx"
-			}
-		},
-		"91": {
-			"title": "L'âge d'or",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/na7km6rab48"
-			}
-		},
-		"92": {
-			"title": "Société",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/ne7bdmplj45"
-			}
-		},
-		"93": {
-			"title": "Assurément",
-			"volume": "11",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/5xy2a9eq97l"
-			}
-		},
-		"94": {
-			"title": "La fille de Hidehito Nase",
-			"volume": "11",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/6eyr9j2ngyp"
-			}
-		},
-		"95": {
-			"title": "Lever de rideau",
-			"volume": "11",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/ljyqxlqan42"
-			}
-		},
-		"96": {
-			"title": "Admiration",
-			"volume": "11",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/wl7lgvkaqyx"
-			}
-		},
-		"97": {
-			"title": "Totalement différente",
-			"volume": "11",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/ej7mwxnenyd"
-			}
-		},
-		"98": {
-			"title": "Frappe préventive",
-			"volume": "11",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/pg73gnpojyr"
-			}
-		},
-		"99": {
-			"title": "Sous son contrôle",
-			"volume": "11",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/lqye2evlqyd"
-			}
-		},
-		"100": {
-			"title": "Routine",
-			"volume": "11",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/dl7pe2qapyo"
-			}
-		},
-		"101": {
-			"title": "Ma coach",
-			"volume": "11",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/md7ownlar4p"
-			}
-		},
-		"102": {
-			"title": "Halloween",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/n87wd3vng4x"
-			}
-		},
-		"103": {
-			"title": "La Reine du Mile",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez3pd4j"
-			}
-		},
-		"104": {
-			"title": "Consécutives",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/xny8vdz657b"
-			}
-		},
-		"105": {
-			"title": "Je n'ai aucun regrets",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/o24aqrg627l"
-			}
-		},
-		"106": {
-			"title": "Raisons de refuser",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/m9yxrwvnqyq"
-			}
-		},
-		"107": {
-			"title": "Possibilité",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/9p4nw92zm4n"
-			}
-		},
-		"108": {
-			"title": "Je vise la victoire, ouais !",
-			"volume": "12",
-			"last_updated": "1694304000",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/a846wjxooyx"
-			}
-		},
-		"109": {
-			"title": "Mile CS",
-			"volume": "12",
-			"last_updated": "1704412800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/agyvqk6nj48"
-			}
-		},
-		"110": {
-			"title": "Rêve",
-			"volume": "12",
-			"last_updated": "1704412800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/md7ownlbr4p"
-			}
-		},
-		"111": {
-			"title": "Croire",
-			"volume": "13",
-			"last_updated": "1704412800",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/9249wrakmyn"
-			}
-		},
-		"112": {
-			"title": "Par tous les moyens",
-			"volume": "13",
-			"last_updated": "1715212800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2qk8yo"
-			}
-		},
-		"113": {
-			"title": "La nouvelle reine du mile",
-			"volume": "13",
-			"last_updated": "1715212800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnpbzyr"
-			}
-		},
-		"114": {
-			"title": "On se reverra",
-			"volume": "13",
-			"last_updated": "1715212800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pl832y5"
-			}
-		},
-		"115": {
-			"title": "Cette fois, ce sera équitable",
-			"volume": "13",
-			"last_updated": "1715817600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jka3q278"
-			}
-		},
-		"116": {
-			"title": "Je suis dans mon éléphant !",
-			"volume": "13",
-			"last_updated": "1715817600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmwzjwyk"
-			}
-		},
-		"117": {
-			"title": "Au top de la forme",
-			"volume": "13",
-			"last_updated": "1716422400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9j2xeyp"
-			}
-		},
-		"118": {
-			"title": "Tes mots",
-			"volume": "13",
-			"last_updated": "1716422400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw923w4n"
-			}
-		},
-		"119": {
-			"title": "Sans supercherie",
-			"volume": "13",
-			"last_updated": "1716422400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zez3d34j"
-			}
-		},
-		"120": {
-			"title": "Une image vaut mieux que mille jurons !",
-			"volume": "14",
-			"last_updated": "1717027200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmp2k45"
-			}
-		},
-		"121": {
-			"title": "Insoutenable",
-			"volume": "14",
-			"last_updated": "1717027200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlq8o42"
-			}
-		},
-		"122": {
-			"title": "À ta place",
-			"volume": "14",
-			"last_updated": "1717632000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9ebn7l"
-			}
-		},
-		"123": {
-			"title": "Are you ready ?",
-			"volume": "14",
-			"last_updated": "1717632000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6rdk48"
-			}
-		},
-		"124": {
-			"title": "Showdown",
-			"volume": "14",
-			"last_updated": "1718236800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgler4j"
-			}
-		},
-		"125": {
-			"title": "Qui suis-je ?",
-			"volume": "14",
-			"last_updated": "1718841600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jka3q578"
-			}
-		},
-		"126": {
-			"title": "Qui es-tu ?",
-			"volume": "14",
-			"last_updated": "1718841600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwvmmyq"
-			}
-		},
-		"127": {
-			"title": "Folkqueen",
-			"volume": "14",
-			"last_updated": "1719446400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqrg337l"
-			}
-		},
-		"128": {
-			"title": "2.22.2",
-			"volume": "14",
-			"last_updated": "1719446400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjxlgyx"
-			}
-		},
-		"129": {
-			"title": "Par son courage",
-			"volume": "15",
-			"last_updated": "1720051200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/5xy2a9ebj7l"
-			}
-		},
-		"130": {
-			"title": "La plus grande fille-jument du monde entier",
-			"volume": "15",
-			"last_updated": "1720051200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvk3pyx"
-			}
-		},
-		"131": {
-			"title": "On trépigne d'impatience",
-			"volume": "15",
-			"last_updated": "1720656000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pl82xy5"
-			}
-		},
-		"132": {
-			"title": "Tout ce que j'ai à faire",
-			"volume": "15",
-			"last_updated": "1720656000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvk36yx"
-			}
-		},
-		"133": {
-			"title": "Phénomène de société",
-			"volume": "15",
-			"last_updated": "1721260800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3vlz4x"
-			}
-		},
-		"134": {
-			"title": "Maintenant c'est ton tour",
-			"volume": "15",
-			"last_updated": "1721260800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqk6vw48"
-			}
-		},
-		"135": {
-			"title": "Protagoniste absolue",
-			"volume": "15",
-			"last_updated": "1721865600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ne7bdmp5n45"
-			}
-		},
-		"136": {
-			"title": "Je l'aime beaucoup",
-			"volume": "15",
-			"last_updated": "1723075200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2qv6yo"
-			}
-		},
-		"137": {
-			"title": "Antagoniste",
-			"volume": "16",
-			"last_updated": "1724457600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nw92nz4n"
-			}
-		},
-		"138": {
-			"title": "Tu as l'air d'avoir retrouvé le moral",
-			"volume": "16",
-			"last_updated": "1724889600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/na7km6roq48"
-			}
-		},
-		"139": {
-			"title": "Je n'ai pas le droit de perdre",
-			"volume": "16",
-			"last_updated": "1725494400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/wl7lgvk9pyx"
-			}
-		},
-		"140": {
-			"title": "Le seul et unique moyen",
-			"volume": "16",
-			"last_updated": "1726704000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4jka39278"
-			}
-		},
-		"141": {
-			"title": "Domination Absolue",
-			"volume": "16",
-			"last_updated": "1727308800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmwzxwyk"
-			}
-		},
-		"142": {
-			"title": "Ça faisait longtemps",
-			"volume": "16",
-			"last_updated": "1727913600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqxlqvo42"
-			}
-		},
-		"143": {
-			"title": "Une grande fille-jument",
-			"volume": "16",
-			"last_updated": "1728518400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnprzyr"
-			}
-		},
-		"144": {
-			"title": "La grande réception de fin d'année",
-			"volume": "16",
-			"last_updated": "1729123200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/6eyr9j2veyp"
-			}
-		},
-		"145": {
-			"title": "Les trois légendes éternelles",
-			"volume": "16",
-			"last_updated": "1729728000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgljr4j"
-			}
-		},
-		"146": {
-			"title": "Ça faisait longtemps",
-			"volume": "17",
-			"last_updated": "1730937600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zez3e34j"
-			}
-		},
-		"147": {
-			"title": "Encore une fois",
-			"volume": "17",
-			"last_updated": "1731542400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2ev23yd"
-			}
-		},
-		"148": {
-			"title": "Match retour",
-			"volume": "17",
-			"last_updated": "1732752000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3vdz4x"
-			}
-		},
-		"149": {
-			"title": "Un choix pour la victoire",
-			"volume": "17",
-			"last_updated": "1738800000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vdzvo7b"
-			}
-		},
-		"150": {
-			"title": "Courses de divertissement",
-			"volume": "17",
-			"last_updated": "1742601600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pl8p2y5"
-			}
-		},
-		"151": {
-			"title": "Fais-leur mordre la poussière",
-			"volume": "17",
-			"last_updated": "1747855243",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezxag4j"
-			}
-		},
-		"152": {
-			"title": "Je ne perdrai pas",
-			"volume": "17",
-			"last_updated": "1755865420",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/vj4j8kpn278"
-			}
-		},
-		"92.5": {
-			"title": "EX 1 \"Noël S\"",
-			"volume": "10",
-			"last_updated": "1694217600",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/m9yxrwv9qyq"
-			}
-		},
-		"76.5": {
-			"title": "76.5",
-			"volume": "8",
-			"last_updated": "1694131200",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/ljyqxlqkn42"
-			}
-		},
-		"64.5": {
-			"title": "Uma Musume Cinderella Gray Spin-Off : Éclair Lointain",
-			"volume": "",
-			"last_updated": "1751650375",
-			"groups": {
-				"umamusume, ScanR": "/proxy/api/imgchest/chapter/5xy28gv29yl"
-			}
-		}
-	}
+  "title": "Uma Musume - Cinderella Gray",
+  "slug": "cinderella-gray",
+  "description": "Uma Musume - Cinderella Gray est un spin-off du projet Uma Musume de Cygames. On y suit le personnage d'Oguri Cap tout au long de son séjour à la Kasamatsu Training Center Academy et de son parcours pour devenir une cavalière légendaire.",
+  "artist": "Kusumi Taiyo",
+  "author": "Sugiura Masafumi",
+  "cover": "https://meo.comick.pictures/d0Xj2Q.jpg",
+  "chapters": {
+    "1": {
+      "title": "Juste ici",
+      "volume": "1",
+      "last_updated": "1655424000",
+      "groups": {
+        "ScanR, Natsumi no Sekai": "/proxy/api/imgchest/chapter/md7ownlea4p"
+      }
+    },
+    "2": {
+      "title": "Faites-moi concourir",
+      "volume": "1",
+      "last_updated": "1656115200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wradvyn"
+      }
+    },
+    "3": {
+      "title": "Je peux peut-être lui faire confiance",
+      "volume": "1",
+      "last_updated": "1656460800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2eva3yd"
+      }
+    },
+    "4": {
+      "title": "Je gagnerai la prochaine fois",
+      "volume": "1",
+      "last_updated": "1657065600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjxpwyx"
+      }
+    },
+    "5": {
+      "title": "Un tout autre niveau",
+      "volume": "1",
+      "last_updated": "1658016000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxn3byd"
+      }
+    },
+    "6": {
+      "title": "La vue d'en haut",
+      "volume": "1",
+      "last_updated": "1659657600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlq8e42"
+      }
+    },
+    "7": {
+      "title": "Junior Crown",
+      "volume": "1",
+      "last_updated": "1661990400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vdz3o7b"
+      }
+    },
+    "8": {
+      "title": "Ne pas s'y attendre",
+      "volume": "2",
+      "last_updated": "1662508800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9eaj7l"
+      }
+    },
+    "9": {
+      "title": "Deux fois",
+      "volume": "2",
+      "last_updated": "1663027200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jka3k278"
+      }
+    },
+    "10": {
+      "title": "Le plus haut niveau de la région",
+      "volume": "2",
+      "last_updated": "1663804800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqrgq37l"
+      }
+    },
+    "11": {
+      "title": "Licence",
+      "volume": "2",
+      "last_updated": "1664755200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjxwwyx"
+      }
+    },
+    "12": {
+      "title": "Le meilleur choix",
+      "volume": "2",
+      "last_updated": "1665360000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wraw2yn"
+      }
+    },
+    "13": {
+      "title": "Dans ce cas, tu dois gagner",
+      "volume": "2",
+      "last_updated": "1665878400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqk6q948"
+      }
+    },
+    "14": {
+      "title": "Qu'est-ce que tu fous, bordel ?!",
+      "volume": "2",
+      "last_updated": "1666569600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwvr3yq"
+      }
+    },
+    "15": {
+      "title": "Monstre",
+      "volume": "2",
+      "last_updated": "1667174400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw92wz4n"
+      }
+    },
+    "16": {
+      "title": "Merci, Kasamatsu",
+      "volume": "2",
+      "last_updated": "1667952000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownlwd4p"
+      }
+    },
+    "17": {
+      "title": "L'Académie Tracen",
+      "volume": "3",
+      "last_updated": "1670025600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6rmq48"
+      }
+    },
+    "18": {
+      "title": "Inscriptions aux Classiques",
+      "volume": "3",
+      "last_updated": "1670976000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwzmwyk"
+      }
+    },
+    "19": {
+      "title": "Première course",
+      "volume": "3",
+      "last_updated": "1675296000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvkgpyx"
+      }
+    },
+    "20": {
+      "title": "Trembler d'excitation",
+      "volume": "3",
+      "last_updated": "1675900800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlqxo42"
+      }
+    },
+    "21": {
+      "title": "Absolument ahurissante",
+      "volume": "3",
+      "last_updated": "1676592000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9j29eyp"
+      }
+    },
+    "22": {
+      "title": "La Coupe Mainichi",
+      "volume": "3",
+      "last_updated": "1677110400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnpgzyr"
+      }
+    },
+    "23": {
+      "title": "Une fille-jument ordinaire",
+      "volume": "3",
+      "last_updated": "1677801600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3vxz4x"
+      }
+    },
+    "24": {
+      "title": "Il n'y a pas d'idéaux sans rêves",
+      "volume": "3",
+      "last_updated": "1678406400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zez3834j"
+      }
+    },
+    "25": {
+      "title": "Dignité",
+      "volume": "3",
+      "last_updated": "1678406400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2evg3yd"
+      }
+    },
+    "26": {
+      "title": "Le Derby Japonais",
+      "volume": "3",
+      "last_updated": "1678924800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgl5r4j"
+      }
+    },
+    "27": {
+      "title": "Les Plus Hauts Sommets",
+      "volume": "4",
+      "last_updated": "1679443200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqrg837l"
+      }
+    },
+    "28": {
+      "title": "Je vais avancer à mon rythme",
+      "volume": "4",
+      "last_updated": "1680220800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vdz5o7b"
+      }
+    },
+    "29": {
+      "title": "La plus forte",
+      "volume": "4",
+      "last_updated": "1680220800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pl852y5"
+      }
+    },
+    "30": {
+      "title": "La meilleure fille-jument du Japon",
+      "volume": "4",
+      "last_updated": "1681084800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqk69948"
+      }
+    },
+    "31": {
+      "title": "Vacances d'été",
+      "volume": "4",
+      "last_updated": "1681084800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwv83yq"
+      }
+    },
+    "32": {
+      "title": "Mainichi Okan",
+      "volume": "4",
+      "last_updated": "1681516800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wrap2yn"
+      }
+    },
+    "33": {
+      "title": "Là où personne ne peut t'atteindre",
+      "volume": "4",
+      "last_updated": "1681948800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw92jz4n"
+      }
+    },
+    "34": {
+      "title": "La star de Kasamatsu",
+      "volume": "4",
+      "last_updated": "1683763200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2qd6yo"
+      }
+    },
+    "35": {
+      "title": "Uniforme de course",
+      "volume": "4",
+      "last_updated": "1683763200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdmpkn45"
+      }
+    },
+    "36": {
+      "title": "Elle n'est plus la même qu'avant",
+      "volume": "4",
+      "last_updated": "1683763200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6rvq48"
+      }
+    },
+    "37": {
+      "title": "Tennô-Sho d'Automne",
+      "volume": "5",
+      "last_updated": "1684368000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownlqd4p"
+      }
+    },
+    "38": {
+      "title": "Aller de l'avant",
+      "volume": "5",
+      "last_updated": "1684972800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9e8j7l"
+      }
+    },
+    "39": {
+      "title": "Pour ce jour précis",
+      "volume": "5",
+      "last_updated": "1685577600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlqro42"
+      }
+    },
+    "40": {
+      "title": "Les pas d'un monstre",
+      "volume": "5",
+      "last_updated": "1686268800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvk2pyx"
+      }
+    },
+    "41": {
+      "title": "Éclair Blanc",
+      "volume": "5",
+      "last_updated": "1686787200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwz6wyk"
+      }
+    },
+    "42": {
+      "title": "La Zone",
+      "volume": "5",
+      "last_updated": "1686787200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3vmz4x"
+      }
+    },
+    "43": {
+      "title": "La meilleure du Japon",
+      "volume": "5",
+      "last_updated": "1687996800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnp5zyr"
+      }
+    },
+    "44": {
+      "title": "Celle que je veux battre",
+      "volume": "5",
+      "last_updated": "1687996800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9j2meyp"
+      }
+    },
+    "45": {
+      "title": "Miracle",
+      "volume": "5",
+      "last_updated": "1688601600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zez3n34j"
+      }
+    },
+    "46": {
+      "title": "Notre histoire",
+      "volume": "5",
+      "last_updated": "1689206400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2evm3yd"
+      }
+    },
+    "47": {
+      "title": "Je vais devenir plus forte",
+      "volume": "5",
+      "last_updated": "1689897600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjglwr4j"
+      }
+    },
+    "48": {
+      "title": "Niveau mondial",
+      "volume": "6",
+      "last_updated": "1690416000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxnlbyd"
+      }
+    },
+    "49": {
+      "title": "Mon ennemie",
+      "volume": "6",
+      "last_updated": "1690416000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pl8q2y5"
+      }
+    },
+    "50": {
+      "title": "Entrer dans l’histoire",
+      "volume": "6",
+      "last_updated": "1691020800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqk6r948"
+      }
+    },
+    "51": {
+      "title": "La Coupe Japonaise",
+      "volume": "6",
+      "last_updated": "1691020800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjxdwyx"
+      }
+    },
+    "52": {
+      "title": "Se battre pour une position",
+      "volume": "6",
+      "last_updated": "1691625600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2q86yo"
+      }
+    },
+    "53": {
+      "title": "GOGOGOGO !!!",
+      "volume": "6",
+      "last_updated": "1693612800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw928z4n"
+      }
+    },
+    "54": {
+      "title": "Présence",
+      "volume": "6",
+      "last_updated": "1693612800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwv33yq"
+      }
+    },
+    "55": {
+      "title": "Wild Joker",
+      "volume": "6",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdmpqn45"
+      }
+    },
+    "56": {
+      "title": "Si tu le peux seulement",
+      "volume": "6",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9249wra32yn"
+      }
+    },
+    "57": {
+      "title": "La zone dangereuse",
+      "volume": "6",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9e2j7l"
+      }
+    },
+    "58": {
+      "title": "Pour prouver ma valeur",
+      "volume": "7",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvkopyx"
+      }
+    },
+    "59": {
+      "title": "Une sortie de similitude",
+      "volume": "7",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/md7ownl8d4p"
+      }
+    },
+    "60": {
+      "title": "Cela ne se finira pas sur une défaite",
+      "volume": "7",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6r8q48"
+      }
+    },
+    "61": {
+      "title": "Territoire inconnu",
+      "volume": "7",
+      "last_updated": "1693872000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9e297l"
+      }
+    },
+    "62": {
+      "title": "Entraînement",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jka38278"
+      }
+    },
+    "63": {
+      "title": "Finalement je n'abandonnerai pas",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jka38x78"
+      }
+    },
+    "64": {
+      "title": "Connaître mieux que quiconque",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlq2n42"
+      }
+    },
+    "65": {
+      "title": "Ce territoire",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwzqlyk"
+      }
+    },
+    "66": {
+      "title": "La réponse",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2evdqyd"
+      }
+    },
+    "67": {
+      "title": "Take it easy",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwxnanyd"
+      }
+    },
+    "68": {
+      "title": "Arima Kinen",
+      "volume": "7",
+      "last_updated": "1693958400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnpdjyr"
+      }
+    },
+    "69": {
+      "title": "Sois toi même",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pl8mqy5"
+      }
+    },
+    "70": {
+      "title": "Pitoyable",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqrg227l"
+      }
+    },
+    "71": {
+      "title": "Compte à rebours",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3v9g4x"
+      }
+    },
+    "72": {
+      "title": "Bullet Kick",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/wl7lgvkwqyx"
+      }
+    },
+    "73": {
+      "title": "Gray Phantom",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/5xy2a9eo97l"
+      }
+    },
+    "74": {
+      "title": "Viens courir avec moi",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/dl7pe2qnpyo"
+      }
+    },
+    "75": {
+      "title": "Une nouvelle ère",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/vj4jka3mx78"
+      }
+    },
+    "76": {
+      "title": "Bon retour",
+      "volume": "8",
+      "last_updated": "1694044800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/lqye2evnqyd"
+      }
+    },
+    "77": {
+      "title": "L'arme Ultime d'Ooi",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez3md4j"
+      }
+    },
+    "78": {
+      "title": "Daishoten de Tokyo",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/6eyr9j25gyp"
+      }
+    },
+    "79": {
+      "title": "Nouvelle ère",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/pg73gnp6jyr"
+      }
+    },
+    "80": {
+      "title": "Le prix fort",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/n87wd3vqg4x"
+      }
+    },
+    "81": {
+      "title": "Hawaii",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/ej7mwxnvnyd"
+      }
+    },
+    "82": {
+      "title": "Rétablie",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/qe4gjglpj4j"
+      }
+    },
+    "83": {
+      "title": "Exactement ce que je pensais",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/xny8vdz257b"
+      }
+    },
+    "84": {
+      "title": "La famille Mejiro",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/bp45pl86qy5"
+      }
+    },
+    "85": {
+      "title": "Être poursuivie",
+      "volume": "9",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/o24aqrgn27l"
+      }
+    },
+    "86": {
+      "title": "La course ne finira jamais",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez35d4j"
+      }
+    },
+    "87": {
+      "title": "Habitude",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/9249wra2myn"
+      }
+    },
+    "88": {
+      "title": "L'illusion du renard",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/9p4nw92vm4n"
+      }
+    },
+    "89": {
+      "title": "Je ne la laisserai pas partir",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/agyvqk6xj48"
+      }
+    },
+    "90": {
+      "title": "Elle m'a eue !",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/a846wjx3oyx"
+      }
+    },
+    "91": {
+      "title": "L'âge d'or",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/na7km6rab48"
+      }
+    },
+    "92": {
+      "title": "Société",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/ne7bdmplj45"
+      }
+    },
+    "93": {
+      "title": "Assurément",
+      "volume": "11",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/5xy2a9eq97l"
+      }
+    },
+    "94": {
+      "title": "La fille de Hidehito Nase",
+      "volume": "11",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/6eyr9j2ngyp"
+      }
+    },
+    "95": {
+      "title": "Lever de rideau",
+      "volume": "11",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/ljyqxlqan42"
+      }
+    },
+    "96": {
+      "title": "Admiration",
+      "volume": "11",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/wl7lgvkaqyx"
+      }
+    },
+    "97": {
+      "title": "Totalement différente",
+      "volume": "11",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/ej7mwxnenyd"
+      }
+    },
+    "98": {
+      "title": "Frappe préventive",
+      "volume": "11",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/pg73gnpojyr"
+      }
+    },
+    "99": {
+      "title": "Sous son contrôle",
+      "volume": "11",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/lqye2evlqyd"
+      }
+    },
+    "100": {
+      "title": "Routine",
+      "volume": "11",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/dl7pe2qapyo"
+      }
+    },
+    "101": {
+      "title": "Ma coach",
+      "volume": "11",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/md7ownlar4p"
+      }
+    },
+    "102": {
+      "title": "Halloween",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/n87wd3vng4x"
+      }
+    },
+    "103": {
+      "title": "La Reine du Mile",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/qb4zez3pd4j"
+      }
+    },
+    "104": {
+      "title": "Consécutives",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/xny8vdz657b"
+      }
+    },
+    "105": {
+      "title": "Je n'ai aucun regrets",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/o24aqrg627l"
+      }
+    },
+    "106": {
+      "title": "Raisons de refuser",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/m9yxrwvnqyq"
+      }
+    },
+    "107": {
+      "title": "Possibilité",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/9p4nw92zm4n"
+      }
+    },
+    "108": {
+      "title": "Je vise la victoire, ouais !",
+      "volume": "12",
+      "last_updated": "1694304000",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/a846wjxooyx"
+      }
+    },
+    "109": {
+      "title": "Mile CS",
+      "volume": "12",
+      "last_updated": "1704412800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/agyvqk6nj48"
+      }
+    },
+    "110": {
+      "title": "Rêve",
+      "volume": "12",
+      "last_updated": "1704412800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/md7ownlbr4p"
+      }
+    },
+    "111": {
+      "title": "Croire",
+      "volume": "13",
+      "last_updated": "1704412800",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/9249wrakmyn"
+      }
+    },
+    "112": {
+      "title": "Par tous les moyens",
+      "volume": "13",
+      "last_updated": "1715212800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2qk8yo"
+      }
+    },
+    "113": {
+      "title": "La nouvelle reine du mile",
+      "volume": "13",
+      "last_updated": "1715212800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnpbzyr"
+      }
+    },
+    "114": {
+      "title": "On se reverra",
+      "volume": "13",
+      "last_updated": "1715212800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pl832y5"
+      }
+    },
+    "115": {
+      "title": "Cette fois, ce sera équitable",
+      "volume": "13",
+      "last_updated": "1715817600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jka3q278"
+      }
+    },
+    "116": {
+      "title": "Je suis dans mon éléphant !",
+      "volume": "13",
+      "last_updated": "1715817600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwzjwyk"
+      }
+    },
+    "117": {
+      "title": "Au top de la forme",
+      "volume": "13",
+      "last_updated": "1716422400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9j2xeyp"
+      }
+    },
+    "118": {
+      "title": "Tes mots",
+      "volume": "13",
+      "last_updated": "1716422400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw923w4n"
+      }
+    },
+    "119": {
+      "title": "Sans supercherie",
+      "volume": "13",
+      "last_updated": "1716422400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zez3d34j"
+      }
+    },
+    "120": {
+      "title": "Une image vaut mieux que mille jurons !",
+      "volume": "14",
+      "last_updated": "1717027200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdmp2k45"
+      }
+    },
+    "121": {
+      "title": "Insoutenable",
+      "volume": "14",
+      "last_updated": "1717027200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlq8o42"
+      }
+    },
+    "122": {
+      "title": "À ta place",
+      "volume": "14",
+      "last_updated": "1717632000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9ebn7l"
+      }
+    },
+    "123": {
+      "title": "Are you ready ?",
+      "volume": "14",
+      "last_updated": "1717632000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6rdk48"
+      }
+    },
+    "124": {
+      "title": "Showdown",
+      "volume": "14",
+      "last_updated": "1718236800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgler4j"
+      }
+    },
+    "125": {
+      "title": "Qui suis-je ?",
+      "volume": "14",
+      "last_updated": "1718841600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jka3q578"
+      }
+    },
+    "126": {
+      "title": "Qui es-tu ?",
+      "volume": "14",
+      "last_updated": "1718841600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwvmmyq"
+      }
+    },
+    "127": {
+      "title": "Folkqueen",
+      "volume": "14",
+      "last_updated": "1719446400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqrg337l"
+      }
+    },
+    "128": {
+      "title": "2.22.2",
+      "volume": "14",
+      "last_updated": "1719446400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjxlgyx"
+      }
+    },
+    "129": {
+      "title": "Par son courage",
+      "volume": "15",
+      "last_updated": "1720051200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/5xy2a9ebj7l"
+      }
+    },
+    "130": {
+      "title": "La plus grande fille-jument du monde entier",
+      "volume": "15",
+      "last_updated": "1720051200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvk3pyx"
+      }
+    },
+    "131": {
+      "title": "On trépigne d'impatience",
+      "volume": "15",
+      "last_updated": "1720656000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pl82xy5"
+      }
+    },
+    "132": {
+      "title": "Tout ce que j'ai à faire",
+      "volume": "15",
+      "last_updated": "1720656000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvk36yx"
+      }
+    },
+    "133": {
+      "title": "Phénomène de société",
+      "volume": "15",
+      "last_updated": "1721260800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3vlz4x"
+      }
+    },
+    "134": {
+      "title": "Maintenant c'est ton tour",
+      "volume": "15",
+      "last_updated": "1721260800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqk6vw48"
+      }
+    },
+    "135": {
+      "title": "Protagoniste absolue",
+      "volume": "15",
+      "last_updated": "1721865600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ne7bdmp5n45"
+      }
+    },
+    "136": {
+      "title": "Je l'aime beaucoup",
+      "volume": "15",
+      "last_updated": "1723075200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2qv6yo"
+      }
+    },
+    "137": {
+      "title": "Antagoniste",
+      "volume": "16",
+      "last_updated": "1724457600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nw92nz4n"
+      }
+    },
+    "138": {
+      "title": "Tu as l'air d'avoir retrouvé le moral",
+      "volume": "16",
+      "last_updated": "1724889600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/na7km6roq48"
+      }
+    },
+    "139": {
+      "title": "Je n'ai pas le droit de perdre",
+      "volume": "16",
+      "last_updated": "1725494400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/wl7lgvk9pyx"
+      }
+    },
+    "140": {
+      "title": "Le seul et unique moyen",
+      "volume": "16",
+      "last_updated": "1726704000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4jka39278"
+      }
+    },
+    "141": {
+      "title": "Domination Absolue",
+      "volume": "16",
+      "last_updated": "1727308800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwzxwyk"
+      }
+    },
+    "142": {
+      "title": "Ça faisait longtemps",
+      "volume": "16",
+      "last_updated": "1727913600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqxlqvo42"
+      }
+    },
+    "143": {
+      "title": "Une grande fille-jument",
+      "volume": "16",
+      "last_updated": "1728518400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnprzyr"
+      }
+    },
+    "144": {
+      "title": "La grande réception de fin d'année",
+      "volume": "16",
+      "last_updated": "1729123200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyr9j2veyp"
+      }
+    },
+    "145": {
+      "title": "Les trois légendes éternelles",
+      "volume": "16",
+      "last_updated": "1729728000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgljr4j"
+      }
+    },
+    "146": {
+      "title": "Ça faisait longtemps",
+      "volume": "17",
+      "last_updated": "1730937600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zez3e34j"
+      }
+    },
+    "147": {
+      "title": "Encore une fois",
+      "volume": "17",
+      "last_updated": "1731542400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2ev23yd"
+      }
+    },
+    "148": {
+      "title": "Match retour",
+      "volume": "17",
+      "last_updated": "1732752000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3vdz4x"
+      }
+    },
+    "149": {
+      "title": "Un choix pour la victoire",
+      "volume": "17",
+      "last_updated": "1738800000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vdzvo7b"
+      }
+    },
+    "150": {
+      "title": "Courses de divertissement",
+      "volume": "17",
+      "last_updated": "1742601600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pl8p2y5"
+      }
+    },
+    "151": {
+      "title": "Fais-leur mordre la poussière",
+      "volume": "17",
+      "last_updated": "1747855243",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezxag4j"
+      }
+    },
+    "152": {
+      "title": "Je ne perdrai pas",
+      "volume": "17",
+      "last_updated": "1755865420",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/vj4j8kpn278"
+      }
+    },
+    "92.5": {
+      "title": "EX 1 \"Noël S\"",
+      "volume": "10",
+      "last_updated": "1694217600",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/m9yxrwv9qyq"
+      }
+    },
+    "76.5": {
+      "title": "76.5",
+      "volume": "8",
+      "last_updated": "1694131200",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/ljyqxlqkn42"
+      }
+    },
+    "64.5": {
+      "title": "Uma Musume Cinderella Gray Spin-Off : Éclair Lointain",
+      "volume": "",
+      "last_updated": "1751650375",
+      "groups": {
+        "umamusume, ScanR": "/proxy/api/imgchest/chapter/5xy28gv29yl"
+      }
+    },
+    "153": {
+      "title": "Tu es à la hauteur !",
+      "volume": "17",
+      "last_updated": "1763311335",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/6eyraj9v64p"
+      }
+    }
+  }
 }
