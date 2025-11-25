@@ -1,19 +1,19 @@
 {
-	"title": "At the End of 4 Minutes",
-	"slug": "at-the-of-4-minutes",
-	"description": "Anita, une assassine solitaire, se retrouve face à la Faucheuse. Mais si elle parvient à la repousser pendant quatre minutes, la mort lui sera épargnée, cette fois...",
-	"artist": "Hiramatsu Yariku",
-	"author": "Hiramatsu Yariku",
-	"cover": "https://meo.comick.pictures/XO1dK.jpg",
-	"os": true,
-	"chapters": {
-		"0": {
-			"title": "At the End of 4 Minutes",
-			"volume": "",
-			"last_updated": "1698706800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqrrlw7l"
-			}
-		}
-	}
+  "title": "At the End of 4 Minutes",
+  "slug": "at-the-of-4-minutes",
+  "description": "Anita, une assassine solitaire, se retrouve face à la Faucheuse. Mais si elle parvient à la repousser pendant quatre minutes, la mort lui sera épargnée, cette fois...",
+  "artist": "Hiramatsu Yariku",
+  "author": "Hiramatsu Yariku",
+  "cover": "https://cdn.imgchest.com/files/36e7ef578249.jpg",
+  "os": true,
+  "chapters": {
+    "0": {
+      "title": "At the End of 4 Minutes",
+      "volume": "",
+      "last_updated": "1698706800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqrrlw7l"
+      }
+    }
+  }
 }
