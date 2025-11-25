@@ -1,147 +1,147 @@
 {
-	"title": "Au Chœur de la Nuit",
-	"slug": "au-choeur-de-la-nuit",
-	"description": "Quand Arisu Yamabuki était plus jeune et tout seul la nuit, il retrouvait du réconfort envers une voix d'une mystérieuse animatrice de radio qui se faisait appelée \"Apollo.\".\nMais un jour, elle stoppe son émission et Arisu décide de la retrouver, même s'il ne sait rien d'elle. Il va rentrer dans le club de radio et va faire la rencontre de quatre filles qui veulent tous devenir des animatrices de radio.\nDu coup, qui est Apollo ? Et est-ce que ces 4 filles vont atteindre leurs rêves ?",
-	"artist": "Igarashi Masakuni",
-	"author": "Igarashi Masakuni",
-	"cover": "https://meo.comick.pictures/5pMLpj.jpg",
-	"completed": true,
-	"chapters": {
-		"1": {
-			"title": "RE:START",
-			"volume": "1",
-			"last_updated": "1723161600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ej7mwx2lbyd"
-			}
-		},
-		"2": {
-			"title": "Un message d'Arisu Yamabuki",
-			"volume": "1",
-			"last_updated": "1723766400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a846wjgdwyx"
-			}
-		},
-		"3": {
-			"title": "Menteur",
-			"volume": "1",
-			"last_updated": "1731283200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/xny8vdlmo7b"
-			}
-		},
-		"4": {
-			"title": "Trois semaines avant le baiser",
-			"volume": "1",
-			"last_updated": "1731283200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qe4gjgrwr4j"
-			}
-		},
-		"5": {
-			"title": "Ouverture",
-			"volume": "1",
-			"last_updated": "1731283200",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/m9yxrwg33yq"
-			}
-		},
-		"6": {
-			"title": "Fermez la porte à clé si c'est gênant",
-			"volume": "2",
-			"last_updated": "1731628800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/dl7pe2n3pyo"
-			}
-		},
-		"7": {
-			"title": "J'arrive pas à sourire devant la caméra",
-			"volume": "2",
-			"last_updated": "1732233600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/agyvqker948"
-			}
-		},
-		"8": {
-			"title": "Je peux pas sourire devant toi !",
-			"volume": "2",
-			"last_updated": "1736726400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/pg73gnj5zyr"
-			}
-		},
-		"9": {
-			"title": "Seule avec toi jusqu'à la tombée de la nuit",
-			"volume": "2",
-			"last_updated": "1738540800",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/o24aqrkj37l"
-			}
-		},
-		"10": {
-			"title": "Bonnie et Clyde",
-			"volume": "2",
-			"last_updated": "1739664000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/bp45pldq2y5"
-			}
-		},
-		"11": {
-			"title": "La superviseur s'appelle Lemon !",
-			"volume": "2",
-			"last_updated": "1740528000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/lqye2epm3yd"
-			}
-		},
-		"12": {
-			"title": "Je n'ai pas pu reconnaître sa voix",
-			"volume": "2",
-			"last_updated": "1743120000",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9rydmwp6wyk"
-			}
-		},
-		"13": {
-			"title": "Arisu Yamabuki",
-			"volume": "2",
-			"last_updated": "1746662400",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/n87wd3rmz4x"
-			}
-		},
-		"14": {
-			"title": "Anomalie de survol",
-			"volume": "2",
-			"last_updated": "1746921600",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/qb4zezkn34j"
-			}
-		},
-		"15": {
-			"title": "Nene l'a vu",
-			"volume": "3",
-			"last_updated": "1760640691",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/a8463p9e24x"
-			}
-		},
-		"16": {
-			"title": "C'est du gâteau",
-			"volume": "3",
-			"last_updated": "1760640691",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/9p4nvn6p5yn"
-			}
-		},
-		"17": {
-			"title": "C'est très chaud, alors faites attention",
-			"volume": "3",
-			"last_updated": "1760640691",
-			"groups": {
-				"ScanR": "/proxy/api/imgchest/chapter/ljyqav6nx72"
-			}
-		}
-	}
+  "title": "Au Chœur de la Nuit",
+  "slug": "au-choeur-de-la-nuit",
+  "description": "Quand Arisu Yamabuki était plus jeune et tout seul la nuit, il retrouvait du réconfort envers une voix d'une mystérieuse animatrice de radio qui se faisait appelée \"Apollo.\".\nMais un jour, elle stoppe son émission et Arisu décide de la retrouver, même s'il ne sait rien d'elle. Il va rentrer dans le club de radio et va faire la rencontre de quatre filles qui veulent tous devenir des animatrices de radio.\nDu coup, qui est Apollo ? Et est-ce que ces 4 filles vont atteindre leurs rêves ?",
+  "artist": "Igarashi Masakuni",
+  "author": "Igarashi Masakuni",
+  "cover": "https://cdn.imgchest.com/files/46783f13bb60.jpg",
+  "completed": true,
+  "chapters": {
+    "1": {
+      "title": "RE:START",
+      "volume": "1",
+      "last_updated": "1723161600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ej7mwx2lbyd"
+      }
+    },
+    "2": {
+      "title": "Un message d'Arisu Yamabuki",
+      "volume": "1",
+      "last_updated": "1723766400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a846wjgdwyx"
+      }
+    },
+    "3": {
+      "title": "Menteur",
+      "volume": "1",
+      "last_updated": "1731283200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/xny8vdlmo7b"
+      }
+    },
+    "4": {
+      "title": "Trois semaines avant le baiser",
+      "volume": "1",
+      "last_updated": "1731283200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qe4gjgrwr4j"
+      }
+    },
+    "5": {
+      "title": "Ouverture",
+      "volume": "1",
+      "last_updated": "1731283200",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/m9yxrwg33yq"
+      }
+    },
+    "6": {
+      "title": "Fermez la porte à clé si c'est gênant",
+      "volume": "2",
+      "last_updated": "1731628800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/dl7pe2n3pyo"
+      }
+    },
+    "7": {
+      "title": "J'arrive pas à sourire devant la caméra",
+      "volume": "2",
+      "last_updated": "1732233600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/agyvqker948"
+      }
+    },
+    "8": {
+      "title": "Je peux pas sourire devant toi !",
+      "volume": "2",
+      "last_updated": "1736726400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/pg73gnj5zyr"
+      }
+    },
+    "9": {
+      "title": "Seule avec toi jusqu'à la tombée de la nuit",
+      "volume": "2",
+      "last_updated": "1738540800",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/o24aqrkj37l"
+      }
+    },
+    "10": {
+      "title": "Bonnie et Clyde",
+      "volume": "2",
+      "last_updated": "1739664000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45pldq2y5"
+      }
+    },
+    "11": {
+      "title": "La superviseur s'appelle Lemon !",
+      "volume": "2",
+      "last_updated": "1740528000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/lqye2epm3yd"
+      }
+    },
+    "12": {
+      "title": "Je n'ai pas pu reconnaître sa voix",
+      "volume": "2",
+      "last_updated": "1743120000",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydmwp6wyk"
+      }
+    },
+    "13": {
+      "title": "Arisu Yamabuki",
+      "volume": "2",
+      "last_updated": "1746662400",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/n87wd3rmz4x"
+      }
+    },
+    "14": {
+      "title": "Anomalie de survol",
+      "volume": "2",
+      "last_updated": "1746921600",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zezkn34j"
+      }
+    },
+    "15": {
+      "title": "Nene l'a vu",
+      "volume": "3",
+      "last_updated": "1760640691",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/a8463p9e24x"
+      }
+    },
+    "16": {
+      "title": "C'est du gâteau",
+      "volume": "3",
+      "last_updated": "1760640691",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9p4nvn6p5yn"
+      }
+    },
+    "17": {
+      "title": "C'est très chaud, alors faites attention",
+      "volume": "3",
+      "last_updated": "1760640691",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/ljyqav6nx72"
+      }
+    }
+  }
 }
