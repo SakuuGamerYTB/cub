@@ -1349,6 +1349,30 @@
       "groups": {
         "ScanR": "/proxy/api/imgchest/chapter/qe4gk3v6r7j"
       }
+    },
+    "165": {
+      "title": "Le rythme est maître",
+      "volume": "19",
+      "last_updated": "1779435609",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/bp45ewoeg45"
+      }
+    },
+    "166": {
+      "title": "Plus semblables que tu ne le penses",
+      "volume": "19",
+      "last_updated": "1779435610",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/9rydog29d7k"
+      }
+    },
+    "167": {
+      "title": "Bande de Monstres",
+      "volume": "19",
+      "last_updated": "1779435611",
+      "groups": {
+        "ScanR": "/proxy/api/imgchest/chapter/qb4zqgp2g4j"
+      }
     }
   }
 }
