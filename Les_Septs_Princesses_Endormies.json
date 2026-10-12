@@ -5,6 +5,13 @@
   "artist": "Fiok Lee",
   "author": "Fiok Lee",
   "cover": "https://cdn.imgchest.com/files/72a8dbbb89ce.png",
+  "year": 2023,
+  "tags": [
+    "Romance",
+    "Comédie",
+    "Fantasy",
+    "Magie"
+  ],
   "chapters": {
     "1": {
       "title": "Les baisers interdits",

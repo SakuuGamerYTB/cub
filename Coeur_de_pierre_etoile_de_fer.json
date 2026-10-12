@@ -5,6 +5,13 @@
   "artist": "Endou Tatsuya",
   "author": "Endou Tatsuya",
   "cover": "https://cdn.imgchest.com/files/dc3b31e704a0.png",
+  "year": 2017,
+  "tags": [
+    "Action",
+    "Comédie",
+    "Fantasy",
+    "Monstres"
+  ],
   "os": true,
   "chapters": {
     "0": {

@@ -5,6 +5,15 @@
   "artist": "Itabashi Daisuke",
   "author": "Itabashi Daisuke",
   "cover": "https://cdn.imgchest.com/files/1b500f6b6584.jpg",
+  "year": 2023,
+  "tags": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Monstres",
+    "Arts martiaux",
+    "Post-apocalyptique"
+  ],
   "chapters": {
     "1": {
       "title": "Chimère du Far East",

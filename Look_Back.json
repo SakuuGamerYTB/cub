@@ -5,6 +5,14 @@
   "artist": "Tatsuki Fujimoto",
   "author": "Tatsuki Fujimoto",
   "cover": "https://cdn.imgchest.com/files/f8a3531381b0.jpg",
+  "year": 2021,
+  "tags": [
+    "Thriller",
+    "Psychologique",
+    "Policier",
+    "Philosophique",
+    "Drame"
+  ],
   "os": true,
   "chapters": {
     "0": {

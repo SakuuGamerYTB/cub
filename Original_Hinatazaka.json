@@ -5,6 +5,15 @@
   "artist": "Aka Akasaka",
   "author": "Aka Akasaka",
   "cover": "https://cdn.imgchest.com/files/e3718c302339.jpg",
+  "year": 2021,
+  "tags": [
+    "Action",
+    "Comédie",
+    "Aventure",
+    "Isekai",
+    "Fantasy",
+    "Mystère"
+  ],
   "completed": true,
   "chapters": {
     "1": {

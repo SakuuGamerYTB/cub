@@ -5,6 +5,15 @@
   "artist": "Macchiro",
   "author": "Orval",
   "cover": "https://cdn.imgchest.com/files/11632f8b92b9.jpg",
+  "year": 2016,
+  "tags": [
+    "Psychologique",
+    "Aventure",
+    "Drame",
+    "Horreur",
+    "Fantasy",
+    "Monstres"
+  ],
   "completed": true,
   "chapters": {
     "1": {
