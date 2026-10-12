@@ -173,22 +173,6 @@
       "groups": {
         "ScanR, Manga-Corporation": "/proxy/api/imgchest/chapter/na7kjb6ak48"
       }
-    },
-    "22": {
-      "title": "",
-      "volume": "",
-      "last_updated": "1791785110",
-      "groups": {
-        "ScanR, Manga-Corporation": "https://img.teamscanr.fr/chapters/bocchi-the-rock-gaiden-hiroi-kikuri-no-nichijou/22/a7745b8edb.json"
-      }
-    },
-    "23": {
-      "title": "",
-      "volume": "",
-      "last_updated": "1791786059",
-      "groups": {
-        "ScanR, Manga-Corporation": "https://img.teamscanr.fr/chapters/bocchi-the-rock-gaiden-hiroi-kikuri-no-nichijou/23/c1657ca09a.json"
-      }
     }
   }
 }
