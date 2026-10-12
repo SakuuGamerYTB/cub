@@ -8,6 +8,7 @@ on:
     branches: [ "main", "develop" ]
     paths:
       - '**.json'
+      - 'index.js'
 
   # 2. Permet de lancer manuellement le workflow depuis l'onglet "Actions"
   workflow_dispatch:
