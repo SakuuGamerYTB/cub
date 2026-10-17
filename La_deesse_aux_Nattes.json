@@ -51,6 +51,14 @@
       "groups": {
         "ScanR": "https://img.teamscanr.fr/chapters/la-deesse-aux-nattes/5/804b03dda8.json"
       }
+    },
+    "6": {
+      "title": "La boîte aux lettres",
+      "volume": "1",
+      "last_updated": "1792257493",
+      "groups": {
+        "ScanR": "https://img.teamscanr.fr/chapters/la-deesse-aux-nattes/6/9fc69e5ba2.json"
+      }
     }
   }
 }
