@@ -90,6 +90,14 @@
       "groups": {
         "ScanR": "/proxy/api/imgchest/chapter/bp45qj5a245"
       }
+    },
+    "11": {
+      "title": "Dernière chance",
+      "volume": "",
+      "last_updated": "1792325770",
+      "groups": {
+        "ScanR": "https://img.teamscanr.fr/chapters/omori/11/1f36003aa6.json"
+      }
     }
   }
 }
