@@ -892,6 +892,14 @@
       "groups": {
         "ScanR": "/proxy/api/imgchest/chapter/na7kjx9pb48"
       }
+    },
+    "102": {
+      "title": "Celui qui porte l'anneau",
+      "volume": "11",
+      "last_updated": "1793048265",
+      "groups": {
+        "ScanR": "https://img.teamscanr.fr/chapters/les-sept-princesses-endormies/102/922ef498e0.json"
+      }
     }
   }
 }
