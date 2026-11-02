@@ -10,7 +10,7 @@
     "Slice of Life",
     "Tragédie"
   ],
-  "completed": false,
+  "os": true,
   "chapters": {
     "1": {
       "title": "La guerre de la lessive",
