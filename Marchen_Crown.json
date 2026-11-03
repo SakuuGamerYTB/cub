@@ -180,6 +180,14 @@
       "groups": {
         "ScanR": "/proxy/api/imgchest/chapter/pg736pglz7r"
       }
+    },
+    "21": {
+      "title": "La sorcière",
+      "volume": "",
+      "last_updated": "1793718685",
+      "groups": {
+        "ScanR": "https://img.teamscanr.fr/chapters/marchen-crown/21/3f12fdc722.json"
+      }
     }
   }
 }
