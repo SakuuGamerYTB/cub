@@ -9,5 +9,14 @@
     "Tragédie"
   ],
   "os": true,
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Toi et le Brandy électrique • Chapitre 0",
+      "volume": "",
+      "last_updated": "1794762975",
+      "groups": {
+        "ScanR": "https://img.teamscanr.fr/chapters/toi-et-le-brandy-electrique/0/e88ef7b779.json"
+      }
+    }
+  }
 }
