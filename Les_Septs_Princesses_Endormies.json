@@ -956,6 +956,14 @@
       "groups": {
         "ScanR": "https://img.teamscanr.fr/chapters/les-sept-princesses-endormies/109/1acc978c61.json"
       }
+    },
+    "110": {
+      "title": "Exfiltration de Rudbeckia",
+      "volume": "12",
+      "last_updated": "1795016648",
+      "groups": {
+        "ScanR": "https://img.teamscanr.fr/chapters/les-sept-princesses-endormies/110/770f68bd03.json"
+      }
     }
   }
 }
